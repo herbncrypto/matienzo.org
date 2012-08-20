@@ -1,0 +1,42 @@
+@media print {
+    body {
+        p {
+            font-family: $body-font;
+        }
+        header {
+            display: none !important;
+        }
+        #main {
+            #content {
+                .page-header {
+                    margin: 0;
+                    h1 {
+                       font-size: 24px;
+                    }
+                }
+                h3 {
+                    font-size: 24px;
+                }
+                span.label {
+                    display: none !important;
+                }
+                .unpublished {
+                    display: none !important;
+                }
+                blockquote {
+                    padding: 0 0 0 15px; 
+                    
+                }
+                ul {
+                    margin: 0 0 7px 25px;
+                    li {
+                        line-height: 18px;
+                    }
+                }
+                .page-break-before {
+                    page-break-before: always !important;
+                }
+            }
+        }
+    }
+}

@@ -8,3 +8,33 @@
 //$heading-font-family: "Verdana", sans-serif;
 //$header-title-font-family: "Futura", sans-serif;
 //$header-subtitle-font-family: "Futura", sans-serif;
+
+$body-font: "Franklin Gothic Book", "Verdana", sans-serif;
+
+body {
+    color: black;
+    p {
+        font-family: $body-font;
+    }
+    #main {
+        #content {
+            p {
+                font-size: 14px;
+            }
+            blockquote {
+                p {
+                    line-height: 18px;
+                }
+            }
+            ul {
+                li {
+                    font: 14px $body-font;
+                    line-height: 21px;
+                }
+            }
+            h2, h3, h4, h5, h6 {
+                margin-bottom: 0.5em;
+            }
+        }
+    }
+}
