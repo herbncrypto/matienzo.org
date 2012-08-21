@@ -5,7 +5,13 @@ footer: false
 sidebar: false
 ---
 
-### <span id="current">Current research projects</span>
+### <span id="current">Current projects</span>
+
+#### [ArchivesSpace](http://archivesspace.org/)
+
+A project to build a best of breed, next-generation archival management system to serve as the sucessor for [Archivists' Toolkit](http://archiviststoolkit.org/) and [Archon](http://archon.org/). Since July 2011, I have been the project's Technical Architect.
+
+In the summer of 2010, I organized a technical planning meeting for the ArchivesSpace planning grant and wrote a [report](http://www.archivesspace.org/documents/reports/ "ArchivesSpace Technical Architecture Report, July 2010") summarizing the recommended actions and decisions. 
 
 #### Application of digital forensics tools and methodologies in digital archives
 
@@ -13,7 +19,7 @@ sidebar: false
 * [DGI scripts for fiwalk](https://github.com/anarchivist/fiwalk-dgi)
 * A [dfxml gem](https://github.com/anarchivist/dfxml) for Ruby, to aid parsing Digital Forensics XML 
 * [Gumshoe](https://github.com/anarchivist/gumshoe), a Blacklight (Rails+Solr) interface to index/present/search metadata and content extracted from disk images
-* See my recent [presentations](presentations); namely ...
+* See my recent [presentations](presentations) ...
 
 #### Linked data and semantic web technologies for archives
 
@@ -49,12 +55,6 @@ Implementation of a single search of 1.4 million bibliographic records from 9 in
 
 * [Search Hub site](http://pachs.net/collections)
 * [Announcement](http://www.pachs.net/notes/20101026.html)
-
-#### ArchivesSpace technical architecture recommendations
-
-In the summer of 2010, I organized a technical planning meeting for the ArchivesSpace planning grant and wrote a report summarizing the recommended actions and decisions for a project that serves as a logical merge between Archivists' Toolkit and Archon. 
-
-* [ArchivesSpace Technical Architecture Report, July 2010](http://www.archivesspace.org/documents/reports/)
 
 #### ArchivesBlogs
 
