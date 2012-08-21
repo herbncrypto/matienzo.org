@@ -5,13 +5,6 @@ footer: false
 sidebar: false
 ---
 
-<div class="subnav">
-    <ul class="nav nav-pills">
-        <li><a href="#current">Current research projects</a></li>
-        <li><a href="#previous">Previous projects</a></li>
-    </ul>
-</div>
-
 ### <span id="current">Current research projects</span>
 
 #### Application of digital forensics tools and methodologies in digital archives

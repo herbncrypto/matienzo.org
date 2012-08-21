@@ -4,12 +4,11 @@ title: Mark A. Matienzo
 footer: false
 sidebar: false
 ---
-##### Brooklyn, NY — mark@matienzo.org
+##### Brooklyn, NY — <i class="icon-envelope"></i> mark@matienzo.org
 
 ### Education
 
 *Master of Science in Information* (Archives &amp; Records Management), University of Michigan, Ann Arbor, MI, 2004
-
 
 *Bachelor of Arts in Philosophy*, College of Wooster, Wooster, OH, 2001
 
@@ -68,12 +67,12 @@ sidebar: false
 
 ### Service
 
-**International**
+#### International
 
 * *Association of Canadian Archivists.* Guest Editor, Archivaria 72 (Fall 2011), Sep 2010 - Sep 2011.
 * *Society of American Archivists. Schema Development Team.* Committee Member. Mar 2010 - Present.
 
-**National**
+#### National
 
 * *BitCurator.* Development Advisory Group Member. Oct 2011 - Present.
 * *Institute for Museum and Library Services.* Peer Reviewer. 2010 and 2011.
@@ -91,7 +90,7 @@ sidebar: false
 * *Society of American Archivists. Technical Subcommittee on Descriptive Standards. Committee Member.* Sep 2007 - Aug 2009.
 * *Society of American Archivists. Website Working Group.* Member. Sep 2007 - Aug 2009.
 
-**Institutional**
+#### Institutional
 
 * *Yale University. Office of Digital Assets and Infrastructure. Digital Preservation Planning Committee.* May 2010 - Apr 2012.
 * *Yale University Library. Finding Aids Coordinating Committee.* Aug 2010 - Present.
@@ -101,6 +100,12 @@ sidebar: false
 ### Publications
 
 {% render_partial publications/index.markdown %}
+
+### Presentations
+
+{% render_partial presentations/index.markdown %}
+
+
 
 ### Training and Continuing Education
 
