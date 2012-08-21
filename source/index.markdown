@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mark A. Matienzo
+title: About
 footer: true
 sidebar: false
 ---
