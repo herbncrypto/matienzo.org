@@ -39,11 +39,11 @@ sidebar: false
 
 > Developer for projects integrating library and archival data and metadata in structured and semi-structured forms. Drupal development (modules, views, content types, data migration) for the Library's website. Implementation of a multiple instance Solr deployment for searching and indexing content within Drupal.
 
-<span class="label label-info"><i class="icon-time"></i> Part-Time</span> *Adjunct Professor*, Palmer School of Library and Information Science, Long Island University (Sep 2009 - Dec 2009)
+<span class="label label-info"><i class="icon-time"></i> Part-Time</span> *Adjunct Professor*, Palmer School of Library &amp; Information Science, Long Island University (Sep 2009 - Dec 2009)
 
 > Instructor of LIS 901-08 Building Digital Libraries: Infrastructural and Social Aspects (taught Fall 2009).
 
-<span class="label label-success"><i class="icon-time"></i> Full-Time</span> *Assistant Archivist*, Bohr Library & Archives, American Institute of Physics, College Park, MD (Mar 2006 - May 2008)
+<span class="label label-success"><i class="icon-time"></i> Full-Time</span> *Assistant Archivist*, Niels Bohr Library, American Institute of Physics, College Park, MD (Mar 2006 - May 2008)
 
 > Appraisal and arrangement of archival collections. DACS-compliant archival description in MARC21 and EAD; authority control and service as NACO liaison. Led test implementation of Archivists' Toolkit. Database administration (Access, Oracle, Sybase) and programming (Python, SQL, XSLT, Perl). In person, telephone, and electronic reference.
 
