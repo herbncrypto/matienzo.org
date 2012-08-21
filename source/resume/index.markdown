@@ -18,6 +18,10 @@ sidebar: false
     
 > Technical lead and product owner on Andrew W. Mellon Foundation-funded project to develop a new, best-of-breed open source archival management system merging functionality of Archivists' Toolkit and Archon. Responsible for leading review and revision process of functional specifications, development of data model, creation of technical documentation and architectural recommendations, and assessment of potential vendors for programming fulfillment.
 
+<span class="label label-info"><i class="icon-time"></i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - Present)
+
+> Instructor of INFO 756: Digital Preservation (taught Fall 2011, Spring 2012, Fall 2012).
+
 <span class="label label-success"><i class="icon-time"></i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)
 
 > Development and implementation of workflows of born-digital archival material. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Responsible for analysis, integration, and presentation of collections-related metadata in a variety of forms. Portion of time seconded to ArchivesSpace (see above).
@@ -34,6 +38,10 @@ sidebar: false
 <span class="label label-success"><i class="icon-time"></i> Full-Time</span> *Applications Developer*, Digital Experience Group, New York Public Library, New York, NY (Jun 2008 - Jan 2010)
 
 > Developer for projects integrating library and archival data and metadata in structured and semi-structured forms. Drupal development (modules, views, content types, data migration) for the Library's website. Implementation of a multiple instance Solr deployment for searching and indexing content within Drupal.
+
+<span class="label label-info"><i class="icon-time"></i> Part-Time</span> *Adjunct Professor*, Palmer School of Library and Information Science, Long Island University (Sep 2009 - Dec 2009)
+
+> Instructor of LIS 901-08 Building Digital Libraries: Infrastructural and Social Aspects (taught Fall 2009).
 
 <span class="label label-success"><i class="icon-time"></i> Full-Time</span> *Assistant Archivist*, Bohr Library & Archives, American Institute of Physics, College Park, MD (Mar 2006 - May 2008)
 
