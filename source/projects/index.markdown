@@ -24,6 +24,7 @@ sidebar: false
 ### <span id="software">Software project contributions</span>
 
 * See [Github](http://github.com/anarchivist) for most recent work.
+* [BHS MARCXML Importer](http://wordpress.org/extend/plugins/bhs-marcxml-importer/): WordPress plugin to import MARCXML records as posts
 * [pymarc](https://github.com/edsu/pymarc): Python module for working with MARC21 data in ISO2709 and MARCXML form
 * [Kochief](http://code.google.com/p/kochief/): a discovery interface for local and remote collections, built on Solr and Django
 * [worldcat](https://github.com/anarchivist/worldcat): Python module for interacting with OCLC's WorldCat APIs, including the WorldCat Search API, the WorldCat Registry API and the xID APIs (xISBN, xISSN, and xOCLCNUM).
