@@ -4,7 +4,7 @@ title: Mark A. Matienzo
 footer: false
 sidebar: false
 ---
-##### Brooklyn, NY — <i class="icon-envelope"></i> mark@matienzo.org
+##### Brooklyn, NY — <i class="icon-envelope"></i> mark@matienzo.org — <i class="icon-link"></i> www.matienzo.org
 
 ### Education
 
@@ -90,9 +90,9 @@ sidebar: false
 * *National Endowment for the Humanities.* Peer Reviewer, 2011.
 * *National Historical Publications and Records Commission.* Peer Reviewer, 2009 and 2011.
 * *OCLC Research. RLG Programs.* Barriers to Using EAD Working Group. Nov 2008 - Mar 2010.
-* *OCLC Research. RLG Programs.* Sharing and Aggregating Social Metadata Working Group, Jan 2009 - Aug 2009.
+* *OCLC Research. RLG Programs.* Sharing &amp; Aggregating Social Metadata Working Group, Jan 2009 - Aug 2009.
 * *Society of American Archivists. Description Section.* Co-Chair. Aug 2006 - Aug 2008.
-* *Society of American Archivists. Digital Archives Specialist Curriculum Subcommittee.* Committee Member. Jul 2011 - Present.
+* *Society of American Archivists. Digital Archives Specialist Curriculum Subcommittee.* Committee Member. Jul 2011 - August 2012.
 * *Society of American Archivists.* Electronic Records Section. Steering Committee. Aug 2010 - Aug 2011 and Aug 2012 - Present.
 * *Society of American Archivists.* Encoded Archival Description Roundtable. Co-Chair. Aug 2010 - Aug 2012.
 * *Society of American Archivists. Metadata and Digital Object Roundtable.* Web Liaison. Aug 2006 - Aug 2011.
@@ -115,6 +115,7 @@ sidebar: false
 
 {% render_partial presentations/index.markdown %}
 
+<div class="page-break-before"></div>
 ### Training and Continuing Education
 
 * *Appraisal of Electronic Records,* Society of American Archivists, May 2012.
