@@ -59,8 +59,10 @@ sidebar: false
 ### Skills
 
 * Natural Languages: Spoken and written English; reading knowledge of French and Latin.
+* Programming Languages: Ruby, Python, PHP, SQL, Unix shell scripts, Perl, Java.
 * Applications: Microsoft Office, Adobe Photoshop, Adobe Acrobat, Archivists' Toolkit.
-* Programming: Languages, Python, PHP, SQL, Unix shell scripts, Perl, Java.
+* Disk imaging: FTK Imager, Guymager, KryoFlux, Catweasel, FC5025.
+* Forensic analysis: The Sleuth Kit, fiwalk, Forensic Toolkit.
 * Web Frameworks/Content Management Systems: Rails, Sinatra, Drupal, Django, web.py, WordPress.
 * Operating Systems: Linux, Mac OS X, Windows, Free/Net/OpenBSD, Solaris, VMS.
 * Database Systems/Persistence: MySQL, Postgres, MongoDB, Oracle, Access.
