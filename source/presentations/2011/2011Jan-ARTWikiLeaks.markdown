@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Remarks from WikiLeaks & the Archives and Records Professions 
-footer: true
+footer: false
 sidebar: false
 date: 2011-01-25
 ---
@@ -28,3 +28,5 @@ A further complication is that WikiLeaks releases documents that are divorced fr
  [4]: http://wikileaks.ch/About.html
  [5]: https://www.eff.org/deeplinks/2010/12/fbi-arbitrarily-covers-evidence-misconduct
  [6]: http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian?currentPage=all
+
+ {% include cc-by-sa.html %}

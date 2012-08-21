@@ -375,3 +375,5 @@ Potential topics for discussion:
 *   Final class.
 *   Presentations of final projects, continued.
 *   Tying up any loose ends.
+
+{% include cc-by-sa.html %}
