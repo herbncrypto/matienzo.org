@@ -9,9 +9,7 @@ sidebar: false
 
 #### <i class="icon-link"></i> [ArchivesSpace](http://archivesspace.org/)
 
-A project to build a best of breed, next-generation archival management system to serve as the sucessor for [Archivists' Toolkit](http://archiviststoolkit.org/) and [Archon](http://archon.org/). Since July 2011, I have been the project's Technical Architect.
-
-In the summer of 2010, I organized a technical planning meeting for the ArchivesSpace planning grant and wrote a [report](http://www.archivesspace.org/documents/reports/ "ArchivesSpace Technical Architecture Report, July 2010") summarizing the recommended actions and decisions. 
+A project to build a best of breed, next-generation archival management system to serve as the sucessor for [Archivists' Toolkit](http://archiviststoolkit.org/) and [Archon](http://archon.org/). Since July 2011, I have been the project's Technical Architect. In the summer of 2010, I organized a technical planning meeting for the ArchivesSpace planning grant and wrote a [report](http://www.archivesspace.org/documents/reports/ "ArchivesSpace Technical Architecture Report, July 2010") summarizing the recommended actions and decisions. 
 
 #### Application of digital forensics tools and methodologies in digital archives
 
