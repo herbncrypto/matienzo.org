@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  <head>
+    <title>how to set up unmaintainable indexing workflows</title>
+    <!-- metadata -->
+    <meta name="generator" content="S5" />
+    <meta name="version" content="S5 1.1" />
+    <meta name="presdate" content="20070301" />
+    <meta name="author" content="Mark A. Matienzo" />
+    <meta name="company" content="American Institute of Physics" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="googlebot" content="noindex, nofollow" />
+    <!-- configuration parameters -->
+    <meta name="defaultView" content="slideshow" />
+    <meta name="controlVis" content="hidden" />
+    <!-- style sheet links -->
+    <link rel="stylesheet" href="../ui/i18nmod/slides.css" type="text/css" media="projection" id="slideProj" />
+    <link rel="stylesheet" href="../ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+    <link rel="stylesheet" href="../ui/i18nmod/print.css" type="text/css" media="print" id="slidePrint" />
+    <link rel="stylesheet" href="../ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+    <!-- S5 JS -->
+    <script src="../ui/default/slides.js" type="text/javascript"></script>
+  </head>
+  <body>
+    
+    <div class="layout">
+
+      <div id="currentSlide"><!-- DO NOT EDIT --></div>
+      <div id="header"></div>
+      <div id="footer">
+        <h1>code4lib 2007</h1>
+        <h2>mark a. matienzo</h2>
+        <div id="controls"><!-- DO NOT EDIT --></div>
+      </div>
+      
+    </div>
+    
+    
+    <div class="presentation">
+      
+      <div class="slide">
+        <h1>planning for disaster</h1>
+        <h2>how to set up unmaintainable indexing workflows</h2>
+        <h3>mark a. matienzo</h3>
+        <h4>center for history of of physics</h4>
+        <h4>american institute of physics</h4>
+      </div>
+      
+      <div class="slide">
+        <h1>background</h1>
+        <ul>
+          <li><b>disclaimer:</b> opinions expressed are mine alone and don't reflect those of CHP or AIP</li>
+          <li>CHP has an archives, but we have little space</li>
+          <li>one of our main responsibilities is coordinating placement of collections</li>
+          <li>even though we don't keep the collections, we maintain metadata</li>
+          <li>ICOS: MARC data served through Horizon</li>
+          <li>PHFAWS: EAD/HTML/PDF finding aids</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>background: PHFAWS</h1>
+        <ul>
+          <li><a href="http://aip.org/history/ead/" target="_new">http://aip.org/history/ead/</a></li>
+          <li>goal: create searchable index of finding aids for history of physics, etc. collections</li>
+          <li>contains both finding aids for CHP held collections and ones held by other archives</li>
+          <li>originates in early collaborative EAD project (ca. 1999)</li>
+          <li>we still host a few finding aids for other archives</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>background: indexing</h1>
+        <ul>
+          <li>we were pushed to use Verity (AIP had lock-in already)</li>
+          <li>it never really worked well over a period of 4 years</li>
+          <li>2 or 3 months ago we began to rethink the process</li>
+          <li>BUT we still had to use verity, and we couldn't run the indexer ourselves</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>implementation (1)</h1>
+        <ul>
+          <li>we created XML file which contains URLs of finding aids we wanted to index: <a href="http://www.aip.org/history/ead/ead_urls.xml" target="_new">http://www.aip.org/history/ead/ead_urls.xml</a> <a href="ead_urls.jpg">*</a></li>
+          <li>browse page created from this file via XSLT: <a href="http://www.aip.org/history/ead/browse.html">http://www.aip.org/history/ead/browse.html</a> <a href="eadbrowse.jpg">*</a></li>
+          <li>redirects (needed by verity) created via XSLT</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>implementation (2)</h1>
+        <ul>
+          <li>we were told that verity could parse this file</li>
+          <li>in reality, it was used to create (via XSLT) a <b>bash script</b> to call indexer</li>
+          <li>we still couldn't run indexer ourselves</li>
+          <li>"solution": someone created a CGI perl script where we could "just click a button" to run bash script</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>end product?</h1>
+        <img src="garage.jpg" style="width: 50%; align: center;"/>
+        <p>credit: this old house home inspection nightmares</p>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>problems</h1>
+        <ul>
+          <li>transforms are done manually</li>
+          <li>if we don't remember to run transform, then indexer won't add new data</li>
+          <li>we still can't debug indexer problems ourselves</li>
+          <li>CGI page not behind firewall (potential DoS vulnerabilty)</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      
+    </div>
+    
+  </body>
+</html>

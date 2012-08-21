@@ -1,0 +1,104 @@
+/* Following are the presentation styles -- edit away!
+   Note that the 'body' font size may have to be changed if the resolution is
+    different than expected. */
+
+body {background: #000; color: #fff; font: bold 29px monospace ;}
+a {text-decoration: none; color: #eee; border-bottom: 1px dotted;}
+h1, h2, h3, h4, h5, h6 {font-size: 1em; margin: 0;}
+sup {font-size: 0.75em; font-weight: normal;
+  vertical-align: 0.5em; line-height: 1px;}
+ul {margin-left: 1em; padding-left: 0;}
+li {margin-bottom: 0.66em;}
+li li {margin: 0.33em 0; font-size: smaller;}
+
+#header {background: url(bg-shade.png); border-bottom: 1px solid #333;
+  padding-bottom: 2em;}
+#footer {background: url(bg-shade.png); color: #BBB; border-top: 1px solid #333;}
+#header, #footer {font-size: 0.5em;}
+#footer h1, #footer h2 { padding: 0.5em 0.75em; }
+#footer h1 {left: 0; font-size: 1em; letter-spacing: 1px;}
+#footer h2 {position: absolute; bottom: 0; right: 0;}
+
+#controls #navLinks a {padding: 0; margin: 0 0.5em; border: none; color: #777; 
+  cursor: pointer;}
+#controls #navList {height: 1em;}
+#controls #navList #jumplist {position: absolute; bottom: 0; right: 0; background: #DDD; color: #222;}
+#controls select {visibility: hidden;}
+#controls div:hover select {visibility: visible;}
+
+#currentSlide {font-size: 0.5em;}
+#currentSlide span {font-size: 13px; color: #999;}
+#currentSlide #csSep {display: none;}
+#currentSlide #csHere {font-weight: bold;}
+#currentSlide #csHere:before {content: "#"; font-weight: normal;}
+#currentSlide #csTotal:before {content: " of ";}
+
+.slide h1 {font-size: 1.66em; line-height: 1; letter-spacing: -1px;
+  margin: 0 -15% 1em 0; padding: 0.25em 15% 0.06125em 0; border-bottom: 0.06125em solid #333;}
+#slide0 h1 {border: none; font-size: 2.25em; letter-spacing: 0; margin: 3em 0 1.5em;}
+#slide0 h3 {margin-bottom: 0;}
+#slide0 h4 {margin-top: 0; font-size: smaller;}
+
+.slide h1.ctr {border: none; font-size: 2.25em; letter-spacing: 0; margin: 3em 0 3em; text-align: center;}
+
+.highlight { font-size: .5em; }
+.c { color: #808080 } /* Comment */
+.err { color: #F00000; background-color: #F0A0A0 } /* Error */
+.k { color: #008000; font-weight: bold } /* Keyword */
+.o { color: #666666; } /* Operator */
+.cm { color: #808080 } /* Comment.Multiline */
+.cp { color: #507090 } /* Comment.Preproc */
+.c1 { color: #808080 } /* Comment.Single */
+.cs { color: #cc0000; font-weight: bold } /* Comment.Special */
+.gd { color: #A00000 } /* Generic.Deleted */
+.ge { font-style: italic } /* Generic.Emph */
+.gr { color: #FF0000 } /* Generic.Error */
+.gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.gi { color: #00A000 } /* Generic.Inserted */
+.go { color: #808080 } /* Generic.Output */
+.gp { color: #c65d09; font-weight: bold } /* Generic.Prompt */
+.gs { font-weight: bold } /* Generic.Strong */
+.gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.gt { color: #0040D0 } /* Generic.Traceback */
+.kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.kp { color: #003080; font-weight: bold } /* Keyword.Pseudo */
+.kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.kt { color: #303090; font-weight: bold } /* Keyword.Type */
+.m { color: #6000E0; font-weight: bold } /* Literal.Number */
+.s { color: #ff0033 } /* Literal.String */
+.na { color: #0000C0 } /* Name.Attribute */
+.nb { color: #007020 } /* Name.Builtin */
+.nc { color: #B00060; font-weight: bold } /* Name.Class */
+.no { color: #003060; font-weight: bold } /* Name.Constant */
+.nd { color: #505050; font-weight: bold } /* Name.Decorator */
+.ni { color: #800000; font-weight: bold } /* Name.Entity */
+.ne { color: #F00000; font-weight: bold } /* Name.Exception */
+.nf { color: #0060B0; font-weight: bold } /* Name.Function */
+.nl { color: #907000; font-weight: bold } /* Name.Label */
+.nn { color: #0e84b5; font-weight: bold } /* Name.Namespace */
+.nt { color: #007000 } /* Name.Tag */
+.nv { color: #906030 } /* Name.Variable */
+.ow { color: #99cccc; font-weight: bold } /* Operator.Word */
+.w { color: #bbbbbb } /* Text.Whitespace */
+.mf { color: #6000E0; font-weight: bold } /* Literal.Number.Float */
+.mh { color: #005080; font-weight: bold } /* Literal.Number.Hex */
+.mi { color: #0000D0; font-weight: bold } /* Literal.Number.Integer */
+.mo { color: #4000E0; font-weight: bold } /* Literal.Number.Oct */
+.sb { color: #ff0033 } /* Literal.String.Backtick */
+.sc { color: #0040D0 } /* Literal.String.Char */
+.sd { color: #D04020 } /* Literal.String.Doc */
+.s2 { color: #ff0033 } /* Literal.String.Double */
+.se { color: #606060; font-weight: bold; color: #ff0033 } /* Literal.String.Escape */
+.sh { color: #ff0033 } /* Literal.String.Heredoc */
+.si { color: #000000; background-color: #e0e0e0 } /* Literal.String.Interpol */
+.sx { color: #ff0033 } /* Literal.String.Other */
+.sr { color: #000000; background-color: #fff0ff } /* Literal.String.Regex */
+.s1 { color: #ff0033 } /* Literal.String.Single */
+.ss { color: #A06000 } /* Literal.String.Symbol */
+.bp { color: #007020 } /* Name.Builtin.Pseudo */
+.vc { color: #306090 } /* Name.Variable.Class */
+.vg { color: #d07000; font-weight: bold } /* Name.Variable.Global */
+.vi { color: #3030B0 } /* Name.Variable.Instance */
+.il { color: #0000D0; font-weight: bold } /* Literal.Number.Integer.Long */
+

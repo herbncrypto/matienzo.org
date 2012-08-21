@@ -105,8 +105,6 @@ sidebar: false
 
 {% render_partial presentations/index.markdown %}
 
-
-
 ### Training and Continuing Education
 
 * *Appraisal of Electronic Records,* Society of American Archivists, May 2012.
@@ -114,7 +112,7 @@ sidebar: false
 * *Designing Archival Description Systems,* Rare Book School, University of Virginia, Jul 2009.
 * *PREMIS Data Dictionary Workshop,* Library of Congress, Jun 2007.
 * *NACO Name Authority Institute,* Library of Congress, Nov 2006.
-* *Describing Archives: A Content Standard,* Society of American Archivists, Oct * *2006.
+* *Describing Archives: A Content Standard,* Society of American Archivists, Oct 2006.
 * *Introduction to Grant Writing,* Smithsonian Institution, Nov 2005.
 
 ### Awards and Honors

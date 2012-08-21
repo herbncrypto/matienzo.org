@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>archivists' toolkit</title>
+<!-- metadata -->
+<meta name="generator" content="S5" />
+<meta name="version" content="S5 1.1" />
+<meta name="presdate" content="20080227" />
+<meta name="author" content="Mark A. Matienzo" />
+<meta name="company" content="American Institute of Physics" />
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link rel="stylesheet" href="../ui/i18nmod/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="../ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="../ui/i18nmod/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="../ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+<!-- S5 JS -->
+<script src="../ui/default/slides.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="layout">
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header"></div>
+<div id="footer">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<h1>code4lib 2008</h1>
+<h2>archivists' toolkit</h2>
+</div>
+
+</div>
+
+
+<div class="presentation">
+
+<div class="slide">
+<h1>archivists' toolkit ...</h1>
+<h3>... or, how anarchivist got his groove back</h3>
+<h4>mark matienzo, american institute of physics</h4>
+</div>
+
+
+<div class="slide">
+<h1>what is it?</h1>
+<ul>
+<li>open source (ECL) relational database application for "back office" archival functions (arrangement, description, ...)</li>
+<li>two phase project funded by mellon foundation</li>
+<li>java (swing, hibernate, jaxb, jasperreports ...)</li>
+<li>support for mysql, mssql, and oracle backends</li>
+<li>promotes standardization (DACS/ISAD(G), ISAAR(CPF) ...) and efficiency</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1 style="visibility: hidden !important; margin: 0; padding: 0;">i can reyoose metadatas?</h1>
+<div style="text-align: center; margin-top: -10px"><img src="20080227/archivescat.jpg" alt="i in ur archives" style="text-align: center;"/></div>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1>even better...</h1>
+<ul>
+<li>centralized way to create/maintain metadata for archival resources</li>
+<li>ingests MARCXML, EAD, AT accessions XML, CSV accessions info</li>
+<li>exports MARCXML, EAD, MODS, METS, DC, HTML, PDF</li>
+<li>what does this mean? no more handcoding EAD!</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1>primary modules</h1>
+<ul>
+<li>name/subject authorities</li>
+<li>accessions</li>
+<li>description ("resources")</li>
+<li>metamodules: ingest, export, reports</li> 
+
+</ul>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1 style="visibility: hidden !important; margin: -20px; padding: 0;">screenshot of names module</h1>
+<div style="text-align: center; margin-top: -10px"><a href="names.png" target="_new" style="text-decoration: none; border: none;"><img src="20080227/names.png" style="height: 575px; border: 0px; "/></a></div>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1 style="visibility: hidden !important; margin: -20px; padding: 0;">screenshot of accessions module</h1>
+<div style="text-align: center; margin-top: -10px"><a href="accessions.png" target="_new" style="text-decoration: none; border: none;"><img src="20080227/accessions.png" style="height: 575px; border: 0px; "/></a></div>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1 style="visibility: hidden !important; margin: -20px; padding: 0;">screenshot of resources module</h1>
+<div style="text-align: center; margin-top: -10px"><a href="resources.png" target="_new" style="text-decoration: none; border: none;"><img src="20080227/resources.png" style="height: 575px; border: 0px; "/></a></div>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>how does $MPOW use it?</h1>
+<ul>
+<li>originally planned just to use description module</li>
+<ul><li>our EAD workflow was complicated and messy</li>
+<li>it used excel, access AND handcoding</li></ul>
+<li>decided to use accessions module too</li> 
+<ul><li>existing ms access 2000 accessions/user tracking database</li>
+<li>in use since 1999</li>
+<li>less than ideal in many ways, but we had no other motivation to change until now</li>
+</ul>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1>the fun part: importing a legacy database</h1>
+<ul>
+<li>had fields that didn't map directly to AT</li>
+<li>required planning meetings to figure out what stayed/went and where it should go</li>
+<li>mapping: method: good old pen &amp; paper</li>
+<li>import process (post-mapping)</li>
+<ul>
+<li>used CSV dump of access database</li>
+<li>imported several times to test</li>
+<li>from planning to final import: &lt; 10 days</li>
+</ul>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1>gotchas</h1>
+<ul>
+<li>think carefully about data cleanup</li>
+<li>still many subtle bugs</li>
+<li>you can only import one MARCXML record at a time</li>
+<li>CSV is not preferred accessions import format (AT dev team pushes XML format)</li>
+<li>no way to import location information directly (maybe by SQL)
+<li>breaking apart name headings is hard! (dark regex magic from the dark archives)</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+<div class="slide">
+<h1>in summary</h1>
+<ul>
+<li>software rapidly maturing</li>
+<li>dev team is extremely accessible and cooperative</li>
+<li>... and they're looking for a new staff developer</li>
+<li><a href="http://www.archiviststoolkit.org/">www.archiviststoolkit.org</a></li>
+<li>mark@matienzo.org</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+</div>
+</body>
+</html>

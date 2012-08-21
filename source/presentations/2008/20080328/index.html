@@ -1,0 +1,374 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>EPODe: Extensible Platform for Oral History Delivery</title>
+<!-- metadata -->
+<meta name="generator" content="S5" />
+<meta name="version" content="S5 1.1" />
+<meta name="presdate" content="20080328" />
+<meta name="author" content="Mark A. Matienzo" />
+<meta name="company" content="American Institute of Physics" />
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link rel="stylesheet" href="../ui/black/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="../ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="../ui/i18nmod/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="../ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+<!-- S5 JS -->
+<script src="../ui/default/slides.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="layout">
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header">
+</div>
+<div id="footer">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<h1>28 March 2008</h1>
+<h2>Mark A. Matienzo</h2>
+</div>
+
+</div>
+
+
+<div class="presentation">
+
+<div class="slide">
+<h1>EPODe: Extensible Platform for Oral History Delivery</h1>
+<h3>Mark A. Matienzo</h3>
+<h4>American Institute of Physics</h4>
+</div>
+
+
+<div class="slide">
+<h1>Who Am I?</h1>
+<ul>
+<li>Trained archivist</li>
+<li>Library geek</li>
+<ul>
+<li>...and archives geek</li>
+<li>...and history geek</li>
+</ul>
+<li>Open source developer</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Where Do I Work?</h1>
+<ul>
+<li>American Institute of Physics</li>
+<li>Niels Bohr Library and Archives</li>
+<li>Mission: <em>"to help preserve and make known the history of modern physics and allied sciences"</em></li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>What Do I Do?</h1>
+<ul>
+<li>Archival arrangement and description</li>
+<li>Cataloging for bibliographic and authority control</li>
+<li>Reference</li>
+<li>Development and database/systems administration</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Oral History at AIP</h1>
+<ul>
+<li>Largest collection in its subject area (over 3000 hours of interviews)</li>
+<li>Most heavily used part of our collections</li>
+<li>Received an NEH grant in 2007 to digitize transcripts and provide audio clips</li>
+<li>Beginning to look into ways to improve content delivery</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>My Project</h1>
+<ul>
+<li>Develop an extensible platform for oral history transcripts</li>
+<li>Provide in-house requested features: commenting, etc.</li>
+<li>Improve access further: searching, exposure of metadata</li>
+<li>Have a nearly complete and functional mockup while adhering to a set of pre-defined constraints</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Constraints</h1>
+<ul>
+<li>Extremely short time frame</li>
+<li>Integrate with existing workflow</li>
+<li>Migrate completed online transcripts</li>
+<li>Don't reinvent the wheel/write as little code as possible</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>EPODe Features</h1>
+<ul>
+<li>Normal blog features (comments, trackbacks)</li>
+<li>Keyword, author, and subject searching</li>
+<li>Faceted browsing</li>
+<li>Metadata for interviews in five formats
+<ul>
+<li>MODS</li>
+<li>MARCXML</li>
+<li>OAI Dublin Core</li>
+<li>SRW Dublin Core</li>
+<li>RSS</li>
+</ul>
+</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Components and Dependencies</h1>
+<ul>
+<li>WordPress
+<ul>
+<li>Apache</li>
+<li>MySQL</li>
+<li>PHP</li>
+</ul></li>
+<li>Scriblio (OPAC plugin for WordPress)
+<ul>
+<li>bSuite</li>
+<li>PHP_MARC</li>
+</ul></li>
+<li>unAPI Server (plugin)</li>
+<li>Miscellaneous scripts &amp; utilities (e.g. MarcEdit)</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Customization</h1>
+<ul>
+<li>Scriblio MARC importer
+<ul>
+<li>Indexing of specific fields</li>
+<li><strike>Harvesting</strike> Screenscraping code to grab existing online transcripts and pull photos of interviewees</li>
+</ul></li>
+<li>unAPI Server
+<ul>
+<li>Pulling metadata from Scriblio instead of default WordPress sources</li>
+<li>Serving metadata for only Scriblio records/transcripts, not regular pages/posts</li>
+</ul></li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Workflow</h1>
+<ul>
+<li>Export MARC record(s) from ILS</li>
+<li>Convert records to UTF-8 (MarcEdit, yaz-marcdump, etc.)</li>
+<li>Import records to Scriblio
+<li>Paste in transcript if not online</li>
+<li>Rebuild indexes</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Exporting MARC records</h1>
+<ul>
+<li>SQL
+<div class="highlight"><pre><span class="k">SELECT</span> <span class="n">bib</span><span class="o">#</span> <span class="k">FROM</span> <span class="n">bib</span> <span class="k">WHERE</span> <span class="n">tag</span><span class="o">=</span><span class="ss">&quot;856&quot;</span> <span class="k">AND</span> <span class="nb">text</span> <span class="k">LIKE</span> <span class="ss">&quot;http://www.aip.org/history/ohilist&quot;</span>
+</pre></li>
+<li>Python
+<div class="highlight"><pre><span class="k">from</span> <span class="nn">pymarc</span> <span class="k">import</span> <span class="n">MARCReader</span><span class="p">,</span> <span class="n">MARCWriter</span>
+<span class="n">reader</span> <span class="o">=</span> <span class="n">MARCReader</span><span class="p">(</span><span class="nb">file</span><span class="p">(</span><span class="n">marcin</span><span class="p">))</span>
+<span class="n">writer</span> <span class="o">=</span> <span class="n">MARCWriter</span><span class="p">(</span><span class="nb">file</span><span class="p">(</span><span class="n">marcout</span><span class="p">,</span> <span class="s">&#39;w&#39;</span><span class="p">))</span>
+<span class="n">recordcounter</span> <span class="o">=</span> <span class="mf">0</span>
+<span class="k">for</span> <span class="n">record</span> <span class="ow">in</span> <span class="n">reader</span><span class="p">:</span>
+    <span class="k">if</span> <span class="n">record</span><span class="p">[</span><span class="s">&#39;856&#39;</span><span class="p">]</span> <span class="ow">is</span> <span class="ow">not</span> <span class="bp">None</span><span class="p">:</span>
+        <span class="k">for</span> <span class="n">field</span> <span class="ow">in</span> <span class="n">record</span><span class="o">.</span><span class="n">get_fields</span><span class="p">(</span><span class="s">&#39;856&#39;</span><span class="p">):</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="k">if</span> <span class="s">&#39;http://www.aip.org/history/ohilist&#39;</span> <span class="ow">in</span> <span class="n">field</span><span class="p">[</span><span class="s">&#39;u&#39;</span><span class="p">]:</span>
+                <span class="k">print</span> <span class="n">field</span><span class="p">[</span><span class="s">&#39;u&#39;</span><span class="p">]</span>
+                <span class="n">writer</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">record</span><span class="p">)</span>
+                <span class="n">recordcounter</span> <span class="o">+=</span> <span class="mf">1</span>
+        <span class="k">except</span><span class="p">:</span>
+            <span class="k">pass</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">pass</span>
+<span class="n">writer</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre></div>
+</div>
+
+
+<div class="slide">
+<h1>Import Process Detail</h1>
+<ul>
+<li>Create skeletal post and metadata from MARC record
+<ul><li>Participants: 1xx/7xx</li>
+<li>Title: 245</li>
+<li>Post creation date: 245$f or 008</li>
+<li>Abstract: 520</li>
+<li>Tags: 1xx, 6xx, 7xx</li>
+<li>Post slug: 999$a</li></ul></li>
+<li>Grab transcript if online using cURL and insert into post
+<ul><li>If not available, add "Missing Transcript" tag</li></ul></li>
+<li>Grab photo URL if in transcript, otherwise make a reasonable guess using 1xx$a and $q</li>
+</ul>
+</div>
+
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Sample MARC Record</h1>
+<div class="highlight" style="font-size: .4em;"><pre><span class="gp">=</span><span class="cp">LDR</span>  <span class="kp">01435npcaa2200349 a 4500</span>
+<span class="gp">=</span><span class="nl">005</span>  <span class="kp">20080228121100.0</span>
+<span class="gp">=</span><span class="nl">008</span>  <span class="kp">970114s1990||||mdu\\\\\|\\\\\\\\\\\eng|d</span>
+<span class="gp">=</span><span class="nl">035</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>(NNAIP)IC33334</span>
+<span class="gp">=</span><span class="nl">040</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>MdCpAIP<span class="o">$c</span>MdCpAIP<span class="o">$e</span>appm</span>
+<span class="gp">=</span><span class="nl">090</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>OH30131</span>
+<span class="gp">=</span><span class="nl">100</span>  <span class="li">1\</span>  <span class="sd"><span class="o">$a</span>Crane, H. R.<span class="o">$q</span>(Horace Richard),<span class="o">$d</span>1907-</span>
+<span class="gp">=</span><span class="nl">245</span>  <span class="li">10</span>  <span class="sd"><span class="o">$a</span>Oral history interview with H. R. Crane,<span class="o">$f</span>1990 June 29.</span>
+<span class="gp">=</span><span class="nl">300</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>1 session</span>
+<span class="gp">=</span><span class="nl">300</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>Transcript, 9 pp.</span>
+<span class="gp">=</span><span class="nl">500</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>Interview conducted by Charles F. Atchley, 29 June 1990.</span>
+<span class="gp">=</span><span class="nl">520</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>Primarily focusses on Crane's neutrino detection experiments, 1935-1948.</span>
+<span class="gp">=</span><span class="nl">540</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>Oral History Interview may be read and quoted by any researcher with an access application on file,
+            and excerpts may be copied.</span>
+<span class="gp">=</span><span class="nl">590</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>Included in the American Institute of Physics' International Catalog of Sources for History of Physics
+            and Allied Sciences.</span>
+<span class="gp">=</span><span class="nl">650</span>  <span class="li">\0</span>  <span class="sd"><span class="o">$a</span>Neutrinos<span class="o">$x</span>Experiments.</span>
+<span class="gp">=</span><span class="nl">655</span>  <span class="li">\7</span>  <span class="sd"><span class="o">$a</span>Oral histories.<span class="o">$2</span>aat</span>
+<span class="gp">=</span><span class="nl">655</span>  <span class="li">\7</span>  <span class="sd"><span class="o">$a</span>Interviews.<span class="o">$2</span>aat</span>
+<span class="gp">=</span><span class="nl">655</span>  <span class="li">\7</span>  <span class="sd"><span class="o">$a</span>Audiotapes.<span class="o">$2</span>aat</span>
+<span class="gp">=</span><span class="nl">655</span>  <span class="li">\7</span>  <span class="sd"><span class="o">$a</span>Transcripts.<span class="o">$2</span>aat</span>
+<span class="gp">=</span><span class="nl">656</span>  <span class="li">\7</span>  <span class="sd"><span class="o">$a</span>Physicists.<span class="o">$2</span>lcsh</span>
+<span class="gp">=</span><span class="nl">796</span>  <span class="li">1\</span>  <span class="sd"><span class="o">$a</span>Atchley, Charles F.,<span class="o">$e</span>interviewer.</span>
+<span class="gp">=</span><span class="nl">797</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>AIP-ICOS</span>
+<span class="gp">=</span><span class="nl">852</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>American Institute of Physics.<span class="o">$b</span>Center for History of Physics. Niels Bohr Library.<span class="o">$e</span>One Physics Ellipse,
+            College Park, MD 20740, USA</span>
+<span class="gp">=</span><span class="nl">856</span>  <span class="li">78</span>  <span class="sd"><span class="o">$u</span>http://www.aip.org/history/ohilist/568.html<span class="o">$3</span>(Transcript)</span>
+<span class="gp">=</span><span class="nl">904</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>USA</span>
+<span class="gp">=</span><span class="nl">982</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>568</span>
+<span class="gp">=</span><span class="nl">998</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>icos<span class="o">$b</span>568<span class="o">$c</span>oh</span>
+<span class="gp">=</span><span class="nl">999</span>  <span class="li">\\</span>  <span class="sd"><span class="o">$a</span>568</span></pre>
+</div>
+</div>
+
+<div class="slide">
+<h1>Screenscraping</h1>
+<ul>
+<li>In customized Scriblio importer (PHP):
+<div class="highlight"><pre><span class="cp">&lt;?</span>
+<span class="nv">$ch</span> <span class="o">=</span> <span class="nf">curl_init</span><span class="p">()</span> <span class="k">or</span> <span class="k">die</span><span class="p">(</span><span class="nf">curl_error</span><span class="p">());</span>
+<span class="nf">curl_setopt</span><span class="p">(</span><span class="nv">$ch</span><span class="p">,</span> <span class="nx">CURLOPT_URL</span><span class="p">,</span> <span class="nv">$atomic</span><span class="p">[</span><span class="s1">&#39;href&#39;</span><span class="p">]);</span>
+<span class="nf">curl_setopt</span><span class="p">(</span><span class="nv">$ch</span><span class="p">,</span> <span class="nx">CURLOPT_RETURNTRANSFER</span><span class="p">,</span> <span class="m">1</span><span class="p">);</span>
+<span class="nv">$rawtranscript</span> <span class="o">=</span> <span class="nf">curl_exec</span><span class="p">(</span><span class="nv">$ch</span><span class="p">)</span> <span class="k">or</span> <span class="k">die</span><span class="p">(</span><span class="nf">curl_error</span><span class="p">());</span> 
+
+<span class="nv">$pattern</span> <span class="o">=</span> <span class="s2">&quot;/&lt;h1&gt;Transcript&lt;\/h1&gt;([^\^]*?)&lt;\/div&gt;/&quot;</span><span class="p">;</span>
+<span class="nv">$imgpattern</span> <span class="o">=</span> <span class="s2">&quot;/&lt;img src=</span><span class="se">\&quot;</span><span class="s2">(Images\/[a-z0-9_]+\.jpg)</span><span class="se">\&quot;</span><span class="s2">/&quot;</span><span class="p">;</span>
+<span class="nf">preg_match</span><span class="p">(</span><span class="nv">$pattern</span><span class="p">,</span> <span class="nv">$rawtranscript</span><span class="p">,</span> <span class="nv">$match</span><span class="p">);</span>
+<span class="nf">preg_match</span><span class="p">(</span><span class="nv">$imgpattern</span><span class="p">,</span> <span class="nv">$rawtranscript</span><span class="p">,</span> <span class="nv">$imgmatch</span><span class="p">);</span>
+<span class="nv">$atomic</span><span class="p">[</span><span class="s1">&#39;transcript&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="nf">htmlentities</span><span class="p">(</span><span class="nf">str_replace</span><span class="p">(</span><span class="s2">&quot;h1&gt;&quot;</span><span class="p">,</span> <span class="s2">&quot;h3&gt;&quot;</span><span class="p">,</span> <span class="nf">str_replace</span><span class="p">(</span><span class="s2">&quot;h3&gt;&quot;</span><span class="p">,</span> <span class="s2">&quot;h4&gt;&quot;</span><span class="p">,</span> 
+    <span class="nf">str_replace</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&lt;/td&gt;</span><span class="se">\n</span><span class="s2">&lt;/tr&gt;</span><span class="se">\n</span><span class="s2">&lt;/table&gt;</span><span class="se">\n</span><span class="s2">&lt;/div&gt;&quot;</span><span class="p">,</span> <span class="s2">&quot;&quot;</span><span class="p">,</span> <span class="nv">$match</span><span class="p">[</span><span class="m">1</span><span class="p">]))));</span>
+<span class="nv">$thumbnail</span> <span class="o">=</span> <span class="s1">&#39;http://www.aip.org/history/ohilist/&#39;</span> <span class="o">.</span> <span class="nv">$imgmatch</span><span class="p">[</span><span class="m">1</span><span class="p">];</span>
+<span class="k">if</span><span class="p">(</span><span class="nv">$thumbnail</span> <span class="o">!=</span> <span class="s1">&#39;http://www.aip.org/history/ohilist/&#39;</span><span class="p">){</span>
+    <span class="nv">$atomic</span><span class="p">[</span><span class="s1">&#39;thumbnail&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="nv">$thumbnail</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="cp">?&gt;</span><span class="x"></span>
+</pre></div>
+</li>
+</ul>
+
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Serving Metadata via unAPI</h1>
+<div class="highlight" style="font-size: .4em;"><pre><span class="cp">&lt;?php</span> <span class="k">function</span> <span class="nf">unapi_show_oai_dc</span><span class="p">()</span> <span class="p">{</span>
+        <span class="k">global</span> <span class="nv">$postId</span><span class="p">,</span> <span class="nv">$blogName</span><span class="p">;</span>
+        <span class="k">foreach</span><span class="p">(</span><span class="nf">array_merge</span><span class="p">(</span><span class="nx">get_posts</span><span class="p">(</span><span class="s1">&#39;include=&#39;</span> <span class="o">.</span> <span class="nv">$postId</span><span class="p">),</span> <span class="nx">get_pages</span><span class="p">(</span><span class="s1">&#39;include=&#39;</span> <span class="o">.</span> <span class="nv">$postId</span><span class="p">))</span> <span class="k">as</span> <span class="nv">$post</span><span class="p">)</span> <span class="o">:</span> <span class="nx">setup_postdata</span><span class="p">(</span><span class="nv">$post</span><span class="p">);</span>
+<span class="cp">?&gt;</span>
+        <span class="nt">&lt;oai_dc:dc</span> <span class="na">xmlns:oai_dc=</span><span class="s">&quot;http://www.openarchives.org/OAI/2.0/oai_dc/&quot;</span> <span class="na">xmlns:dc=</span><span class="s">&quot;http://purl.org/dc/elements/1.1/&quot;</span> 
+        <span class="na">xmlns:xsi=</span><span class="s">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</span>
+        <span class="na">xsi:schemaLocation=</span><span class="s">&quot;http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd&quot;</span><span class="nt">&gt;</span>
+                <span class="nt">&lt;dc:identifier&gt;</span><span class="cp">&lt;?php</span> <span class="nx">the_permalink_rss</span><span class="p">();</span> <span class="cp">?&gt;</span><span class="nt">&lt;/dc:identifier&gt;</span>
+                <span class="nt">&lt;dc:title&gt;</span><span class="cp">&lt;?php</span> <span class="nx">the_title_rss</span><span class="p">();</span> <span class="cp">?&gt;</span><span class="nt">&lt;/dc:title&gt;</span>
+                <span class="nt">&lt;dc:type&gt;</span>interview<span class="nt">&lt;/dc:type&gt;</span>
+<span class="cp">&lt;?php</span>
+        <span class="k">foreach</span> <span class="p">(</span> <span class="nx">wp_get_object_terms</span><span class="p">(</span><span class="nv">$postId</span><span class="p">,</span> <span class="s1">&#39;auth&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="nv">$cat</span> <span class="p">)</span> <span class="p">{</span>
+                <span class="k">if</span> <span class="p">(</span> <span class="nv">$cat</span><span class="o">-&gt;</span><span class="na">name</span> <span class="o">==</span> <span class="s2">&quot;&quot;</span> <span class="p">)</span> <span class="k">continue</span><span class="p">;</span>
+<span class="cp">?&gt;</span>
+                <span class="nt">&lt;dc:creator&gt;</span><span class="cp">&lt;?php</span> <span class="k">echo</span> <span class="nv">$cat</span><span class="o">-&gt;</span><span class="na">name</span><span class="p">;</span> <span class="cp">?&gt;</span><span class="nt">&lt;/dc:creator&gt;</span>
+<span class="cp">&lt;?php</span>    <span class="p">}</span>    <span class="cp">?&gt;</span>
+                <span class="nt">&lt;dc:publisher&gt;</span><span class="cp">&lt;?php</span> <span class="k">echo</span> <span class="nf">htmlspecialchars</span><span class="p">(</span><span class="nv">$blogName</span><span class="p">);</span> <span class="cp">?&gt;</span><span class="nt">&lt;/dc:publisher&gt;</span>
+                <span class="nt">&lt;dc:date&gt;</span><span class="cp">&lt;?php</span> <span class="nx">the_date</span><span class="p">(</span><span class="s1">&#39;r&#39;</span><span class="p">);</span> <span class="cp">?&gt;</span><span class="nt">&lt;/dc:date&gt;</span>
+                <span class="nt">&lt;dc:format&gt;</span>application/xml<span class="nt">&lt;/dc:format&gt;</span>
+                <span class="nt">&lt;dc:language&gt;</span><span class="cp">&lt;?php</span> <span class="k">echo</span> <span class="nx">get_option</span><span class="p">(</span><span class="s1">&#39;rss_language&#39;</span><span class="p">);</span> <span class="cp">?&gt;</span><span class="nt">&lt;/dc:language&gt;</span>
+<span class="cp">&lt;?php</span>
+        <span class="k">foreach</span> <span class="p">(</span> <span class="nx">wp_get_object_terms</span><span class="p">(</span><span class="nv">$postId</span><span class="p">,</span> <span class="s1">&#39;subj&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="nv">$cat</span> <span class="p">)</span> <span class="p">{</span>
+                <span class="k">if</span> <span class="p">(</span> <span class="nv">$cat</span><span class="o">-&gt;</span><span class="na">name</span> <span class="o">==</span> <span class="s2">&quot;&quot;</span> <span class="p">)</span> <span class="k">continue</span><span class="p">;</span>
+<span class="cp">?&gt;</span>
+                <span class="nt">&lt;dc:subject</span> <span class="na">scheme=</span><span class="s">&quot;local&quot;</span><span class="nt">&gt;</span><span class="cp">&lt;?php</span> <span class="k">echo</span> <span class="nv">$cat</span><span class="o">-&gt;</span><span class="na">name</span><span class="p">;</span> <span class="cp">?&gt;</span><span class="nt">&lt;/dc:subject&gt;</span>
+<span class="cp">&lt;?php</span>    <span class="p">}</span>    <span class="cp">?&gt;</span>
+                <span class="nt">&lt;dc:description&gt;</span>&#39;<span class="cp">&lt;?php</span> <span class="k">echo</span> <span class="nx">the_excerpt_rss</span><span class="p">();</span> <span class="cp">?&gt;</span>&#39;<span class="nt">&lt;/dc:description&gt;</span>
+        <span class="nt">&lt;/oai_dc:dc&gt;</span>
+<span class="cp">&lt;?php</span> 
+        <span class="k">endforeach</span><span class="p">;</span>
+<span class="p">}</span> <span class="cp">?&gt;</span>
+</pre></div>
+
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Gotchas</h1>
+<ul>
+<li>No MARC-8 translation in Scriblio</li>
+<li>Extremely limited documentation for Scriblio</li>
+<li>Getting feeds of new items not obvious</li>
+<li>Screenscraping is unreliable and does not account for multi-session interviews (in this iteration)</li>
+<li>Requires rethinking how blog software delivers metadata</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+<div class="slide">
+<h1>Questions/Contact Information</h1>
+<ul>
+<li>mark at matienzo dot org</li>
+<li>Google Talk: mark.matienzo</li>
+</ul>
+<div class="handout"><ul><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul>
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

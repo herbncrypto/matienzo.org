@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  <head>
+    <title>ohilist.py: Processing MARC into HTML</title>
+    <!-- metadata -->
+    <meta name="generator" content="S5" />
+    <meta name="version" content="S5 1.1" />
+    <meta name="presdate" content="20071026" />
+    <meta name="author" content="Mark A. Matienzo" />
+    <meta name="company" content="American Institute of Physics" />
+    <!-- configuration parameters -->
+    <meta name="defaultView" content="slideshow" />
+    <meta name="controlVis" content="hidden" />
+    <!-- style sheet links -->
+    <link rel="stylesheet" href="../ui/i18nmod/slides.css" type="text/css" media="projection" id="slideProj" />
+    <link rel="stylesheet" href="../ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+    <link rel="stylesheet" href="../ui/i18nmod/print.css" type="text/css" media="print" id="slidePrint" />
+    <link rel="stylesheet" href="../ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+    <!-- S5 JS -->
+    <script src="../ui/default/slides.js" type="text/javascript"></script>
+  </head>
+  <body>
+    
+    <div class="layout">
+      <div id="currentSlide"><!-- DO NOT EDIT --></div>
+      <div id="header"></div>
+      <div id="footer">
+        <div id="controls"><!-- DO NOT EDIT --></div>
+        <h1>Mark A. Matienzo</h1>
+        <h2>ohilist.py: Processing MARC into HTML</h2>
+      </div>
+      
+    </div>
+    
+    
+    <div class="presentation">
+      
+      <div class="slide">
+        <h1>ohilist.py</h1>
+        <h3>Processing MARC into HTML</h3>
+        <h4>Mark A. Matienzo</h4>
+      </div>
+      
+      
+      <div class="slide">
+        <h1>What is ohilist.py?</h1>
+        <ul>
+          <li>Python script that creates static HTML list of NBL-held oral history interviews from MARC data</li>
+          <ul>
+            <li><a href="http://aip.org/history/oral_history/ohilist.html">http://aip.org/history/oral_history/ohilist.html</a></li>
+          </ul>
+          <li>Part of a group of three Python scripts used to convert MARC data into HTML for different purposes</li>
+          <li>Used by archives professional staff every few months to generate new list</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>Why Python?</h1>
+        <ul>
+          <li>Straightforward syntax, even for nonprogrammers</li>
+          <li>Old scripts used a number of languages (Perl, XSLT and Java for transforms, Unix shell, Windows batch)</li>
+          <li>pymarc</li>
+          <ul>
+            <li><a href="http://pypi.python.org/pypi/pymarc/">http://pypi.python.org/pypi/pymarc/</a></li>
+            <li>Does heavy lifting for all three scripts</li>
+            <li>Often faster than Perl's MARC modules</li>
+            <li>Active (but small) development community</li>
+            <li>I contributed to code to its development</li>
+          </ul>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>Using ohilist.py</h1>
+        <ul>
+          <li>Create full dump of MARC data from Horizon, using specific export target</li>
+          <li>From command line: <code>python ohilist.py [marcfile]</code></li>
+          <li>Upload HTML file to AIP webserver</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>Script architecture</h1>
+        <ul>
+          <li>Comprised of three files:</li>
+          <ul>
+            <li>ohilist.py: script itself</li>
+            <li>ohitemplate.py: template for HTML</li>
+            <li>aipmarc.py: AIP extensions for pymarc</li>
+          </ul>
+          <li>Template used to separate the layout from the rest of the code</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>How it works (1) - the Main Loop</h1>
+        <pre style="font-size: 12pt; background-color: #fff; font-weight: bold;">
+for record in reader:
+  if record['998'] is not None:
+    if record['998']['c'] is not None: 
+      collection = record['998']['c']
+      if collection == 'oh':
+        catdb = getCatdb(record)
+        bibno = getBibno(record)
+        url = 'http://www.aip.org/history/catalog/%s/%s.html' % (catdb, bibno)
+        interviewee = marc8_to_unicode(record.author())
+        interviewdate = '(Interview date: %s)' % getDate(record)
+        interview = [interviewee, interviewdate]
+        label = " ".join(interview)
+        interviews.append((url, label))
+        recordcounter += 1
+    else: pass</pre>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>How it works (2) - Getting the Date</h1>
+        <pre style="font-size: 12pt; background-color: #fff; font-weight: bold;">
+def getDate(record):
+  datelist = []
+  if record['245']['f'] or record['245']['g']:
+    if record['245']['f']: datelist.append(record['245']['f'])
+    if record['245']['g']: datelist.append(record['245']['g'])
+    return ' '.join(datelist)
+  if record['260']:
+    if record['260']['c']: return record['260']['c']
+  if record['008'].value()[7:11].isdigit():
+    datelist.append(record['008'].value()[7:11])
+    if record['008'].value()[11:15].isdigit():
+      datelist.append(record['008'].value()[11:15])
+    if len(datelist) > 1: return '-'.join(datelist)
+    else: return ''.join(datelist)
+  if getBibno(record) is not None:
+    sys.stderr.write('Could not derive date from bib number %s' % getBibno(record))
+  else: 
+    sys.stderr.write('No date or bib number in: %s' % record['245'].formatField())
+  return None</pre>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>How it works (3) - Sorting/Index</h1>
+        <pre style="font-size: 12pt; background-color: #fff; font-weight: bold;">
+interviews.sort(key = lambda interviewkey: interviewkey[1].upper())
+
+for interview in interviews:
+  for letter in letters:
+    initial = interview[1].upper()[0]
+    if initial == letter:
+      linkdata = '%s&lt;br/&gt;\n' % makeLink(interview[0], interview[1])
+      addToIndex(ohiindex, letter, linkdata)
+
+ohikeys = ohiindex.keys()
+ohikeys.sort()
+shortcutlist = [makeLink('#' + key, key) for key in ohikeys]
+shortcutlinks = "&nbsp;".join(shortcutlist)
+listbody.append(shortcutlinks)
+for key in ohikeys:
+  listbody.append('&lt;h2&gt;&lt;a name="%s"&gt;%s&lt;/a&gt;&lt;/h2&gt;\n' % (key, key))
+  linklist = [ohilink for ohilink in ohiindex[key]]
+  listbody.extend(linklist)
+  listbody.append('&lt;br/&gt;&lt;a href="#top"&gt;Back to Top&lt;/a&gt;\n')</pre>
+        <div class="handout">
+        </div>
+      </div>
+      
+      <div class="slide">
+        <h1>Evaluation/Questions</h1>
+        <ul>
+          <li>Good, but not perfect</li>
+          <li>Would be better if it didn't need to be run manually</li>
+          <li>Nonetheless, best that we can do with what we have</li>
+          <li>E-mail: mark<span style="display:none;">@127.0.0.1</span> @ matienzo.org</li>
+        </ul>
+        <div class="handout">
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

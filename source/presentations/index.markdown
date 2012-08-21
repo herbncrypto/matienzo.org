@@ -8,11 +8,11 @@ sidebar: false
 
 #### National &amp; International Presentations
 
-Matienzo, Mark A. ["Using and Developing with Open Source Digital Forensics Software in Digital Archives Programs."](http://www.slideshare.net/anarchivist/using-and-developing-with-open-source-digital-forensics-software-in-digital-archives-programs) Society of American Archivists Research Forum, San Diego, CA, Aug 7, 2012. {% render_partial _includes/labels/reviewed.html %} {% render_partial _includes/labels/speaker.html %}
+[{% render_partial _includes/labels/pdf.html %}](presentations/2012/2012-SAAResearchForum.pdf) Matienzo, Mark A. ["Using and Developing with Open Source Digital Forensics Software in Digital Archives Programs."](http://www.slideshare.net/anarchivist/using-and-developing-with-open-source-digital-forensics-software-in-digital-archives-programs) Society of American Archivists Research Forum, San Diego, CA, Aug 7, 2012. {% render_partial _includes/labels/reviewed.html %} {% render_partial _includes/labels/speaker.html %}
 
 Matienzo, Mark A. ["Digital Forensics for Digital Archives."](http://www.slideshare.net/anarchivist/ndiipp-digitalforensics2012-Jul)DigitalPreservation 2012 (NDIIPP annual meeting), Arlington, VA, Jul 25, 2012. {% render_partial _includes/labels/invited.html %} {% render_partial _includes/labels/speaker.html %}
 
-Gueguen, Gretchen, Mark A. Matienzo, Simon Wilson, and Peter Chan. ["Born-Digital Collections: An Inter-Institutional Model for Stewardship."](https://ala.ilinc.com/join/vkvpcrb) ACRL Digital Curation Interest Group "Conversations With ..." Webinar Series. Jun 7, 2012. {% render_partial _includes/labels/invited.html %} {% render_partial _includes/labels/speaker.html %}
+[{% render_partial _includes/labels/video.html %}](https://ala.ilinc.com/join/vkvpcrb) Gueguen, Gretchen, Mark A. Matienzo, Simon Wilson, and Peter Chan. ["Born-Digital Collections: An Inter-Institutional Model for Stewardship."](https://ala.ilinc.com/join/vkvpcrb) ACRL Digital Curation Interest Group "Conversations With ..." Webinar Series. Jun 7, 2012. {% render_partial _includes/labels/invited.html %} {% render_partial _includes/labels/speaker.html %}
 
 Matienzo, Mark A. ["Accessioning-Based Metadata Extraction and Iterative Processing: Notes from the Field."](http://www.slideshare.net/anarchivist/dig-c-currcurategearjan2012) [CurateGear](http://sils.unc.edu/events/2011/curategear), Chapel Hill, NC, Jan 6, 2012. {% render_partial _includes/labels/invited.html %} {% render_partial _includes/labels/speaker.html %}
 
@@ -36,7 +36,7 @@ Matienzo, Mark A. ["Online Presence and Participation."](http://www.slideshare.n
 
 Matienzo, Mark A. ["Linked Data and Archival Description: Confluences, Contingencies, and Conflicts."](http://www.slideshare.net/anarchivist/linked-data-and-archival-description-confluences-contingencies-and-conflicts) Society of American Archivists Encoded Archival Description Roundtable, Austin, TX, Aug 12, 2009. {% render_partial _includes/labels/invited.html %} {% render_partial _includes/labels/speaker.html %}
 
-Matienzo, Mark A. ["How I Failed With Distributed Version Control Systems, Archival Metadata, and Workflow Integration."](http://code4lib.org/conference/2009/matienzo) Code4lib, Providence, RI, Feb 24, 2009. {% render_partial _includes/labels/voted.html %} {% render_partial _includes/labels/speaker.html %}
+[{% render_partial _includes/labels/pdf.html %}](presentations/2009/2009-Code4libDVCS.pdf)  [{% render_partial _includes/labels/video.html %}](http://archive.org/details/Code4lib2009HowIFailedToPresentOnUsingDvcsForManagingArchival) Matienzo, Mark A. ["How I Failed With Distributed Version Control Systems, Archival Metadata, and Workflow Integration."](http://code4lib.org/conference/2009/matienzo) Code4lib, Providence, RI, Feb 24, 2009. {% render_partial _includes/labels/voted.html %} {% render_partial _includes/labels/speaker.html %}
 
 Green, Jean, Jessica Lacher-Feldman, Mark A. Matienzo, and Amy C. Schindler. ["Old Stuff, New Tricks: How Archivists Are Making Special Collections Even More Special Using Web 2.0 Technologies."](http://hdl.handle.net/10150/106466) American Historical Association (session sponsored by the American Association for History and Computing), New York, NY, Jan 3, 2009. {% render_partial _includes/labels/reviewed.html %} {% render_partial _includes/labels/speaker.html %}
 
@@ -78,23 +78,17 @@ Matienzo, Mark A. "Archives & The Semantic Web (for Semantic Technologists)." Ne
 
 <span class="unpublished">Matienzo, Mark A. "HOWTO Meet People and Have Fun At Code4libcon 2009." Code4lib, Providence, RI, Feb 2009. {% render_partial _includes/labels/lightning_talk.html %}</span>
 
-<span class="unpublished">Matienzo, Mark A. ["EPODe: Extensible Platform for Oral History Delivery."][29] The New York Public Library, Mar 28, 2008. {% render_partial _includes/labels/job_talk.html %}</span>
+<span class="unpublished">Matienzo, Mark A. ["EPODe: Extensible Platform for Oral History Delivery."](2008/20080328) The New York Public Library, Mar 28, 2008. {% render_partial _includes/labels/job_talk.html %}</span>
 
- [29]: http://matienzo.org/talks/20080328/
+<span class="unpublished">[{% render_partial _includes/labels/video.html %}](http://video.google.com/videoplay?docid=9016342205165054123&hl=en) Matienzo, Mark A. "HOWTO Meet People and Have Fun at Code4lib." Code4lib, Portland, OR, Feb 2008. {% render_partial _includes/labels/lightning_talk.html %}</span>
 
-<span class="unpublished">Matienzo, Mark A. ["HOWTO Meet People and Have Fun at Code4lib."][30] Code4lib, Portland, OR, Feb 2008. {% render_partial _includes/labels/lightning_talk.html %}</span>
+<span class="unpublished">[{% render_partial _includes/labels/video.html %}](http://video.google.com/videoplay?docid=6865176579955784199&hl=en) Matienzo, Mark A. "Archivists' Toolkit." Code4lib, Portland, OR, Feb 2008.  {% render_partial _includes/labels/lightning_talk.html %}</span>
 
- [30]: http://code4lib.org/conference/2008/lightning
-
-<span class="unpublished">Matienzo, Mark A. ["Archivists' Toolkit."][30] Code4lib, Portland, OR, Feb 2008.  {% render_partial _includes/labels/lightning_talk.html %}</span>
-
-<span class="unpublished">Farrell, Gabriel, and Mark A. Matienzo. ["Kochief: Kobold Chieftain, a.k.a. Fac-Back-OPAC."][30] Code4lib, Portland, OR, Feb 2008.  {% render_partial _includes/labels/lightning_talk.html %}</span>
+<span class="unpublished">[{% render_partial _includes/labels/video.html %}](http://video.google.com/videoplay?docid=-676364327055235327&hl=en) Farrell, Gabriel, and Mark A. Matienzo. "Kochief: Kobold Chieftain, a.k.a. Fac-Back-OPAC." Code4lib, Portland, OR, Feb 2008.  {% render_partial _includes/labels/lightning_talk.html %}</span>
 
 <span class="unpublished">Casden, Jason and Mark A. Matienzo. Co-moderators of "Solr and Lucene for Libraries." Library Camp NYC, New York, NY, Aug 2007. {% render_partial _includes/labels/unconference.html %}</span>
 
-<span class="unpublished">Matienzo, Mark A. ["ohilist.py: Processing MARC into HTML."][31] Seattle Public Library, Seattle, WA, Oct 26, 2007. {% render_partial _includes/labels/job_talk.html %}</span>
-
- [31]: http://matienzo.org/talks/20071026/
+<span class="unpublished">Matienzo, Mark A. ["ohilist.py: Processing MARC into HTML."](presentations/2007/20071026) Seattle Public Library, Seattle, WA, Oct 26, 2007. {% render_partial _includes/labels/job_talk.html %}</span>
 
 <span class="unpublished">Matienzo, Mark A. ["Promoting Drexel University Through Its Archives."][32] Drexel University, Philadelphia, PA, Apr 17, 2007. {% render_partial _includes/labels/job_talk.html %}</span>
 
