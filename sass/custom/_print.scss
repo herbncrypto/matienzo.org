@@ -2,6 +2,7 @@
     body {
         p {
             font-family: $body-font;
+            line-height: 18px;
         }
         header {
             display: none !important;
@@ -25,7 +26,10 @@
                 }
                 blockquote {
                     padding: 0 0 0 15px; 
-                    
+                    p {
+                        font-size: 12px;
+                        line-height: 14px;
+                    }
                 }
                 ul {
                     margin: 0 0 7px 25px;

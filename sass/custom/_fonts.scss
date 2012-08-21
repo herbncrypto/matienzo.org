@@ -20,6 +20,16 @@ body {
         #content {
             p {
                 font-size: 14px;
+                span.unpublished {
+                    a {
+                        text-decoration: none;
+                        border-bottom: 1px dotted;
+                        &:hover {
+                            text-decoration: none;
+                            border-bottom: 1px solid;
+                        }
+                    }
+                }
             }
             blockquote {
                 p {
@@ -30,6 +40,14 @@ body {
                 li {
                     font: 14px $body-font;
                     line-height: 21px;
+                    a {
+                        text-decoration: none;
+                        border-bottom: 1px dotted;
+                        &:hover {
+                            text-decoration: none;
+                            border-bottom: 1px solid;
+                        }
+                    }
                 }
             }
             h2, h3, h4, h5, h6 {
