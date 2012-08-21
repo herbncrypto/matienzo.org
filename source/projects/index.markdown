@@ -7,7 +7,7 @@ sidebar: false
 
 ### <span id="current">Current projects</span>
 
-#### [ArchivesSpace](http://archivesspace.org/)
+#### <i class="icon-link"></i> [ArchivesSpace](http://archivesspace.org/)
 
 A project to build a best of breed, next-generation archival management system to serve as the sucessor for [Archivists' Toolkit](http://archiviststoolkit.org/) and [Archon](http://archon.org/). Since July 2011, I have been the project's Technical Architect.
 
