@@ -21,6 +21,15 @@ sidebar: false
 * [Semantic Archives](http://groups.google.com/group/semantic-archives) Google Group (e-mail list)
 * [LODLAM](http://lodlam.net/): helped organize the June 2011 LODLAM Summit in San Francisco, CA
 
+### <span id="software">Software project contributions</span>
+
+* See [Github](http://github.com/anarchivist) for most recent work.
+* [pymarc](https://github.com/edsu/pymarc): Python module for working with MARC21 data in ISO2709 and MARCXML form
+* [Kochief](http://code.google.com/p/kochief/): a discovery interface for local and remote collections, built on Solr and Django
+* [worldcat](https://github.com/anarchivist/worldcat): Python module for interacting with OCLC's WorldCat APIs, including the WorldCat Search API, the WorldCat Registry API and the xID APIs (xISBN, xISSN, and xOCLCNUM).
+* [Omeka](http://omeka.org/) plugins: NYPL Digital Gallery Ingest, Lightbox2
+* Drupal modules: [Apache Solr Search Integration](http://drupal.org/project/apachesolr), [NYPL Digital Gallery Search Integration](https://github.com/anarchivist/drupal-nypl_digitalgallery), [Shrew (Innovative Interfaces WebPAC Integration)](https://github.com/anarchivist/drupal-shrew), [Z39.50/SRU Client](http://drupal.org/project/z3950)
+
 ### <span id="previous">Previous projects</span>
 
 #### Born Digital Collections: An Inter-Institutional Model for Stewardship (AIMS)
