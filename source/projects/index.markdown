@@ -7,9 +7,13 @@ sidebar: false
 
 ### <span id="current">Current projects</span>
 
-#### <i class="icon-link"></i> [ArchivesSpace](http://archivesspace.org/)
+#### ArchivesSpace
 
-A project to build a best of breed, next-generation archival management system to serve as the sucessor for [Archivists' Toolkit](http://archiviststoolkit.org/) and [Archon](http://archon.org/). Since July 2011, I have been the project's Technical Architect. In the summer of 2010, I organized a technical planning meeting for the ArchivesSpace planning grant and wrote a [report](http://www.archivesspace.org/documents/reports/ "ArchivesSpace Technical Architecture Report, July 2010") summarizing the recommended actions and decisions. 
+A project funded by the Andrew W. Mellon Foundation to build a best of breed, next-generation archival management system to serve as the sucessor for [Archivists' Toolkit](http://archiviststoolkit.org/) and [Archon](http://archon.org/). Since July 2011, I have been the project's Technical Architect and product owner. In the summer of 2010, I organized a technical planning meeting for the ArchivesSpace planning grant and wrote a [report](http://www.archivesspace.org/documents/reports/ "ArchivesSpace Technical Architecture Report, July 2010") summarizing the recommended actions and decisions. 
+
+* [ArchivesSpace.org](http://archivesspace.org/)
+* [Development repository](http://github.com/hudmol/archivesspace)
+* [ArchivesSpace Technical Architecture Report, July 2010](http://www.archivesspace.org/documents/reports/)
 
 #### Application of digital forensics tools and methodologies in digital archives
 
