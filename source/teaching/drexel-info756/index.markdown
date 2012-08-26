@@ -12,7 +12,7 @@ sidebar: false
 
 ### Course Description
 
-This course will explore, concepts, principles, and practice for the preservation of digital information resources. Digital preservation is a fundamental issue for anyone responsible for the creation or management of digital information. The class will address conceptual models, policy frameworks, technical approaches and requirements, and a number of case studies of real-world digital preservation projects and systems.
+This course will explore concepts, principles, and practice for the preservation of digital information resources. Digital preservation is a fundamental issue for anyone responsible for the creation or management of digital information. The class will address conceptual models, policy frameworks, technical approaches and requirements, and a number of case studies of real-world digital preservation projects and systems.
 
 ### Course Format
 
