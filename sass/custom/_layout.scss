@@ -21,7 +21,14 @@
 //$sidebar-width-wide: 300px;
 
 body {
-    #overview {
-        margin-bottom: 50px;
+    .affix {
+        position: fixed;
+        top: 60px;
+        left: 0px;
     }
+    .page-header {
+        margin: 0;
+        padding: 0;
+    }
+    padding-top: 60px;
 }
