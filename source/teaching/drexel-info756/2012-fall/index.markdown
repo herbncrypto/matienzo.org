@@ -4,19 +4,18 @@ title: "INFO 756 - Digital Preservation (Fall 2012)"
 footer: false
 sidebar: false
 ---
-<div class="subnav">
+<div class="subnav" data-spy="affix" data-offset-top="120">
     <ul class="nav nav-pills">
-        <li><a href="#overview">Overview</a></li>
         <li><a href="#description">Course Description</a></li>
         <li><a href="#policies">Policies and Guidelines</a></li>
         <li><a href="#assignments">Assignments, Student Evaluation, and Course Requirements</a></li>
     </ul>
 </div>
 
-### <span id="overview">Overview</span>
+### Overview
 
 * *Instructor:* Mark A. Matienzo, <mam586@drexel.edu>
-* *Office hours:* See below (contact as needed)
+* *Office hours:* See below and contact as needed
 * *Required textbook:* Ross Harvey, *Digital Curation: A How-To-Do It Manual.* New York: Neal-Schuman, 2010. ISBN 9781555706944. All other required readings will be are available online (through Drexel University's electronic resources, as freely available resources, or included on Blackboard).
 
 ### <span id="description">Course Description</span>
@@ -66,7 +65,7 @@ In the event that your numerical grade falls between two letter grades, your gra
 
 #### Guidelines for Assignments
 
-**Any requests for extensions must be made prior to the assignment’s due date.** Exceptions to this will generally only be considered as a result of serious emergencies.
+**Any requests for extensions for a particular assignment must be made prior to its due date.** Exceptions to this will generally only be considered as a result of serious emergencies.
 
 **While assignment length is a guideline, it is also significant.** Because students tend to use various fonts and margins, I have included approximate word counts for assignments rather than page numbers.
 
@@ -74,9 +73,9 @@ In the event that your numerical grade falls between two letter grades, your gra
 
 **Citations should be formatted consistently, using preferably Chicago/Turabian, MLA, or APA style.** The particular citation style does not matter, but being consistent in the formatting of your citations does. 
 
-**Assignments should be submitted via the Blackboard assignments section – not the digital dropbox.** If Blackboard is down or you are having other problems submitting your assignments via Blackboard, please let me know immediately.
+**Assignments should be submitted via the Blackboard assignments section - not the digital dropbox.** If Blackboard is down or you are having other problems submitting your assignments via Blackboard, please let me know immediately.
 
-**All submitted assignments must include Drexel’s Academic Honesty Certification Statement. Any assignment missing the Academic Honesty Certification Statement *will not be graded* until it is resubmitted including the Certification Statement.** In order to raise awareness about academic dishonesty and reduce cases of academic dishonesty in the College, the iSchool policy requires that all syllabi contain the notice that students must include the following certification page with all deliverables (for example: papers, projects, exams) indicating that the work submitted is their own. Syllabi must include notification about this and indicate that deliverables will not be graded without this certification page. For more information, please visit the following page: <http://www.drexel.edu/studentlife/judicial/honesty.html>. The certification text follows:
+**All submitted assignments must include Drexel's Academic Honesty Certification Statement. Any assignment missing the Academic Honesty Certification Statement *will not be graded* until it is resubmitted including the Certification Statement.** In order to raise awareness about academic dishonesty and reduce cases of academic dishonesty in the College, the iSchool policy requires that all syllabi contain the notice that students must include the following certification page with all deliverables (for example: papers, projects, exams) indicating that the work submitted is their own. Syllabi must include notification about this and indicate that deliverables will not be graded without this certification page. For more information, please visit the following page: <http://www.drexel.edu/studentlife/judicial/honesty.html>. The certification text follows:
 
 <div style="page-break-before: always;"></div>
 
@@ -105,7 +104,7 @@ Course evaluations are a required element of every course in the iSchool. Evalua
 
 #### Required Readings
 
-You are expected to complete the readings for a given week before the start of class that week, with the exception of week 1. Please complete Week 1’s readings by the middle of Week 1 if possible.
+You are expected to complete the readings for a given week before the start of class that week, with the exception of week 1. Please complete Week 1's readings by the middle of Week 1 if possible.
 
 The lectures will both build on and supplement the material in the readings. In some cases, assigned readings may only require you to skim them or are considered optional. In those cases, the readings will be denoted in Blackboard by the words **[SKIM]** or **[OPTIONAL]** in their title.
 
@@ -115,22 +114,24 @@ If you are having difficulty locating or accessing a reading, please post a mess
 
 Students are expected to participate in discussion boards on a regular basis, preferably every week. You are free to create a new discussion topic, but whenever possible you should attempt to continue the discussion of an existing topics for your own benefit, as well as that of your fellow students and your instructor.
 
-Students have until 6 PM Eastern Time on the following Monday to post comments. In general, I will not be providing weekly discussion questions to guide the conversation, so feel free to raise points that you have identified in your response papers (see below). I may post a topic if discussion does not seem to happen naturally. Posts may also address the readings and the other materials that are part of that week’s assignments as well as any other topic relevant to a given week’s content.
+Students have until 6 PM Eastern Time on the following Monday to post comments. In general, I will not be providing weekly discussion questions to guide the conversation, so feel free to raise points that you have identified in your response papers (see below). I may post a topic if discussion does not seem to happen naturally. Posts may also address the readings and the other materials that are part of that week's assignments as well as any other topic relevant to a given week's content.
 
 You are expected to participate **nine** of the ten weeks of class, with **eight of the those demonstrating substantive evidence of participation.** If a student posts more than eight weeks, the highest eight grades will be counted. However, the grades are assigned based on the quality of the posts rather than the quantity. See also Attendance (above) for a discussion of absences. To ensure that you are not charged with an unexcused absence, you should at least check in during the weeks you are not planning to make a substantive comment.
 
 Posts will be assessed based on four criteria:
 
-* Relevance of the post to the question posed and/or the conversation taking place in the – i.e., the degree to which a post advances the discussion, either by clarifying, extending, or deepening it.
-* Thoughtfulness of the post – i.e., level of insight reflected in the post.
-* Depth of understanding of the assigned materials reflected in the post – i.e., level of preparation reflected in the post.
-* Inclusion of relevant materials outside of the assigned readings – i.e., the degree to which the post adds to the understanding of the questions or discussion by bringing in new information or perspectives from other sources.
+* Relevance of the post to the question posed and/or the conversation taking place in the - i.e., the degree to which a post advances the discussion, either by clarifying, extending, or deepening it.
+* Thoughtfulness of the post - i.e., level of insight reflected in the post.
+* Depth of understanding of the assigned materials reflected in the post - i.e., level of preparation reflected in the post.
+* Inclusion of relevant materials outside of the assigned readings - i.e., the degree to which the post adds to the understanding of the questions or discussion by bringing in new information or perspectives from other sources.
 
 Midterm grades for participation will be distributed around weeks 5 to 6.
 
-#### Response Papers (10% each/30% total)
+#### Response Papers (10% each / 30% total)
 
-#### Practical Exercises (5% each/10% total)
+#### Practical Exercises (5% each / 10% total)
 
 #### Group Project (40% total)
 
+https://sites.google.com/site/phslibraryscience/Home/novel-project-rubric
+http://www.wiseeducation.org/media/documents/2010/10/444_Harvey.pdf
