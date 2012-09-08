@@ -17,7 +17,9 @@ sidebar: false
 * *Instructor:* Mark A. Matienzo, <mam586@drexel.edu>
 * *Office hours:* See below and contact as needed
 * *Required textbook:* Ross Harvey, *Digital Curation: A How-To-Do It Manual.*
- New York: Neal-Schuman, 2010. ISBN 9781555706944. All other required readings will be are available online (through Drexel University's electronic resources, as freely available resources, or included on Blackboard).
+New York: Neal-Schuman, 2010. ISBN 9781555706944. All other required readings 
+will be are available online (through Drexel University's electronic 
+resources, as freely available resources, or included on Blackboard).
 
 ### <span id="description">Course Description</span>
 
@@ -39,7 +41,9 @@ week's topic.
 
 ### <span id="policies">Policies and Guidelines</span>
 
-This course follows all University policies and procedures, including those for the accommodation for students with disabilities and for observance religious holidays. Fore more information, see the following pages:
+This course follows all University policies and procedures, including those 
+for the accommodation for students with disabilities and for observance 
+religious holidays. Fore more information, see the following pages:
 
 * <http://www.drexel.edu/oed/policies/>
 * <http://www.drexel.edu/provost/policies/>
@@ -116,7 +120,8 @@ word counts for assignments rather than page numbers.
 citations are all *essential* in your assignments.** Ignoring these issues
 within your assignments will lead to your grade being reduced. If you are
 concerned about the quality of your writing, please contact me or consider
-using the services of the [Drexel Writing Center](http://drexel.edu/engphil/about/DrexelWritingCenter/).
+using the services of the
+[Drexel Writing Center](http://drexel.edu/engphil/about/DrexelWritingCenter/).
 
 **Citations should be formatted consistently, using preferably
 Chicago/Turabian, MLA, or APA style.** The particular citation style does not
@@ -146,9 +151,12 @@ certification text follows:
 >
 > * This paper/project/exam is entirely my own work.
 >
-> * I have not quoted the words of any other person from a printed source or a website without indicating what has been quoted and providing an appropriate citation.
+> * I have not quoted the words of any other person from a printed source or 
+a website without indicating what has been quoted and providing an 
+appropriate citation.
 > 
-> * I have not submitted this paper / project to satisfy the requirements of any other course.
+> * I have not submitted this paper / project to satisfy the requirements of
+any other course.
 > 
 > Signature \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br/>
 > Date \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -181,14 +189,16 @@ integral process by submitting a course evaluation at the end of this term.
 
 You are expected to complete the readings for a given week before the start of
 class that week, with the exception of week 1. Please complete Week 1's
-readings by the middle of Week 1 if possible. The readings for a given week are listed in the Course Schedule below.
+readings by the middle of Week 1 if possible. The readings for a given week
+are listed in the Course Schedule below.
 
 The lectures will both build on and supplement the material in the readings.
 In some cases, assigned readings may only require you to skim them or are
 considered optional. In those cases, the readings will be denoted in
 Blackboard by the words **[SKIM]** or **[OPTIONAL]** in their title.
 
-If you are having difficulty locating or accessing a reading, please post a message to the Lifeline board on Blackboard.
+If you are having difficulty locating or accessing a reading, please post a
+message to the Lifeline board on Blackboard.
 
 #### Class Participation (20%)
 
@@ -297,7 +307,8 @@ Management workshop, developed and maintained by Cornell University Library,
 2003-2006, extended and maintained by ICPSR, 2007-on).
 <http://www.dpworkshop.org/dpm-eng/eng_index.html>:
     * Section 2. Terms & Concepts: OAIS Terms
-    * Section 4. Foundations: Introduction, OAIS Reference Model (and all subpages).
+    * Section 4. Foundations: Introduction, OAIS Reference Model (and all 
+    subpages).
 * Christopher A. Lee, "Open Archival Information System (OAIS) Reference
 Model." In *Encyclopedia of Library and Information Sciences*, Third Edition,
 edited by Marcia J. Bates and Mary Niles Maack, 4020-4030. Boca Raton, FL:
@@ -376,7 +387,8 @@ International Conference on Preservation of Digital Objects* (2009): 67-73.
 * Christoph Becker, Hannes Kulovits, Mark Guttenbrunner, Stephan Strodl, 
 Andreas Rauber and Hans Hofman, "Systematic planning for digital 
 preservation: evaluating potential strategies and building preservation
-plans." *International Journal on Digital Libraries* 10 no. 4 (2009), p. 133-157.
+plans." *International Journal on Digital Libraries* 10 no. 4 (2009),
+133-157.
 * Angela Dappert and Adam Farquhar, "Modelling Organizational Preservation 
 Goals to Guide Digital Preservation." *International Journal of Digital
 Curation* 4, no. 2 (2009), 119-134.
@@ -400,8 +412,7 @@ or obsolescence of file formats.
 **Readings**
 
 * Ross Harvey, "Chapter 6: Description and Representation Information." In
-*Digital Curation: A How-To-Do-It-Manual*, 65-82. New York: Neal Schuman,
-2010.
+*Digital Curation: A How-To-Do-It-Manual*, 65-82. New York: Neal Schuman, 2010.
 * **[OPTIONAL]** Anne J. Gilliland "Setting the Stage." In *Introduction to 
 Metadata*, edited by Murtha Baca. 3rd ed. Los Angeles: Getty Research 
 Institute, 2008.
@@ -619,3 +630,5 @@ E-Publishing: Libraries Make the Connection." *Charleston Conference 2009.*
 <!-- NOT ASSIGNED IN FALL 2012:
 
 * Rose Holley, "Resource Sharing in Australia: Find and Get in Trove – Making 'Getting' Better." D-Lib Magazine 17, no. 3/4 (2011). http://dlib.org/dlib/march11/holley/03holley.html.
+
+-->
