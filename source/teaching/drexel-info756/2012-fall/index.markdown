@@ -98,13 +98,13 @@ will be rounded down.
 
 * Class runs from **6 PM Eastern Time on Monday** to the following Sunday.
 * Assignments are due **no later** than 6 PM on Monday of the specified week 
- unless prior arrangements have been made with the instructor.
+unless prior arrangements have been made with the instructor.
 * Students are expected to complete all readings for a given week
- **before the start of class** with the exception of Week 1. See "Readings" 
- below for more details.
+**before the start of class** with the exception of Week 1. See "Readings" 
+below for more details.
 * This class does not use PowerPoint or Class Capture for lectures. You
- should keep up with the lectures by reading the lecture notes after class 
- begins for that week.
+should keep up with the lectures by reading the lecture notes after class 
+begins for that week.
 
 #### Guidelines for Assignments
 
@@ -114,7 +114,9 @@ result of serious emergencies.
 
 **While assignment length is a guideline, it is also significant.** Because
 students tend to use various fonts and margins, I have included approximate
-word counts for assignments rather than page numbers.
+word counts for assignments rather than page numbers. **Word counts for
+assignments do not include cover pages, honesty statements, citations, and the
+like.**
 
 **Correct spelling, proper grammar, clear phrasing, and proper and accurate
 citations are all *essential* in your assignments.** Ignoring these issues
@@ -200,7 +202,7 @@ Blackboard by the words **[SKIM]** or **[OPTIONAL]** in their title.
 If you are having difficulty locating or accessing a reading, please post a
 message to the Lifeline board on Blackboard.
 
-#### Class Participation (20%)
+#### Class Participation (15%)
 
 Students are expected to participate in discussion boards on a regular basis,
 preferably every week. You are free to create a new discussion topic, but
@@ -241,19 +243,121 @@ Midterm grades for participation will be distributed around weeks 5 to 6.
 
 #### Response Papers (10% each / 30% total)
 
-#### Practical Exercises (5% each / 10% total)
+Throughout the term, you are responsible for writing three response papers of
+**800-1200 words**. For each response papers, you choose a reading from a
+given class week's readings, summarize the key points in that piece, and
+critique those key points. You do not need to choose an reading from the week
+that the response paper is due (e.g., for Response Paper #1, you can choose a
+reading from Week 1, 2, or 3). **Readings from the textbook (*Digital
+Curation: A How-To-Do-It Manual*) and any reading marked [SKIM] are not to be
+used for response papers.** Whenever possible, justify your positions based on
+other assigned readings, class discussions, or other material in professional
+literature on digital preservation.
 
-#### Group Project (40% total)
+**Alternate Option for Response Paper #3**
+
+For Response Paper #3, you also have the option to write an analysis of a
+digital preservation policy. A set of links to policy documents from a variety
+of institutions is provided on Blackboard in the folder entitled "Policies for
+Analysis." You may choose one of the policies available in this folder, but
+you are also welcome to choose another institution if you can easily obtain
+its policy or practices documentation. There are two exceptions to this:
+
+* You cannot use the ICPSR documentation as it was reading for class.
+* You cannot use documentation from your current employer.
+
+Your analysis should include the following:
+
+* A description of the initiative and its institutional context, highlighting
+any particular aspects that you consider distinctive.
+* An overview of its policies and guidelines (or practices, if no formal 
+policies are available), including its mission, the scope of its 
+responsibility and the types of material it contains, the services it 
+provides, roles and responsibilities for its operations, its level of
+security, and its sustainability or viability.
+* A brief description of how the initiative could determine if it is 
+successful or adequately addressing its mission and its needs of the user 
+community.
+* An overview of ways that the initiative’s policy and practice could be
+strengthened.
+
+You are not expected or required to contact staff that operate the program.
+
+In reviewing the policy documentation, please be aware that many of these
+individual documents do not stand on their own. In other words, they may refer
+or link to other documentation, which you should subsequently review to
+determine if it addresses important components of the initiative’s overall
+preservation policies. For example, the ICPSR Digital Preservation Policy
+Framework refers to more than eight other documents. You may need to do a
+little additional research to find related documentation.
+
+#### Hands-On Exercise (10%)
+
+For this assignment, you will choose a hands-on exercise out from two or three
+options. Each option involves undertaking a fairly straightforward task
+related to preservation, such as creating descriptive metadata, identifying
+file formats, etc. Along with completing the exercise, you are expected to 
+write a response of **800-1200 words** that allow you to reflect on the 
+exercise and its results.
+
+More detail about this assignment is available on Blackboard.
+
+#### Case Study Analysis (10%)
+
+In this assignment, you will select a case study that describes a specific
+digital preservation project, program, or activity, and analyze and critique
+the article. To identify an appopriate case study, you can use a published
+article, or a report that is available on the web, as long as it follows the
+guidelines below:
+
+* You must choose a case study that reports on work that has been started or
+completed, rather than one that only describes a plan for a project.
+* The case study must be no more than five years old (i.e. published in 2007
+or later).
+* Your case study must also be about the preservation of digital information, 
+not just about the digitization of "analog" materials.
+* You also **must get the approval of the instructor** for your case study no 
+later than the beginning of Week 8.
+
+Your analysis should be **800-1200 words** and should include a synopsis of 
+the article, a description of particular preservation strategies, 
+technologies, or techniques used, and analysis of any lessons learned, 
+particularly if they could impact future projects. Regardless whether you 
+agree or disagree with the approach the project took, describe the reasons why
+you feel that way in detail.
+
+#### Group Project (35%)
+
+This is a group project designed to allow you gain experience assessing the
+preservation needs of a collection of digital information important to you and
+your classmates and developing a detailed plan that would help ensure the
+preservation of that information. Each group will usually have four or five
+students total, but this project should be manageable with groups of at least
+three students. The instructor will form the groups for you and list the
+groups by the beginning of Week 2. 
+
+This assignment has three parts: a draft preservation plan, a final report,
+and an evaluation of your peers in your group.
+
+**Part 1: Draft Preservation Plan**
+
+**Part 2: Final Report**
+
+**Part 3: Peer Evaluation**
 
 ### Course Schedule 
 
 #### Week 1: What is Digital Preservation? (September 24)
 
-This week will contain an overview of the course and assignments, as well as background on and overview of digital preservation, including key themes in the course and the field. We will also investigate the related idea of "digital curation."
+This week will contain an overview of the course and assignments, as well as
+background on and overview of digital preservation, including key themes in
+the course and the field. We will also investigate the related idea of
+"digital curation."
 
 **Readings** (complete by September 27 if possible)
 
-* In Ross Harvey, *Digital Curation: A How-To-Do-It-Manual* (New York: Neal Schuman, 2010):
+* In Ross Harvey, *Digital Curation: A How-To-Do-It-Manual* (New York: Neal 
+Schuman, 2010):
     * "Chapter 1: Introduction," 3-18.
     * "Chapter 2: The Changing Landscape," 19-32. 
     * "Chapter 4: Defining Data," 45-52.
@@ -264,20 +368,41 @@ age." *Communications of the ACM* 51, no. 12 (2008): 50-56.
     * Audio (28 mins.): "Digital Archaeology and the Temporary Nature of 
     Technology." *Future Tense.* ABC Radio National, January 29, 2012.
     <http://www.abc.net.au/radionational/programs/futuretense/digital-archaeology-and-the-temporary-nature-of-technology/3821064>. 
-    * Video (15 mins.): "Digital Antiquities." Future States. <http://futurestates.tv/episodes/digital-antiquities>. 
-* Neil Beagrie, "Digital Curation for Science, Digital Libraries, and Individuals." International Journal of Digital Curation 1, no. 1 (2006): 3-16 <http://dx.doi.org/10.2218/ijdc.v1i1.2>.
+    * Video (15 mins.): "Digital Antiquities." Future States.
+    <http://futurestates.tv/episodes/digital-antiquities>. 
+* Neil Beagrie, "Digital Curation for Science, Digital Libraries, and 
+Individuals." International Journal of Digital Curation 1, no. 1 (2006): 3-16.
+<http://dx.doi.org/10.2218/ijdc.v1i1.2>.
 
 <!-- NOT ASSIGNED FALL 2012:
 
-* Mackenzie Smith, "External Bits: How Can We Preserve Digital Files and Save our Collective Memory?" *IEEE Spectrum* (July 2005). http://spectrum.ieee.org/computing/hardware/external-bits/0.
+* Mackenzie Smith, "External Bits: How Can We Preserve Digital Files and Save
+our Collective Memory?" *IEEE Spectrum* (July 2005).
+http://spectrum.ieee.org/computing/hardware/external-bits/0.
 
-* *Digital Preservation Management: Implementing Short-Term Strategies for Long-Term Solutions*, online tutorial developed for the Digital Preservation Management workshop, developed and maintained by Cornell University Library, 2003-2006, extended and maintained by ICPSR, 2007-on. http://www.dpworkshop.org/dpm-eng/eng_index.html. Sections: 1. Setting the Stage: Introduction, Timeline. 2. Terms and Concepts: Introduction, Digital Preservation, Archive/Digital Repository. 3. Obsolescence and Physical Threats: Introduction, Chamber of Horrors.
+* *Digital Preservation Management: Implementing Short-Term Strategies for
+Long-Term Solutions*, online tutorial developed for the Digital Preservation
+Management workshop, developed and maintained by Cornell University Library,
+2003-2006, extended and maintained by ICPSR, 2007-on.
+http://www.dpworkshop.org/dpm-eng/eng_index.html.
+    * Section 1. Setting the Stage:
+        * Introduction
+        * Timeline
+    * Section 2. Terms and Concepts
+        * Introduction
+        * Digital Preservation
+        * Archive/Digital Repository
+    * Section 3. Obsolescence and Physical Threats
+        * Introduction
+        * Chamber of Horrors
 
 * "Team Digital Preservation and the Aeroplane Disaster" (video). http://www.youtube.com/watch?v=EKnsZZzuUr. 
 
-* Digital Curation Centre, "What is Digital Curation?" *Digital Curation 101.* http://www.dcc.ac.uk/webfm_send/437.
+* Digital Curation Centre, "What is Digital Curation?" *Digital Curation
+101.* http://www.dcc.ac.uk/webfm_send/437.
 
-* Digital Curation Centre, "Curate and Preserve." *Digital Curation 101.*  http://www.dcc.ac.uk/webfm_send/438.
+* Digital Curation Centre, "Curate and Preserve." *Digital Curation 101.*  
+http://www.dcc.ac.uk/webfm_send/438.
 --> 
 
 #### Week 2: Conceptual Models: OAIS and the DCC Lifecyle (October 1)
@@ -322,6 +447,8 @@ no. 1 (2007): 73-87.
 
 #### Week 3: Ingest, Selection, Provenance and Authenticity (October 8)
 
+**Assignment Due: Response Paper #1**
+
 Ingest is the function within the OAIS Reference Model that accepts packages
 of digital information into a preservation system. Digital preservation
 requires processes of assessment and selection to determine the proper course
@@ -353,11 +480,16 @@ Fonds; SELECT * FROM VANOC_Records AS Archives WHERE Value="true"."
 
 <!-- NOT ASSIGNED FOR FALL 2012:
 
-* David Bearman and Jennifer Trant, "Authenticity of Digital Resources: Towards a Statement of Requirements in the Research Process." D-Lib Magazine June 1998. http://www.dlib.org/dlib/june98/06bearman.html 
+* David Bearman and Jennifer Trant, "Authenticity of Digital Resources: 
+Towards a Statement of Requirements in the Research Process." *D-Lib Magazine*
+June 1998. http://www.dlib.org/dlib/june98/06bearman.html 
 
-* Ross Harvey, "Appraisal and Selection." In DCC Digital Curation Manual, Seamus Ross and Michael Day, eds. (2006). http://www.dcc.ac.uk/sites/default/files/appraisal-and-selection%5B1%5D.pdf 
+* Ross Harvey, "Appraisal and Selection." In *DCC Digital Curation Manual*, 
+Seamus Ross and Michael Day, eds. (2006).
+http://www.dcc.ac.uk/sites/default/files/appraisal-and-selection%5B1%5D.pdf 
 
-* Luc Moreau, et al. "The Provenance of Electronic Data." Communications of the ACM 51, no. 4 (2008): 52-58.
+* Luc Moreau, et al. "The Provenance of Electronic Data." *Communications of
+the ACM* 51, no. 4 (2008): 52-58.
 -->
 
 #### Week 4: Significant Properties and Preservation Planning (October 15)
@@ -409,6 +541,8 @@ selection and recording appropriate metadata, or information about the
 information itself. We will also discuss some issues relating to the viability
 or obsolescence of file formats.
 
+**Assignment Due: Response Paper #2**
+
 **Readings**
 
 * Ross Harvey, "Chapter 6: Description and Representation Information." In
@@ -446,6 +580,8 @@ Resource Citations (ERCs)." (2010).
 
 #### Week 6: Digital Preservation Strategies (October 29)
 
+**Assignment Due: Group Project Part 1**
+
 This week focuses on specific strategies for ensuring the longevity of digital
 information and heavily focuses on case studies. Emulation duplicates the
 function of a full computer system. Migration involves transforming digital
@@ -475,11 +611,13 @@ Requirements and Progress." *International Journal of Digital Curation* 4, no.
 <!-- NOT ASSIGNED FALL 2012:
 
 * Digital Preservation Management Tutorial: http://www.dpworkshop.org/dpm-eng/eng_index.html.
-Sections: 2. Terms and Concepts: Digital Preservation Strategies.
+    * Read Section 2. Terms and Concepts: Digital Preservation Strategies.
 
 -->
 
 #### Week 7: Digital Preservation Policy and Security (November 5)
+
+**Assignment Due: Hands-On Exercise**
 
 Digital preservation policy frameworks are essential in ensuring the continued
 operation of a preservation environment within an institution. We will be
@@ -524,6 +662,8 @@ Humanities Data Service, 1998.
 <http://www.ukoln.ac.uk/services/papers/bl/framework/framework.html>.
 
 #### Week 8: Compliance, Auditing, and Certification (November 12)
+
+**Assignment Due: Response Paper #3**
 
 Certification and auditing are important steps to determine the soundness,
 resilience, and long-term viability of institutions and programs that
@@ -596,7 +736,10 @@ Data" (2010). <http://arks.princeton.edu/ark:/88435/dsp01w6634361k>.
 
 <!-- NOT ASSIGNED IN FALL 2012:
 
-* Richard Wright, Ant Miller, and Matthew Addis. "The Significance of Storage in the 'Cost of Risk' of Digital Preservation." International Journal of Digital Curation 4/3 (2009). http://www.ijdc.net/index.php/ijdc/article/view/138.
+* Richard Wright, Ant Miller, and Matthew Addis. "The Significance of Storage
+in the 'Cost of Risk' of Digital Preservation." International Journal of
+Digital Curation 4/3 (2009).
+http://www.ijdc.net/index.php/ijdc/article/view/138.
 
 -->
 
@@ -604,6 +747,8 @@ Data" (2010). <http://arks.princeton.edu/ark:/88435/dsp01w6634361k>.
 
 Access is the driving force behind preservation. This week will address means
 and requirements of access to preserved digital information.
+
+**Assignment Due: Case Study Analysis**
 
 **Readings**
 
@@ -629,6 +774,13 @@ E-Publishing: Libraries Make the Connection." *Charleston Conference 2009.*
 
 <!-- NOT ASSIGNED IN FALL 2012:
 
-* Rose Holley, "Resource Sharing in Australia: Find and Get in Trove – Making 'Getting' Better." D-Lib Magazine 17, no. 3/4 (2011). http://dlib.org/dlib/march11/holley/03holley.html.
+* Rose Holley, "Resource Sharing in Australia: Find and Get in Trove – Making
+'Getting' Better." D-Lib Magazine 17, no. 3/4 (2011).
+http://dlib.org/dlib/march11/holley/03holley.html.
 
 -->
+
+#### December 10 (Exam Week)
+
+**Assignments Due: Group Project Parts 2 and 3**
+
