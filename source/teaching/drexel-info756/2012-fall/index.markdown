@@ -4,6 +4,8 @@ title: "INFO 756 - Digital Preservation (Fall 2012)"
 footer: false
 sidebar: false
 ---
+##### Drexel University College of Information Science and Technology
+
 <div class="subnav" data-spy="affix" data-offset-top="120">
     <ul class="nav nav-pills">
         <li><a href="#description">Course Description</a></li>
@@ -41,12 +43,52 @@ week's topic.
 
 ### <span id="policies">Policies and Guidelines</span>
 
-This course follows all University policies and procedures, including those 
-for the accommodation for students with disabilities and for observance 
-religious holidays. Fore more information, see the following pages:
+#### Academic Integrity and Plagiarism
 
-* <http://www.drexel.edu/oed/policies/>
-* <http://www.drexel.edu/provost/policies/>
+This course follows all Drexel University policies and procedures regarding
+academic integrity (see
+<http://www.drexel.edu/provost/policies/academic_dishonesty.asp> for more
+details). All assignments submitted must be your own work, with sources
+properly cited. Any incidence of plagiarism or other academic dishonesty will
+result in an F for the course. See "Guidelines for Assignments" below as an
+academic honesty assignment is required on each assignment submitted.
+
+#### Support for Students with Disabilities
+
+Drexel University ensures people with disabilities will have an equal
+opportunity to participate in its programs and activities. Members and guests
+of the Drexel community who have a disability need to register with the Office
+of Disability Services (ODS), if requesting auxiliary aids, accommodations,
+and services to participate in Drexel University’s programs. For further
+information please contact the ODS:
+
+* Web: <http://www.drexel.edu/ods/>
+* Postal address: 3201 Arch St, Suite 210, Philadelphia, PA, 19104
+* Telephone: (215) 895-1401
+* TTY: (215) 895-2299
+
+#### Support for Equality and Diversity
+
+Drexel University strives to promote an environment of equality of opportunity
+and compliance with University policies and federal, state and local laws
+prohibiting discrimination based upon race, color, religion, gender (sex),
+marital status, pregnancy, national origin, age, disability and veteran
+status. Students, faculty and staff with questions about or complaints
+concerning discrimination, harassment, and/or retaliation should contact the
+Office of Equality and Diversity:
+
+* Web: <http://www.drexel.edu/oed/>
+* Telephone: (215) 895-1403
+
+#### Course Drop/Withdrawal
+
+Students may drop a course before the end of the second week of classes. More
+information about dropping a course can be found at
+<http://www.drexel.edu/provost/policies/course_drop.asp>.
+
+Students may withdraw from a course before the end of the sixth week of
+classes. More information about withdrawing from a course can be found at
+Mhttp://www.drexel.edu/provost/policies/course_withdrawal_policy.asp>.
 
 #### Attendance
 
@@ -94,6 +136,16 @@ In the event that your numerical grade falls between two letter grades, your
 grade will be rounded up if the decimal value is 0.5 or greater; otherwise, it
 will be rounded down.
 
+#### Incompletes
+
+Incompletes will be assigned only in cases of serious emergency (e.g. medical
+or family). The instructor retains the right to ask for evidence of the
+emergency upon request. If granted an incomplete, you and the instructor will
+set a mutually agreed-upon final due date by which all outstanding work must
+be completed.
+
+<div style="page-break-before: always;"></div>
+
 #### Class Preparation and Scheduling
 
 * Class runs from **6 PM Eastern Time on Monday** to the following Sunday.
@@ -108,9 +160,10 @@ begins for that week.
 
 #### Guidelines for Assignments
 
-**Any requests for extensions for a particular assignment must be made prior
-to its due date.** Exceptions to this will generally only be considered as a
-result of serious emergencies.
+**Late assignments will not be accepted unless the instructor has granted an
+extension. Any requests for extensions for a particular assignment must be
+made prior to its due date.** Exceptions to this will generally only be
+considered as a result of serious emergencies.
 
 **While assignment length is a guideline, it is also significant.** Because
 students tend to use various fonts and margins, I have included approximate
@@ -146,8 +199,6 @@ include notification about this and indicate that deliverables will not be
 graded without this certification page. For more information, please visit the
 following page: <http://www.drexel.edu/studentlife/judicial/honesty.html>. The
 certification text follows:
-
-<div style="page-break-before: always;"></div>
 
 > I certify that:
 >
@@ -227,6 +278,8 @@ absences. To ensure that you are not charged with an unexcused absence, you
 should at least check in during the weeks you are not planning to make a
 substantive comment.
 
+<div style="page-break-before: always;"></div>
+
 Posts will be assessed based on four criteria:
 
 * Relevance of the post to the question posed and/or the conversation taking
@@ -291,6 +344,8 @@ preservation policies. For example, the ICPSR Digital Preservation Policy
 Framework refers to more than eight other documents. You may need to do a
 little additional research to find related documentation.
 
+<div style="page-break-before: always;"></div>
+
 #### Hands-On Exercise (10%)
 
 For this assignment, you will choose a hands-on exercise out from two or three
@@ -310,6 +365,7 @@ the article. To identify an appopriate case study, you can use a published
 article, or a report that is available on the web, as long as it follows the
 guidelines below:
 
+* The case study was not assigned as a reading for class.
 * You must choose a case study that reports on work that has been started or
 completed, rather than one that only describes a plan for a project.
 * The case study must be no more than five years old (i.e. published in 2007
@@ -326,6 +382,23 @@ particularly if they could impact future projects. Regardless whether you
 agree or disagree with the approach the project took, describe the reasons why
 you feel that way in detail.
 
+Potential sources for your case studies can include, but are not limited to
+the following:
+
+* Archives journals, like *American Archivist*, *Archivaria*, *Archival
+Science*, etc.
+* Digital curation/digital preservation journals, like *International Journal
+for Digital Curation*
+* Library technology/digital library journals, like *Library Hi-Tech*,
+*D-Lib*, *Ariadne*, *Code4lib Journal*, etc.
+* Papers from conferences, like iPRES, DigCCurr, Society of American 
+Archivists, Association of Moving Image Archivists, etc.
+* Case studies from professional organizations, like the Digital Curation
+Centre, NDIIPP, the Digital Preservation Coalition, Open Planets Foundation,
+etc.
+* The Digital Curation Bibliography:
+<http://digital-scholarship.org/dcpb/dcb.htm>
+
 #### Group Project (35%)
 
 This is a group project designed to allow you gain experience assessing the
@@ -336,14 +409,88 @@ students total, but this project should be manageable with groups of at least
 three students. The instructor will form the groups for you and list the
 groups by the beginning of Week 2. 
 
-This assignment has three parts: a draft preservation plan, a final report,
-and an evaluation of your peers in your group.
+You may use any technology you'd like to collaborate with the members of your
+group, including but not limited to group discussion boards, email, Skype,
+etc. If any problems occur with the group collaboration, please notify me at
+the time that these occur. Although I can consider relative contributions, I
+cannot make any allowance for problems that are reported after assignments
+have been graded.
 
-**Part 1: Draft Preservation Plan**
+This assignment has three parts: a draft preservation plan (Part 1), a final
+report (Part 2), and an evaluation of your peers in your group (Part 3). For
+Parts 1 and 2, you should ensure that your submitted assignments are written
+in a consistent voice that represents the entire group. Part 3 is submitted
+individually and will be used in grade apportionment.
 
-**Part 2: Final Report**
+**Part 1: Draft Preservation Plan (not assessed)**
 
-**Part 3: Peer Evaluation**
+The first part of this assignment is a draft of your preservation plan. While
+not graded, it is nonetheless a mandatory part of the assignment. This gives
+the instructor an opportunity to give you feedback and guidance about how to
+expand and improve upon this draft for the final report. 
+
+For this part of the assignment, your group should ensure you do the
+following:
+
+* Undertake the selection of a common interest across your group, and identify
+or create a collection of digital information for that interest. This can
+include websites, audio or video recordings, software, textual material, etc.,
+and should include more than one of these types of digital media.
+* Develop a description of that shared interest and the motivation for
+preserving that material. Identify the context of the collection and provide
+information about its creation, and describe it in any other way you think is
+relevant in terms of how it gets preserved.
+* Perform an appraisal of the contents of your collection and identify a 
+subset of that collection that you consider worthy of long-term preservation.
+Your group should describe its appraisal decision and selection process in
+detail. In addition, identify any important needs for this subset that would
+need to be addressed for that information to be preserved appropriately.
+* Begin developing a preservation plan to address the identified needs. Your
+preliminary plan should address potential strategies and actions, technical
+considerations such as file formats or metadata requirements, and potential
+compromises that you will need to make. These may include considerations of
+intellectual property rights, and in reflecting on these, describe the 
+implications on your plan of action.
+
+Be sure to address the big picture as well as focusing on the details, such as
+whether you think this is feasible, potential expertise or staffing needed for
+this project, and how much time and/or money it would take. 
+
+**Part 2: Final Report (30%)**
+
+Using the feedback you received on Part 1, rewrite and expand upon your
+preservation plan to thoroughly identify the collection of information and its
+requirements for preservation. Treat this as if you were developing a funding
+proposal for a grant agency or a private foundation. Accordingly, you should
+develop a budget, timeline and include a detailed description of the staff
+necessary for this project. You should identify any outstanding risks or
+challenges and describe how you intend to address them.
+
+Sample successful (i.e. funded) grant proposals that can be used for ideas
+can be found from the following links:
+
+* Institute of Museum and Library Services:
+<http://www.imls.gov/recipients/grantsearch.aspx> (see National Leadership
+Grants - Advancing Digital Resources)
+* National Historical Publications &amp; Records Commission - Electronic 
+Records Projects:
+<http://www.archives.gov/nhprc/projects/electronic-records/projects.html>
+* National Endowment for the Humanities - Preservation and Access Research and Development:
+<http://www.neh.gov/grants/preservation/preservation-and-access-research-and-development>
+(see Recently Funded Awards and Sample Application Narratives)
+
+**Part 3: Peer Evaluation (5%)**
+
+All students are required to submit a peer evaluation at the end of the term
+that indicated the relative contribution of their group members to the
+project. These evaluations are used for grade apportionment. It is critical
+that you take these seriously. You will complete a peer evaluation form for
+each member of your group, including yourself. In addition, write
+approximately 150-200 words about each member of your group describing
+specific strengths, weaknesses and moments of excellence or problems that
+you've identified. 
+
+The peer evaluation form is available on Blackboard.
 
 ### Course Schedule 
 
@@ -535,13 +682,13 @@ Science* 10 (2010): 85-116.
 
 #### Week 5: Describing and Characterizing Digital Information (October 22)
 
+**Assignment Due: Response Paper #2**
+
 This week will focus on particular requirements and challenges related to the
 long-term viability and accessibility of digital information, such as the
 selection and recording appropriate metadata, or information about the
 information itself. We will also discuss some issues relating to the viability
 or obsolescence of file formats.
-
-**Assignment Due: Response Paper #2**
 
 **Readings**
 
@@ -745,10 +892,10 @@ http://www.ijdc.net/index.php/ijdc/article/view/138.
 
 #### Week 10: Access and User Needs (December 3)
 
+**Assignment Due: Case Study Analysis**
+
 Access is the driving force behind preservation. This week will address means
 and requirements of access to preserved digital information.
-
-**Assignment Due: Case Study Analysis**
 
 **Readings**
 
