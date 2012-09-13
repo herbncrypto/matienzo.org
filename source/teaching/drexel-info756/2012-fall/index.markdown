@@ -361,7 +361,7 @@ More detail about this assignment is available on Blackboard.
 
 In this assignment, you will select a case study that describes a specific
 digital preservation project, program, or activity, and analyze and critique
-the article. To identify an appopriate case study, you can use a published
+the article. To identify an appropriate case study, you can use a published
 article, or a report that is available on the web, as long as it follows the
 guidelines below:
 
@@ -577,12 +577,13 @@ http://www.dpworkshop.org/dpm-eng/eng_index.html.
 http://www.dcc.ac.uk/webfm_send/438.
 --> 
 
-#### Week 2: Conceptual Models: OAIS and the DCC Lifecyle (October 1)
+#### Week 2: Conceptual Models: OAIS and the DCC Lifecycle (October 1)
 
 The Reference Model for an Open Archival Information System is a conceptual
 framework and an international standard for describing the components of a
 digital preservation environment. We will focus on the different components
-and their relationships during this week.
+and their relationships during this week. We will also be looking at the DCC
+Lifecycle model, as developed by the Digital Curation Centre.
 
 **Readings**
 
@@ -835,7 +836,7 @@ Humanities Data Service, 1998.
 
 #### Week 8: Compliance, Auditing, and Certification (November 12)
 
-**Assignment Due: Response Paper #3**
+**Assignments Due: Response Paper #3; submission of choice of case study**
 
 Certification and auditing are important steps to determine the soundness,
 resilience, and long-term viability of institutions and programs that
