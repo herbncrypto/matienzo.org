@@ -432,7 +432,7 @@ expand and improve upon this draft for the final report.
 For this part of the assignment, your group should ensure you do the
 following:
 
-* Undertake the selection of a common area ofinterest across your group, and
+* Undertake the selection of a common area of interest across your group, and
 identify or create a collection of digital information for that interest. This
 can include websites, audio or video recordings, software, textual material,
 etc., and should include more than one of these types of digital media.
@@ -461,10 +461,35 @@ this project, and how much time and/or money it would take.
 Using the feedback you received on Part 1, rewrite and expand upon your
 preservation plan to thoroughly identify the collection of information and its
 requirements for preservation. Treat this as if you were developing a funding
-proposal for a grant agency or a private foundation. Accordingly, you should
-develop a budget, timeline and include a detailed description of the staff
-necessary for this project. You should identify any outstanding risks or
-challenges and describe how you intend to address them.
+proposal for a grant agency or a private foundation. Your report should
+include the following components:
+
+* A revised version of your documentation from part 1 of your assignment. 
+Ensure you adequately address the feedback provided by the instructor, such as
+expanding things in need of more detail. 
+* A detailed staffing plan, identifying the roles, time allocation, and 
+expertise needed to actualize this plan.
+* A detailed timeline and work plan that breaks down the necessary work into 
+multiple phases, with a reasonable estimate about how long each phase and set
+of tasks will take.
+* A detailed description of any additional tangible resources (e.g. hardware 
+or software, etc.) or services that you would need.
+* Identification of any significant risks or challenges for the project, and
+how your group intends to address them.
+* An overview of similar projects or those which may have some relevance to
+how your group intends to execute its plan. 
+* A brief outline of how you would evaluate the success of your project.
+Stating that you intend to evaluate the success of how well the information 
+was preserved over the long term is not adequate. Assume that  your project 
+has a finite first phase and that you need to evaluate your
+project to get further support.
+
+You are not expected to prepare a budget.
+
+While there is not a specific length requirement, I expect that most final 
+reports will be between **3500-5000 words.** Ensure that your final report
+shares one common voice. You can refer to specific discussions within your
+group, but the writing style should be consistent throughout.
 
 Sample successful (i.e. funded) grant proposals that can be used for ideas
 can be found from the following links:
