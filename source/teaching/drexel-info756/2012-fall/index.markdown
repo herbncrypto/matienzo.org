@@ -432,10 +432,10 @@ expand and improve upon this draft for the final report.
 For this part of the assignment, your group should ensure you do the
 following:
 
-* Undertake the selection of a common interest across your group, and identify
-or create a collection of digital information for that interest. This can
-include websites, audio or video recordings, software, textual material, etc.,
-and should include more than one of these types of digital media.
+* Undertake the selection of a common area ofinterest across your group, and
+identify or create a collection of digital information for that interest. This
+can include websites, audio or video recordings, software, textual material,
+etc., and should include more than one of these types of digital media.
 * Develop a description of that shared interest and the motivation for
 preserving that material. Identify the context of the collection and provide
 information about its creation, and describe it in any other way you think is
