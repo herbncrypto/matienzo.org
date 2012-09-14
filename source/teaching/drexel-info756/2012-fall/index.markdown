@@ -88,7 +88,7 @@ information about dropping a course can be found at
 
 Students may withdraw from a course before the end of the sixth week of
 classes. More information about withdrawing from a course can be found at
-Mhttp://www.drexel.edu/provost/policies/course_withdrawal_policy.asp>.
+<http://www.drexel.edu/provost/policies/course_withdrawal_policy.asp>.
 
 #### Attendance
 
@@ -243,7 +243,8 @@ integral process by submitting a course evaluation at the end of this term.
 You are expected to complete the readings for a given week before the start of
 class that week, with the exception of week 1. Please complete Week 1's
 readings by the middle of Week 1 if possible. The readings for a given week
-are listed in the Course Schedule below.
+are listed in the Course Schedule below. The listing below should be treated
+as the authoritative listing.
 
 The lectures will both build on and supplement the material in the readings.
 In some cases, assigned readings may only require you to skim them or are
@@ -299,7 +300,7 @@ Midterm grades for participation will be distributed around weeks 5 to 6.
 Throughout the term, you are responsible for writing three response papers of
 **800-1200 words**. For each response papers, you choose a reading from a
 given class week's readings, summarize the key points in that piece, and
-critique those key points. You do not need to choose an reading from the week
+critique those key points. You do not need to choose a reading from the week
 that the response paper is due (e.g., for Response Paper #1, you can choose a
 reading from Week 1, 2, or 3). **Readings from the textbook (*Digital
 Curation: A How-To-Do-It Manual*) and any reading marked [SKIM] are not to be
