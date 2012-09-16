@@ -160,10 +160,14 @@ begins for that week.
 
 #### Guidelines for Assignments
 
-**Late assignments will not be accepted unless the instructor has granted an
+**Late assignments may not be accepted unless the instructor has granted an
 extension. Any requests for extensions for a particular assignment must be
 made prior to its due date.** Exceptions to this will generally only be
-considered as a result of serious emergencies.
+considered as a result of serious emergencies. In the event that I do accept
+a late assignment without an extension or you turn in an assignment past the
+date due associated with the extension, I will deduct 5% of the total possible
+points each day that it is late (e.g. 0.5 points per day on an assignment
+worth 10 points).
 
 **While assignment length is a guideline, it is also significant.** Because
 students tend to use various fonts and margins, I have included approximate
@@ -734,8 +738,8 @@ or obsolescence of file formats.
 **Readings**
 
 * Harvey, Ross. "Chapter 6: Description and Representation Information." In
-*Digital Curation: A How-To-Do-It-Manual*, 65-82. New York: Neal Schuman,
-2010.
+*Digital Curation: A How-To-Do-It-Manual*, 65-82. New York:
+Neal-Schuman, 2010.
 * **[OPTIONAL]** Gilliland, Anne J. "Setting the Stage." In *Introduction to 
 Metadata*, edited by Murtha Baca. 3rd ed. Los Angeles: Getty Research 
 Institute, 2008.
@@ -947,6 +951,9 @@ and requirements of access to preserved digital information.
 
 * Harvey, Ross. "Chapter 15: Using and Reusing Data." In *Digital Curation:
 A How-To-Do-It-Manual*, 199-216. New York: Neal Schuman, 2010.
+* Kirschenbaum, Matthew G. "Coda: Austin's Afternoons." In *Mechanisms: New
+Media and the Forensic Imagination*, 207-211. Cambridge, Mass.: MIT
+Press, 2008.
 * Chowdhury, Gobinda. "From Digital Libraries to Digital Preservation
 Research: The Importance of Users and Context." *Journal of Documentation* 
 66, no. 2 (2010): 207-223. 
