@@ -539,8 +539,8 @@ Schuman, 2010):
     * "Chapter 2: The Changing Landscape," 19-32. 
     * "Chapter 4: Defining Data," 45-52.
     * "Chapter 5: Curation and Curators," 55-63.
-* Berman, Francine. "Got data? A guide to data preservation in the information
-age." *Communications of the ACM* 51, no. 12 (2008): 50-56.
+* Berman, Francine. "Got Data? A Guide To Data Preservation In The Information
+Age." *Communications of the ACM* 51, no. 12 (2008): 50-56.
 * Choose one of the following:
     * [Audio, 28 mins.] "Digital Archaeology and the Temporary Nature of 
     Technology." *Future Tense.* ABC Radio National, January 29, 2012.
@@ -667,6 +667,8 @@ Fonds; SELECT * FROM VANOC_Records AS Archives WHERE Value="true"."
 Provenance on the Web." *International Journal of Digital Curation* 7, no. 1
 (2012): 39-56.
 [doi:10.2218/ijdc.v7i1.213](http://dx.doi.org/10.2218/ijdc.v7i1.213).
+* Fear, Kathleen, and Devan Ray Donaldson. "Provenance and Credibility in 
+Scientific Data Repositories." *Archival Science* 12, no. 3 (2012): 319-339.
 
 <!-- NOT ASSIGNED FOR FALL 2012:
 
