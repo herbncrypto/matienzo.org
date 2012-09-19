@@ -539,8 +539,14 @@ Schuman, 2010):
     * "Chapter 2: The Changing Landscape," 19-32. 
     * "Chapter 4: Defining Data," 45-52.
     * "Chapter 5: Curation and Curators," 55-63.
-* Berman, Francine. "Got Data? A Guide To Data Preservation In The Information
-Age." *Communications of the ACM* 51, no. 12 (2008): 50-56.
+* Sterling, Bruce. "Digital Decay." In *Permanence Through Change: The 
+Variable Media Approach*, edited by Alain Depocas, Jon Ippolito, and Caitlin
+Jones, 11-22. New York and Montréal: The Solomon R. Guggenheim Museum and 
+Daniel Langlois Foundation, 2003.
+<http://variablemedia.net/pdf/Sterling.pdf>.
+* Lavoie, Brian, and Lorcan Dempsey. "Thirteen Ways of Looking At... Digital
+Preservation." *D-Lib Magazine* 10, no. 7/8 (July/August 2004). 
+[doi:10.1045/july2004-lavoie](http://dx.doi.org/10.1045/july2004-lavoie).
 * Choose one of the following:
     * [Audio, 28 mins.] "Digital Archaeology and the Temporary Nature of 
     Technology." *Future Tense.* ABC Radio National, January 29, 2012.
@@ -550,12 +556,11 @@ Age." *Communications of the ACM* 51, no. 12 (2008): 50-56.
 * Beagrie, Neil. "Digital Curation for Science, Digital Libraries, and 
 Individuals." *International Journal of Digital Curation* 1, no. 1 (2006):
 3-16. [doi:10.2218/ijdc.v1i1.2](http://dx.doi.org/10.2218/ijdc.v1i1.2).
-* Sterling, Bruce. "Digital Decay." In *Permanence Through Change: The 
-Variable Media Approach*, edited by Alain Depocas, Jon Ippolito, and Caitlin
-Jones, 11-22. New York and Montréal: The Solomon R. Guggenheim Museum and 
-Daniel Langlois Foundation, 2003. <http://variablemedia.net/pdf/Sterling.pdf>.
 
 <!-- NOT ASSIGNED FALL 2012:
+
+* Berman, Francine. "Got Data? A Guide To Data Preservation In The 
+Information Age." *Communications of the ACM* 51, no. 12 (2008): 50-56.
 
 * Mackenzie Smith, "External Bits: How Can We Preserve Digital Files and Save
 our Collective Memory?" *IEEE Spectrum* (July 2005).
@@ -652,7 +657,13 @@ the related archival concepts.
 * Harvey, Ross. "Chapter 11: Deciding What Data to Keep." In *Digital 
 Curation: A How-To-Do-It-Manual*, 131-149. New York: Neal Schuman, 2010.
 * Harvey, Ross. "Chapter 12: Ingesting Data." In *Digital Curation: 
- How-To-Do-It-Manual*, 151-159. New York: Neal Schuman, 2010.
+A How-To-Do-It-Manual*, 151-159. New York: Neal Schuman, 2010.
+* AIMS Work Group. "Chapter 1: Collection Development." In *AIMS Born-Digital
+Collections: An Inter-Institutional Model for Stewardship*, 4-16. 2012.
+<http://www2.lib.virginia.edu/aims/whitepaper/AIMS_final.pdf>.
+* AIMS Work Group. "Chapter 2: Accessioning." In *AIMS Born-Digital
+Collections: An Inter-Institutional Model for Stewardship*, 17-30. 2012.
+<http://www2.lib.virginia.edu/aims/whitepaper/AIMS_final.pdf>.
 * Hirtle, Peter. "Archival Authenticity in a Digital Age." In *Authenticity 
 in a Digital Environment.* Washington: Council on Library and Information 
 Resources, 2000: 8-23. <http://www.clir.org/pubs/reports/pub92/>.
@@ -667,10 +678,20 @@ Fonds; SELECT * FROM VANOC_Records AS Archives WHERE Value="true"."
 Provenance on the Web." *International Journal of Digital Curation* 7, no. 1
 (2012): 39-56.
 [doi:10.2218/ijdc.v7i1.213](http://dx.doi.org/10.2218/ijdc.v7i1.213).
-* Fear, Kathleen, and Devan Ray Donaldson. "Provenance and Credibility in 
-Scientific Data Repositories." *Archival Science* 12, no. 3 (2012): 319-339.
+* **[OPTIONAL]** Fear, Kathleen, and Devan Ray Donaldson. "Provenance and 
+Credibility in  Scientific Data Repositories." *Archival Science* 12, no. 3
+(2012): 319-339.
 
 <!-- NOT ASSIGNED FOR FALL 2012:
+
+* Smith, Abby. "Authenticity and Affect: When Is a Watch Not a Watch?" 
+*Library Trends* 52, no. 1 (2003): 172-182. <http://hdl.handle.net/2142/8498>.
+
+* InterPARES I Project. "Appendix 2: Requirements for Assessing and
+Maintaining the Authenticity of Electronic Records." In *The Long-Term
+Preservation of Authentic Electronic Records: Findings of the InterPARES
+Project,* edited by Luciana Duranti. San Miniato: Archilab, 2005. 
+http://www.interpares.org/book/interpares_book_k_app02.pdf.
 
 * David Bearman and Jennifer Trant, "Authenticity of Digital Resources: 
 Towards a Statement of Requirements in the Research Process." *D-Lib Magazine*
@@ -704,11 +725,6 @@ How-To-Do-It-Manual*, 115-130. New York: Neal Schuman, 2010.
 Significant Properties of Digital Research." *International Journal of 
 Digital Curation* 4, no. 1 (2009): 159-174.
 [doi:10.2218/ijdc.v4i1.86](http://dx.doi.org/10.2218/ijdc.v4i1.86).
-* Giaretta, David, Brian Matthews, Juan Bicarregui, Simon Lambert, Mariella
-Guercio, Giovanni Michetti, and Donald Sawyer. "Significant Properties, 
-Authenticity, Provenance, Representation Information and OAIS Information." 
-*iPRES 2009: Sixth  International Conference on Preservation of Digital
-Objects* (2009): 67-73.  <http://escholarship.org/uc/item/0wf3j9cw>.
 * Becker, Christoph, Hannes Kulovits, Mark Guttenbrunner, Stephan Strodl, 
 Andreas Rauber and Hans Hofman. "Systematic Planning For Digital 
 Preservation: Evaluating Potential Strategies And Building Preservation
@@ -718,7 +734,7 @@ Plans." *International Journal on Digital Libraries* 10 no. 4 (2009),
 Goals to Guide Digital Preservation." *International Journal of Digital
 Curation* 4, no. 2 (2009), 119-134.
 [doi:10.2218/ijdc.v4i2.102](http://dx.doi.org/10.2218/ijdc.v4i2.102).
-* **[OPTIONAL]** Guttenbrunner, Mark, Christoph Becker, and Andreas Rauber. 
+* Guttenbrunner, Mark, Christoph Becker, and Andreas Rauber. 
 "Keeping the Game Alive: Evaluating Strategies for the Preservation of
 Console Video Games." *International Journal of Digital Curation* 5, no. 1
 (2010), 64-90.
@@ -726,6 +742,16 @@ Console Video Games." *International Journal of Digital Curation* 5, no. 1
 * **[OPTIONAL]** Yeo, Geoffrey. "'Nothing is the Same as Something Else': 
 Significant Properties and Notions of Identity and Originality." *Archival 
 Science* 10 (2010): 85-116.
+
+<!-- NOT ASSIGNED FALL 2012:
+
+* Giaretta, David, Brian Matthews, Juan Bicarregui, Simon Lambert, Mariella
+Guercio, Giovanni Michetti, and Donald Sawyer. "Significant Properties, 
+Authenticity, Provenance, Representation Information and OAIS Information." 
+*iPRES 2009: Sixth International Conference on Preservation of Digital
+Objects* (2009): 67-73. http://escholarship.org/uc/item/0wf3j9cw
+
+-->
 
 #### Week 5: Describing and Characterizing Digital Information (October 22)
 
@@ -750,13 +776,11 @@ Institute, 2008.
     limited familiarity or experience with metadata. It is a high-level
     overview and will give you some background information on types of
     metadata in advance of class.
-* *Digital Preservation Management: Implementing Short-Term Strategies for 
-Long-Term Solutions* (online tutorial).
-<http://www.dpworkshop.org/dpm-eng/eng_index.html>.
-    * Section 2. Terms & Concepts: Metadata
-    * Section 4. Foundations: Preservation Metadata.
 * Wilson, Andrew. "How Much Is Enough: Metadata for Preserving Digital Data."
 *Journal of Library Metadata* 10 (2010), 205-217.
+* AIMS Work Group. "Chapter 3: Arrangement and Description." In *AIMS
+Born-Digital Collections: An Inter-Institutional Model for Stewardship*,
+31-43. 2012. <http://www2.lib.virginia.edu/aims/whitepaper/AIMS_final.pdf>.
 * Dappert, Angela, and Markus Enders. "Using METS, PREMIS and MODS for 
 Archiving eJournals," *D-Lib Magazine* 14, no. 9/10 (September/October 2008).
 [doi:10.1045/september2008-dappert](http://dx.doi.org/10.1045/september2008-dappert).
@@ -769,9 +793,19 @@ Congress, 2009.
 * **[SKIM]** Abrams, Stephen. "File Formats."  *DCC Digital Curation
 Manual*, edited by Seamus Ross and Michael Day (2007).
 <http://www.dcc.ac.uk/sites/default/files/documents/resource/curation-manual/chapters/file-formats/file-formats.pdf>.
+
+<!-- NOT ASSIGNED FALL 2012:
+
+* *Digital Preservation Management: Implementing Short-Term Strategies for 
+Long-Term Solutions* (online tutorial).
+http://www.dpworkshop.org/dpm-eng/eng_index.html.
+    * Section 2. Terms & Concepts: Metadata
+    * Section 4. Foundations: Preservation Metadata.
+
 * **[SKIM]** Kunze, John A., and Adrian Turner. "Kernel Metadata and 
 Electronic Resource Citations (ERCs)." (2010).
-<http://dublincore.org/groups/kernel/spec/>.
+http://dublincore.org/groups/kernel/spec/.
+-->
 
 #### Week 6: Digital Preservation Strategies (October 29)
 
@@ -789,6 +823,11 @@ will also discuss the impact of storage media on digital preservation.
 How-To-Do-It-Manual*, 161-180. New York: Neal Schuman, 2010.
 * Harvey, Ross. "Chapter 14: Storing Data." In *Digital Curation: A
 How-To-Do-It-Manual*, 181-198. New York: Neal Schuman, 2010.
+* Ippolito, Jon. "Accomodating the Unpredictable: The Variable Media 
+Questionnaire." In *Permanence Through Change: The Variable Media Approach*, 
+edited by Alain Depocas, Jon Ippolito, and Caitlin Jones, 47-53. New York and
+Montréal: The Solomon R. Guggenheim Museum and Daniel Langlois
+Foundation, 2003. <http://variablemedia.net/pdf/Ippolito.pdf>.
 * Rothenberg, Jeff. "Renewing the Erl King." (2006)
 <http://www.bampfa.berkeley.edu/about/ErlKingReport.pdf>.
 * Carroll, Laura. Erika Farr, Peter Hornsby, and Ben Ranker. "A Comprehensive 
@@ -797,9 +836,6 @@ Approach to Born-Digital Archives." *Archivaria* 72 (2011): 61-92.
 Formats:  Scaling a Pilot Project to Enable Long-Term Access." *D-Lib
 Magazine* 13, no. 7/8 (2007).
 [doi:10.1045/july2007-linden](http://dx.doi.org/10.1045/july2007-linden).
-* Hedstrom, Margaret, Christopher Lee, Judith Olson, and Clifford Lampe. 
-"'The Old Version Flickers More:' Digital Preservation from the User's
-Perspective." *American Archivist* 69 (Summer 2006), 159-187.
 * Janée, Greg, James Frew, and Terry Moore. "Relay-supporting Archives: 
 Requirements and Progress." *International Journal of Digital Curation* 4, no.
 1 (2009), 57-70.
@@ -872,17 +908,16 @@ studies.
 
 * **[OPTIONAL]** *Trusted Digital Repositories: Attributes and 
 Responsibilities.* An RLG-OCLC Report. Mountain View, CA: RLG, 2002. 
-<http://www.oclc.org/research/activities/past/rlg/trustedrep/repositories.pdf.>
+<http://www.oclc.org/research/activities/past/rlg/trustedrep/repositories.pdf>.
     * If you need a refresher, re-read pages 1-16, 33-35, and 49-56 ONLY.
     No other reading is assigned from this document for this week.
 * **[SKIM]** Consultative System for Space Data Systems, *Audit and
 Certification of Trustworthy Digital Repositories.* Recommended Practice
 652.0-M-1, September 2011.
 <http://public.ccsds.org/publications/archive/652x0m1.pdf>.
-* **[SKIM]** Consultative System for Space Data Systems, Requirements for 
-Bodies Providing Audit and Certification of Candidate Trustworthy Digital
-Repositories. Recommended Practice 652.1-M-1 (November 2011).
-<http://public.ccsds.org/publications/archive/652x1m1.pdf>.
+* Center for Research Libraries. "CRL Certification Report on Chronopolis."
+March 2012.
+<http://www.crl.edu/sites/default/files/attachments/pages/Chron_Report_2012_final_0.pdf>
 * Ross, Seamus, and Andrew McHugh. "Audit and Certification of Digital 
 Repositories: Creating a Mandate for the Digital Curation Centre (DCC)."
 *RLG DigiNEWS* 9, no. 5 (2005). <http://eprints.erpanet.org/105/01/Ross_McHugh_auditandcertification_RLG_DigiNews.pdf>.
@@ -895,6 +930,15 @@ Enquiry within DRAMBORA." *International Journal of Digital Curation* 3, no.
 Chain of Preservation: The TRAC Checklist Applied to a Data Staging 
 Repository (DataStaR)." *D-Lib Magazine* 15, no. 9/10 (2009).
 [doi:10.1045/september2009-steinhart](http://dx.doi.org/10.1045/september2009-steinhart).
+
+<!-- NOT ASSIGNED FALL 2012:
+
+* **[SKIM]** Consultative System for Space Data Systems, Requirements for 
+Bodies Providing Audit and Certification of Candidate Trustworthy Digital
+Repositories. Recommended Practice 652.1-M-1 (November 2011).
+http://public.ccsds.org/publications/archive/652x1m1.pdf.
+
+-->
 
 #### November 19-25 - No Class
 
@@ -956,27 +1000,36 @@ A How-To-Do-It-Manual*, 199-216. New York: Neal Schuman, 2010.
 * Kirschenbaum, Matthew G. "Coda: Austin's Afternoons." In *Mechanisms: New
 Media and the Forensic Imagination*, 207-211. Cambridge, Mass.: MIT
 Press, 2008.
+* AIMS Work Group. "Chapter 4: Discovery and Access." In *AIMS Born-Digital
+Collections: An Inter-Institutional Model for Stewardship*, 44-62. 2012.
+<http://www2.lib.virginia.edu/aims/whitepaper/AIMS_final.pdf>.
 * Chowdhury, Gobinda. "From Digital Libraries to Digital Preservation
 Research: The Importance of Users and Context." *Journal of Documentation* 
 66, no. 2 (2010): 207-223. 
-* Kirschenbaum, Matthew G., Erika L. Farr, Kari M. Kraus, Naomi Nelson,
-Catherine Stollar Peters, Gabriela Redwine, and Doug Reside. "Digital
-Materiality: Preserving Access to Computers as Complete Environments."
-*iPRES 2009: Sixth International  Conference on Preservation of Digital
-Objects* (2009): 105-112. <http://escholarship.org/uc/item/7d3465vg>.
-* Lane, Julia, and Stephanie Shipp. "Using a Remote Access Data Enclave for 
-Data Dissemination." *International Journal of Digital Curation* 2, no. 1
-(2007): 128-134.
-[doi:10.2218/ijdc.v2i1.20](http://dx.doi.org/10.2218/ijdc.v2i1.20).
-* Burton, Adrian, and Andrew Treloar. "Designing for Discovery and Re-Use: The
-'ANDS Data Sharing Verbs' Approach to Service Decomposition." *International 
-Journal of Digital Curation* 4, no. 3 (2009): 44-56.
-[doi:10.2218/ijdc.v4i3.124](http://dx.doi.org/10.2218/ijdc.v4i3.124).
+* Hedstrom, Margaret, Christopher Lee, Judith Olson, and Clifford Lampe. 
+"'The Old Version Flickers More:' Digital Preservation from the User's
+Perspective." *American Archivist* 69 (Summer 2006), 159-187.
 * Choudhury, Sayeed, Mike Furlough, and Joyce Ray, "Digital Curation and
 E-Publishing: Libraries Make the Connection." *Charleston Conference 2009.*
 <http://jhir.library.jhu.edu/handle/1774.2/35005>.
 
 <!-- NOT ASSIGNED IN FALL 2012:
+
+* Kirschenbaum, Matthew G., Erika L. Farr, Kari M. Kraus, Naomi Nelson,
+Catherine Stollar Peters, Gabriela Redwine, and Doug Reside. "Digital
+Materiality: Preserving Access to Computers as Complete Environments."
+*iPRES 2009: Sixth International  Conference on Preservation of Digital
+Objects* (2009): 105-112. http://escholarship.org/uc/item/7d3465vg.
+
+* Lane, Julia, and Stephanie Shipp. "Using a Remote Access Data Enclave for 
+Data Dissemination." *International Journal of Digital Curation* 2, no. 1
+(2007): 128-134.
+[doi:10.2218/ijdc.v2i1.20](http://dx.doi.org/10.2218/ijdc.v2i1.20).
+
+* Burton, Adrian, and Andrew Treloar. "Designing for Discovery and Re-Use: The
+'ANDS Data Sharing Verbs' Approach to Service Decomposition." *International 
+Journal of Digital Curation* 4, no. 3 (2009): 44-56.
+[doi:10.2218/ijdc.v4i3.124](http://dx.doi.org/10.2218/ijdc.v4i3.124).
 
 * Rose Holley, "Resource Sharing in Australia: Find and Get in Trove – Making
 'Getting' Better." D-Lib Magazine 17, no. 3/4 (2011).
