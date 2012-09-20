@@ -11,6 +11,7 @@ sidebar: false
         <li><a href="#description">Course Description</a></li>
         <li><a href="#policies">Policies and Guidelines</a></li>
         <li><a href="#assignments">Assignments &amp; Course Requirements</a></li>
+        <li><a href="#schedule">Course Schedule</a></li>
     </ul>
 </div>
 
@@ -240,7 +241,7 @@ instructor, helps the College improve classes and teaching, and is used by
 administrators in annual faculty performance reviews. Please be part of this
 integral process by submitting a course evaluation at the end of this term.
 
-### Assignments, Student Evaluation, and Course Requirements
+### <span id="assignments">Assignments and Course Requirements</span>
 
 #### Readings
 
@@ -522,7 +523,7 @@ you've identified.
 
 The peer evaluation form is available on Blackboard.
 
-### Course Schedule 
+### <span id="schedule">Course Schedule</span>
 
 #### Week 1: What is Digital Preservation? (September 24)
 
@@ -626,6 +627,9 @@ Libraries*, October 13, 2008).
 * Vardigan, Mary, and Cole Whiteman. "ICPSR meets OAIS: Applying the OAIS 
 Reference Model to the Social Science Archive Context," *Archival Science* 7, 
 no. 1 (2007): 73-87.
+* **[OPTIONAL]** Ball, Alex. *Review of Data Mangement Lifecycle Models.* 
+Version 1.0. REDm-MED Project Document redm1rep120110ab10. Bath, UK:
+University of Bath, January 10, 2012. <http://opus.bath.ac.uk/28587>.
 
 <!-- NOT ASSIGNED FALL 2012:
 
@@ -781,9 +785,6 @@ Institute, 2008.
 * AIMS Work Group. "Chapter 3: Arrangement and Description." In *AIMS
 Born-Digital Collections: An Inter-Institutional Model for Stewardship*,
 31-43. 2012. <http://www2.lib.virginia.edu/aims/whitepaper/AIMS_final.pdf>.
-* Dappert, Angela, and Markus Enders. "Using METS, PREMIS and MODS for 
-Archiving eJournals," *D-Lib Magazine* 14, no. 9/10 (September/October 2008).
-[doi:10.1045/september2008-dappert](http://dx.doi.org/10.1045/september2008-dappert).
 * Starr, Joan, and Angela Gastl. "isCitedBy: A Metadata Scheme for DataCite."
 *D-Lib Magazine* 17, no. 1/2 (January/February 2011).
 [doi:10.1045/january2011-starr](http://dx.doi.org/10.1045/january2011-starr).
@@ -793,6 +794,13 @@ Congress, 2009.
 * **[SKIM]** Abrams, Stephen. "File Formats."  *DCC Digital Curation
 Manual*, edited by Seamus Ross and Michael Day (2007).
 <http://www.dcc.ac.uk/sites/default/files/documents/resource/curation-manual/chapters/file-formats/file-formats.pdf>.
+* **[OPTIONAL]** Dappert, Angela, and Markus Enders. "Using METS, PREMIS and 
+MODS for  Archiving eJournals," *D-Lib Magazine* 14, no. 9/10
+(September/October 2008).
+[doi:10.1045/september2008-dappert](http://dx.doi.org/10.1045/september2008-dappert).
+* **[OPTIONAL]** Guenther, Rebecca, and Leslie Myrick. "Archiving Web Sites
+for Preservation and Access: MODS, METS, and MINERVA." *Journal of Archival
+Organization* 4, no. 1-2 (2007): 141-166. 
 
 <!-- NOT ASSIGNED FALL 2012:
 
@@ -840,6 +848,9 @@ Magazine* 13, no. 7/8 (2007).
 Requirements and Progress." *International Journal of Digital Curation* 4, no.
 1 (2009), 57-70.
 [doi:10.2218/ijdc.v4i1.78](http://dx.doi.org/10.2218/ijdc.v4i1.78).
+* **[OPTIONAL]** Guttenbrunner, Mark and Andreas Rauber. "A Measurement 
+Framework for Evaluating Emulators for Digital Preservation." *ACM
+Transactions on Information Systems* 30, no. 2 (2012): 14:1-14:28.
 
 <!-- NOT ASSIGNED FALL 2012:
 
@@ -924,12 +935,16 @@ Repositories: Creating a Mandate for the Digital Curation Centre (DCC)."
 * McHugh, Andrew, Seamus Ross, Perla Innocenti, Ravio Ruusalepp, and Hans 
 Hofman. "Bringing Self-Assessment Home: Repository Profiling and Key Lines of
 Enquiry within DRAMBORA." *International Journal of Digital Curation* 3, no.
-2 (2008), p. 130-142.
+2 (2008): 130-142.
 [doi:10.2218/ijdc.v3i2.64](http://dx.doi.org/10.2218/ijdc.v3i2.64).
 * Steinhart, Gail, Dianne Dietrich, and Ann Green. "Establishing Trust in a
 Chain of Preservation: The TRAC Checklist Applied to a Data Staging 
 Repository (DataStaR)." *D-Lib Magazine* 15, no. 9/10 (2009).
 [doi:10.1045/september2009-steinhart](http://dx.doi.org/10.1045/september2009-steinhart).
+* **[OPTIONAL]** Vermaaten, Sally, Brian Lavoie, and Priscilla Caplan.
+"Identifying Threats to Successful Digital Preservation: the SPOT Model for 
+Risk Assessment." *D-Lib Magazine* 18, no. 9/10.
+[doi:10.1045/september2012-vermaaten](http://dx.doi.org/10.1045/september2012-vermaaten)
 
 <!-- NOT ASSIGNED FALL 2012:
 
@@ -965,13 +980,17 @@ Sustainable Digital Preservation and Access (February 2010).
 <http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf>.
     * Read chapters 1, 2, 3, and 5.
     * **SKIM** chapter 4.
+* Abrams, Stephen, Patricia Cruse, John Kunze, and Michael Mundrane.
+*Total Cost of Preservation: Cost Modeling for Sustainable Services.* Revision
+0.16. Oakland: UC Curation Center/California Digital Library, April 9, 2012.
+<https://wiki.ucop.edu/download/attachments/163610649/TCP-total-cost-of-preservation.pdf>.
 * **[SKIM]** Eakin, Lorraine, Amy Friedlander, Roger Schonfeld and Sayeed 
 Choudhury. "A Selective Literature Review on Digital Preservation 
 Sustainability." (2008)
 <http://brtf.sdsc.edu/biblio/Cost_Literature_Review.pdf>.
-* Kejser, Ulla Bøgvad, Anders Bo Nielsen, and Alex Thirifays. "Cost Model for 
-Digital Preservation: Cost of Digital Migration." *International Journal of
-Digital Curation* 6, no. 1 (2011), p. 255-267.
+* **[SKIM]** Kejser, Ulla Bøgvad, Anders Bo Nielsen, and Alex Thirifays.
+"Cost Model for  Digital Preservation: Cost of Digital Migration." 
+*International Journal of Digital Curation* 6, no. 1 (2011): 255-267.
 [doi:10.2218/ijdc.v6i1.186](http://dx.doi.org/10.2218/ijdc.v6i1.186).
 * **[OPTIONAL]** Goldstein, Serge J., and Mark Ratliff. "DataSpace: A Funding
 and Operational Model for Long-Term Preservation and Sharing of Research
@@ -1012,6 +1031,10 @@ Perspective." *American Archivist* 69 (Summer 2006), 159-187.
 * Choudhury, Sayeed, Mike Furlough, and Joyce Ray, "Digital Curation and
 E-Publishing: Libraries Make the Connection." *Charleston Conference 2009.*
 <http://jhir.library.jhu.edu/handle/1774.2/35005>.
+* **[OPTIONAL]** Lane, Julia, and Stephanie Shipp. "Using a Remote Access Data
+Enclave for Data Dissemination." *International Journal of Digital Curation*
+2, no. 1 (2007): 128-134.
+[doi:10.2218/ijdc.v2i1.20](http://dx.doi.org/10.2218/ijdc.v2i1.20).
 
 <!-- NOT ASSIGNED IN FALL 2012:
 
@@ -1020,11 +1043,6 @@ Catherine Stollar Peters, Gabriela Redwine, and Doug Reside. "Digital
 Materiality: Preserving Access to Computers as Complete Environments."
 *iPRES 2009: Sixth International  Conference on Preservation of Digital
 Objects* (2009): 105-112. http://escholarship.org/uc/item/7d3465vg.
-
-* Lane, Julia, and Stephanie Shipp. "Using a Remote Access Data Enclave for 
-Data Dissemination." *International Journal of Digital Curation* 2, no. 1
-(2007): 128-134.
-[doi:10.2218/ijdc.v2i1.20](http://dx.doi.org/10.2218/ijdc.v2i1.20).
 
 * Burton, Adrian, and Andrew Treloar. "Designing for Discovery and Re-Use: The
 'ANDS Data Sharing Verbs' Approach to Service Decomposition." *International 
