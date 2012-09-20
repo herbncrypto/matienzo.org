@@ -206,6 +206,8 @@ graded without this certification page. For more information, please visit the
 following page: <http://www.drexel.edu/studentlife/judicial/honesty.html>. The
 certification text follows:
 
+<div style="page-break-before: always;"></div>
+
 > I certify that:
 >
 > * This paper/project/exam is entirely my own work.
@@ -285,8 +287,6 @@ absences. To ensure that you are not charged with an unexcused absence, you
 should at least check in during the weeks you are not planning to make a
 substantive comment.
 
-<div style="page-break-before: always;"></div>
-
 Posts will be assessed based on four criteria:
 
 * Relevance of the post to the question posed and/or the conversation taking
@@ -350,8 +350,6 @@ determine if it addresses important components of the initiative’s overall
 preservation policies. For example, the ICPSR Digital Preservation Policy
 Framework refers to more than eight other documents. You may need to do a
 little additional research to find related documentation.
-
-<div style="page-break-before: always;"></div>
 
 #### Hands-On Exercise (10%)
 
@@ -593,6 +591,8 @@ http://www.dpworkshop.org/dpm-eng/eng_index.html.
 http://www.dcc.ac.uk/webfm_send/438.
 --> 
 
+<div style="page-break-before: always;"></div>
+
 #### Week 2: Conceptual Models: OAIS and the DCC Lifecycle (October 1)
 
 The Reference Model for an Open Archival Information System is a conceptual
@@ -816,6 +816,8 @@ Electronic Resource Citations (ERCs)." (2010).
 http://dublincore.org/groups/kernel/spec/.
 -->
 
+<div style="page-break-before: always;"></div>
+
 #### Week 6: Digital Preservation Strategies (October 29)
 
 **Assignment Due: Group Project Part 1**
@@ -837,8 +839,8 @@ Questionnaire." In *Permanence Through Change: The Variable Media Approach*,
 edited by Alain Depocas, Jon Ippolito, and Caitlin Jones, 47-53. New York and
 Montréal: The Solomon R. Guggenheim Museum and Daniel Langlois
 Foundation, 2003. <http://variablemedia.net/pdf/Ippolito.pdf>.
-* Rothenberg, Jeff. "Renewing the Erl King." (2006)
-<http://www.bampfa.berkeley.edu/about/ErlKingReport.pdf>.
+* Rothenberg, Jeff. "Renewing the Erl King." *Millenium Film Journal* 45/46
+(2006). <http://www.bampfa.berkeley.edu/about/ErlKingReport.pdf>.
 * Carroll, Laura. Erika Farr, Peter Hornsby, and Ben Ranker. "A Comprehensive 
 Approach to Born-Digital Archives." *Archivaria* 72 (2011): 61-92.
 * Gano, Gretchen, and Julie Linden. "Government Information in Legacy 
