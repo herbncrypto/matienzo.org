@@ -59,11 +59,11 @@ academic honesty assignment is required on each assignment submitted.
 Drexel University ensures people with disabilities will have an equal
 opportunity to participate in its programs and activities. Members and guests
 of the Drexel community who have a disability need to register with the Office
-of Disability Services (ODS), if requesting auxiliary aids, accommodations,
+of Disability Resources (ODR), if requesting auxiliary aids, accommodations,
 and services to participate in Drexel University’s programs. For further
 information please contact the ODS:
 
-* Web: <http://www.drexel.edu/ods/>
+* Web: <http://www.drexel.edu/oed/disabilityResources/>
 * Postal address: 3201 Arch St, Suite 210, Philadelphia, PA, 19104
 * Telephone: (215) 895-1401
 * TTY: (215) 895-2299
@@ -888,7 +888,7 @@ Center for Research Libraries and OCLC (2007).
     * Read pages 9-19.
 * Inter-University Consortium for Political and Social Research.
 "Digital Preservation Policies and Planning at ICPSR." (June 20, 2007).
-<http://www.icpsr.umich.edu/icpsrweb/ICPSR/curation/preservation/policies/>.
+<http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/policies/>.
     * Read through the following documents linked from the above page:
         * ICPSR Digital Preservation Policy Framework (read this first before the others!)
         * Digital Preservation Policy Framework: Outline
@@ -947,7 +947,7 @@ Repository (DataStaR)." *D-Lib Magazine* 15, no. 9/10 (2009).
 * **[OPTIONAL]** Vermaaten, Sally, Brian Lavoie, and Priscilla Caplan.
 "Identifying Threats to Successful Digital Preservation: the SPOT Model for 
 Risk Assessment." *D-Lib Magazine* 18, no. 9/10.
-[doi:10.1045/september2012-vermaaten](http://dx.doi.org/10.1045/september2012-vermaaten)
+[doi:10.1045/september2012-vermaaten](http://dx.doi.org/10.1045/september2012-vermaaten).
 
 <!-- NOT ASSIGNED FALL 2012:
 
