@@ -58,6 +58,11 @@ Matienzo, Mark A. "Perspectives of Encoded Archival Description at the Instituti
 
 #### Local Presentations
 
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Sep-SCOPA-Recap.pdf) Matienzo, Mark A. "Digital Forensics
+&amp; Born-Digital Archives at Yale." Librarian's Conference Recap, Yale
+University Library Standing Committee on Professional Awareness, New Haven, CT,
+Sep 19, 2012.
+
 [{% render_partial _includes/labels/video.html %}](http://mith.umd.edu/podcasts/contextual-futures-the-meaning-structure-and-use-of-archival-description/) Matienzo, Mark A. ["Contextual Futures: The Meaning, Structure, and Use of Archival Description."](http://mith.umd.edu/podcasts/contextual-futures-the-meaning-structure-and-use-of-archival-description/) Maryland Institute for Technology in the Humanities, College Park, MD, May 8, 2012. {% render_partial _includes/labels/invited.html %}
 
 [{% render_partial _includes/labels/paper.html %}]({{ root_url }}/storage/2011/2011Jan-ARTWikiLeaks.html) [{% render_partial _includes/labels/video.html %}](http://www.cjh.org/videoarchive/1791) Matienzo, Mark A. ["WikiLeaks & the Archives and Records Profession: A Panel Discussion."](http://www.nycarchivists.org/?p=672) Archivists' Roundtable of Metropolitan New York, New York, NY, Jan 25, 2011. {% render_partial _includes/labels/invited.html %}
