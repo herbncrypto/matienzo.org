@@ -30,12 +30,12 @@ Matienzo, Mark A. *Memory Practices in the Sciences* by Geoffrey C. Bowker, Camb
 
 #### <span class="unpublished">Miscellaneous Unpublished Papers</span>
 
-<span class="unpublished">[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2008/2008-ArchiveFervourCanonization.pdf) Matienzo, Mark A. Matienzo, Mark A. "Canonization, Archivalization, and the 'Archival Imaginary'." Paper presented at Archive Fervour/Archive Further: Literature, Archives, and Literary Archives, Aberystwyth, Wales, July 9-11, 2008. Available from [http://hdl.handle.net/10150/216929](http://hdl.handle.net/10150/216929).</span>
+<span class="unpublished">[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2008/2008-ArchiveFervourCanonization.pdf) Matienzo, Mark A.  "Canonization, Archivalization, and the 'Archival Imaginary'." Paper presented at Archive Fervour/Archive Further: Literature, Archives, and Literary Archives, Aberystwyth, Wales, July 9-11, 2008. Available from [http://hdl.handle.net/10150/216929](http://hdl.handle.net/10150/216929).</span>
 
 <span class="unpublished">[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2004/2004-UncoveringOurTracks.pdf) Matienzo, Mark A. "Uncovering our Tracks: Ideology and the Archival Enterprise." 2004. Available from [http://hdl.handle.net/10150/105217](http://hdl.handle.net/10150/105217).</span>
 
 <span class="unpublished">[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2004/2004-EthnologyOfNowhere.pdf) Matienzo, Mark A. "The ethnology of nowhere, everywhere: Marc Augé’s *Non-places* as an analytical tool for supermodern ahistory and transience." 2004.</span>
 
-<span class="unpublished">[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2002/2002-OnAnarchivism.pdf) Matienzo, Mark A. "On anarchivism: perpetuating the postmodern turn within archival thought." 2002. Available from [http://hdl.handle.net/10150/105702 ](http://hdl.handle.net/10150/105702).</span>
+<span class="unpublished">[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2002/2002-OnAnarchivism.pdf) Matienzo, Mark A. "On anarchivism: perpetuating the postmodern turn within archival thought." 2002. Available from [http://hdl.handle.net/10150/105702](http://hdl.handle.net/10150/105702).</span>
 
 <span class="unpublished">[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2001/2001-Thesis.pdf) Matienzo, Mark A. *Hopefully, my arguments are dancing in the petri dish with a deadly strain of a linguistic virus, or, on the very importance of the metaphoric as semantic to communication, understanding, and the philosophy of language [...].* BA thesis, College of Wooster, 2001. Available from [http://cogprints.org/5070](http://cogprints.org/5070).</span>

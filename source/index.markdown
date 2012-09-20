@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Bio
 footer: true
 sidebar: false
 ---
