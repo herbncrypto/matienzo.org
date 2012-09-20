@@ -149,9 +149,10 @@ be completed.
 
 #### Class Preparation and Scheduling
 
-* Class runs from **6 PM Eastern Time on Monday** to the following Sunday.
-* Assignments are due **no later** than 6 PM on Monday of the specified week 
-unless prior arrangements have been made with the instructor.
+* Class runs from **6 PM Eastern Time on Monday** to the same time on the
+following Monday.
+* Assignments are due **no later** than 6 PM Eastern Time on Monday of the
+specified week unless prior arrangements have been made with the instructor.
 * Students are expected to complete all readings for a given week
 **before the start of class** with the exception of Week 1. See "Readings" 
 below for more details.
