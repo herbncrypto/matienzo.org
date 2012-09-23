@@ -546,7 +546,7 @@ Daniel Langlois Foundation, 2003.
 <http://variablemedia.net/pdf/Sterling.pdf>.
 * Lavoie, Brian, and Lorcan Dempsey. "Thirteen Ways of Looking At... Digital
 Preservation." *D-Lib Magazine* 10, no. 7/8 (July/August 2004). 
-[doi:10.1045/july2004-lavoie](http://dx.doi.org/10.1045/july2004-lavoie).
+<http://dx.doi.org/10.1045/july2004-lavoie>.
 * Choose one of the following:
     * [Audio, 28 mins.] "Digital Archaeology and the Temporary Nature of 
     Technology." *Future Tense.* ABC Radio National, January 29, 2012.
@@ -555,7 +555,7 @@ Preservation." *D-Lib Magazine* 10, no. 7/8 (July/August 2004).
     <http://futurestates.tv/episodes/digital-antiquities>. 
 * Beagrie, Neil. "Digital Curation for Science, Digital Libraries, and 
 Individuals." *International Journal of Digital Curation* 1, no. 1 (2006):
-3-16. [doi:10.2218/ijdc.v1i1.2](http://dx.doi.org/10.2218/ijdc.v1i1.2).
+3-16. <http://dx.doi.org/10.2218/ijdc.v1i1.2>.
 
 <!-- NOT ASSIGNED FALL 2012:
 
@@ -617,7 +617,7 @@ June 2012. <http://public.ccsds.org/publications/archive/650x0m2.pdf>.
     of the relationships in section 4.1.
 * Higgins, Sarah. "The DCC Curation Lifecycle Model." *International Journal
 of Digital Curation* 3, no. 1 (2008): 134-140.
-[doi:10.2218/ijdc.v3i1.48](http://dx.doi.org/10.2218/ijdc.v3i1.48).
+<http://dx.doi.org/10.2218/ijdc.v3i1.48>.
 * Lee, Christopher A. "Open Archival Information System (OAIS) Reference
 Model." In *Encyclopedia of Library and Information Sciences*, Third Edition,
 edited by Marcia J. Bates and Mary Niles Maack, 4020-4030. Boca Raton, FL:
@@ -682,7 +682,7 @@ Fonds; SELECT * FROM VANOC_Records AS Archives WHERE Value="true"."
 * Groth, Paul, Yolanda Gil, James Cheney, and Simon Miles. "Requirements for 
 Provenance on the Web." *International Journal of Digital Curation* 7, no. 1
 (2012): 39-56.
-[doi:10.2218/ijdc.v7i1.213](http://dx.doi.org/10.2218/ijdc.v7i1.213).
+<http://dx.doi.org/10.2218/ijdc.v7i1.213>.
 * **[OPTIONAL]** Fear, Kathleen, and Devan Ray Donaldson. "Provenance and 
 Credibility in  Scientific Data Repositories." *Archival Science* 12, no. 3
 (2012): 319-339.
@@ -690,7 +690,7 @@ Credibility in  Scientific Data Repositories." *Archival Science* 12, no. 3
 <!-- NOT ASSIGNED FOR FALL 2012:
 
 * Smith, Abby. "Authenticity and Affect: When Is a Watch Not a Watch?" 
-*Library Trends* 52, no. 1 (2003): 172-182. <http://hdl.handle.net/2142/8498>.
+*Library Trends* 52, no. 1 (2003): 172-182. http://hdl.handle.net/2142/8498.
 
 * InterPARES I Project. "Appendix 2: Requirements for Assessing and
 Maintaining the Authenticity of Electronic Records." In *The Long-Term
@@ -729,7 +729,7 @@ How-To-Do-It-Manual*, 115-130. New York: Neal Schuman, 2010.
 * Knight, Gareth, and Maureen Pennock. "Data without Meaning: Establishing the
 Significant Properties of Digital Research." *International Journal of 
 Digital Curation* 4, no. 1 (2009): 159-174.
-[doi:10.2218/ijdc.v4i1.86](http://dx.doi.org/10.2218/ijdc.v4i1.86).
+<http://dx.doi.org/10.2218/ijdc.v4i1.86>.
 * Becker, Christoph, Hannes Kulovits, Mark Guttenbrunner, Stephan Strodl, 
 Andreas Rauber and Hans Hofman. "Systematic Planning For Digital 
 Preservation: Evaluating Potential Strategies And Building Preservation
@@ -738,12 +738,12 @@ Plans." *International Journal on Digital Libraries* 10 no. 4 (2009),
 * Dappert, Angela, and Adam Farquhar. "Modelling Organizational Preservation 
 Goals to Guide Digital Preservation." *International Journal of Digital
 Curation* 4, no. 2 (2009), 119-134.
-[doi:10.2218/ijdc.v4i2.102](http://dx.doi.org/10.2218/ijdc.v4i2.102).
+<http://dx.doi.org/10.2218/ijdc.v4i2.102>.
 * Guttenbrunner, Mark, Christoph Becker, and Andreas Rauber. 
 "Keeping the Game Alive: Evaluating Strategies for the Preservation of
 Console Video Games." *International Journal of Digital Curation* 5, no. 1
 (2010), 64-90.
-[doi:10.2218/ijdc.v5i1.144](http://dx.doi.org/10.2218/ijdc.v5i1.144).
+<http://dx.doi.org/10.2218/ijdc.v5i1.144>.
 * **[OPTIONAL]** Yeo, Geoffrey. "'Nothing is the Same as Something Else': 
 Significant Properties and Notions of Identity and Originality." *Archival 
 Science* 10 (2010): 85-116.
@@ -768,6 +768,8 @@ selection and recording appropriate metadata, or information about the
 information itself. We will also discuss some issues relating to the viability
 or obsolescence of file formats.
 
+<div style="page-break-before: always;"></div>
+
 **Readings**
 
 * Harvey, Ross. "Chapter 6: Description and Representation Information." In
@@ -788,7 +790,7 @@ Born-Digital Collections: An Inter-Institutional Model for Stewardship*,
 31-43. 2012. <http://www2.lib.virginia.edu/aims/whitepaper/AIMS_final.pdf>.
 * Starr, Joan, and Angela Gastl. "isCitedBy: A Metadata Scheme for DataCite."
 *D-Lib Magazine* 17, no. 1/2 (January/February 2011).
-[doi:10.1045/january2011-starr](http://dx.doi.org/10.1045/january2011-starr).
+<http://dx.doi.org/10.1045/january2011-starr>.
 * **[SKIM]** Caplan, Priscilla. *Understanding PREMIS.* Washington: Library of
 Congress, 2009.
 <http://www.loc.gov/standards/premis/understanding-premis.pdf>.
@@ -798,7 +800,7 @@ Manual*, edited by Seamus Ross and Michael Day (2007).
 * **[OPTIONAL]** Dappert, Angela, and Markus Enders. "Using METS, PREMIS and 
 MODS for  Archiving eJournals," *D-Lib Magazine* 14, no. 9/10
 (September/October 2008).
-[doi:10.1045/september2008-dappert](http://dx.doi.org/10.1045/september2008-dappert).
+<http://dx.doi.org/10.1045/september2008-dappert>.
 * **[OPTIONAL]** Guenther, Rebecca, and Leslie Myrick. "Archiving Web Sites
 for Preservation and Access: MODS, METS, and MINERVA." *Journal of Archival
 Organization* 4, no. 1-2 (2007): 141-166. 
@@ -815,8 +817,6 @@ http://www.dpworkshop.org/dpm-eng/eng_index.html.
 Electronic Resource Citations (ERCs)." (2010).
 http://dublincore.org/groups/kernel/spec/.
 -->
-
-<div style="page-break-before: always;"></div>
 
 #### Week 6: Digital Preservation Strategies (October 29)
 
@@ -846,11 +846,11 @@ Approach to Born-Digital Archives." *Archivaria* 72 (2011): 61-92.
 * Gano, Gretchen, and Julie Linden. "Government Information in Legacy 
 Formats:  Scaling a Pilot Project to Enable Long-Term Access." *D-Lib
 Magazine* 13, no. 7/8 (2007).
-[doi:10.1045/july2007-linden](http://dx.doi.org/10.1045/july2007-linden).
+<http://dx.doi.org/10.1045/july2007-linden>.
 * Janée, Greg, James Frew, and Terry Moore. "Relay-supporting Archives: 
 Requirements and Progress." *International Journal of Digital Curation* 4, no.
 1 (2009), 57-70.
-[doi:10.2218/ijdc.v4i1.78](http://dx.doi.org/10.2218/ijdc.v4i1.78).
+<http://dx.doi.org/10.2218/ijdc.v4i1.78>.
 * **[OPTIONAL]** Guttenbrunner, Mark and Andreas Rauber. "A Measurement 
 Framework for Evaluating Emulators for Digital Preservation." *ACM
 Transactions on Information Systems* 30, no. 2 (2012): 14:1-14:28.
@@ -881,7 +881,7 @@ RLG-OCLC Report. Mountain View, CA: RLG, 2002.
     * Read pages 1-32, 37-40 and 49-56.
 * Prom, Christopher. "Making Digital Curation a Systematic Institutional 
 Function." *International Journal of Digital Curation* 6, no. 1 (2011),
-139-152. [doi:10.2218/ijdc.v6i1.178](http://dx.doi.org/10.2218/ijdc.v6i1.178).
+139-152. <http://dx.doi.org/10.2218/ijdc.v6i1.178>.
 * *Trusted Repositories Audit and Certification: Criteria and Checklist.* 
 Center for Research Libraries and OCLC (2007).
 <http://www.crl.edu/sites/default/files/attachments/pages/trac_0.pdf>.
@@ -907,6 +907,8 @@ Center for Research Libraries and OCLC (2007).
 Framework for Creating and Preserving Digital Collections.* London: Arts and
 Humanities Data Service, 1998.
 <http://www.ukoln.ac.uk/services/papers/bl/framework/framework.html>.
+
+<div style="page-break-before: always;"></div>
 
 #### Week 8: Compliance, Auditing, and Certification (November 12)
 
@@ -939,15 +941,15 @@ Repositories: Creating a Mandate for the Digital Curation Centre (DCC)."
 Hofman. "Bringing Self-Assessment Home: Repository Profiling and Key Lines of
 Enquiry within DRAMBORA." *International Journal of Digital Curation* 3, no.
 2 (2008): 130-142.
-[doi:10.2218/ijdc.v3i2.64](http://dx.doi.org/10.2218/ijdc.v3i2.64).
+<http://dx.doi.org/10.2218/ijdc.v3i2.64>.
 * Steinhart, Gail, Dianne Dietrich, and Ann Green. "Establishing Trust in a
 Chain of Preservation: The TRAC Checklist Applied to a Data Staging 
 Repository (DataStaR)." *D-Lib Magazine* 15, no. 9/10 (2009).
-[doi:10.1045/september2009-steinhart](http://dx.doi.org/10.1045/september2009-steinhart).
+<http://dx.doi.org/10.1045/september2009-steinhart>.
 * **[OPTIONAL]** Vermaaten, Sally, Brian Lavoie, and Priscilla Caplan.
 "Identifying Threats to Successful Digital Preservation: the SPOT Model for 
 Risk Assessment." *D-Lib Magazine* 18, no. 9/10.
-[doi:10.1045/september2012-vermaaten](http://dx.doi.org/10.1045/september2012-vermaaten).
+<http://dx.doi.org/10.1045/september2012-vermaaten>.
 
 <!-- NOT ASSIGNED FALL 2012:
 
@@ -972,7 +974,7 @@ including sustainability analyses and cost models for digital preservation.
 
 * Lavoie, Brian F. "The Fifth Blackbird: Some Thoughts on Economically 
 Sustainable Digital Preservation." *D-Lib Magazine* 14, no. 3/4 (2008).
-[doi:10.1045/march2008-lavoie](http://dx.doi.org/10.1045/march2008-lavoie).
+<http://dx.doi.org/10.1045/march2008-lavoie>.
 * Wheatley, Paul, and Brian Hole. "LIFE3: Predicting Long Term Digital
 Preservation Costs." Paper presented at iPRES 2009: the Sixth International
 Conference on Preservation of Digital Objects, San Francisco, Ca. (2009).
@@ -994,7 +996,7 @@ Sustainability." (2008)
 * **[SKIM]** Kejser, Ulla Bøgvad, Anders Bo Nielsen, and Alex Thirifays.
 "Cost Model for  Digital Preservation: Cost of Digital Migration." 
 *International Journal of Digital Curation* 6, no. 1 (2011): 255-267.
-[doi:10.2218/ijdc.v6i1.186](http://dx.doi.org/10.2218/ijdc.v6i1.186).
+<http://dx.doi.org/10.2218/ijdc.v6i1.186>.
 * **[OPTIONAL]** Goldstein, Serge J., and Mark Ratliff. "DataSpace: A Funding
 and Operational Model for Long-Term Preservation and Sharing of Research
 Data" (2010). <http://arks.princeton.edu/ark:/88435/dsp01w6634361k>.
@@ -1037,7 +1039,7 @@ E-Publishing: Libraries Make the Connection." *Charleston Conference 2009.*
 * **[OPTIONAL]** Lane, Julia, and Stephanie Shipp. "Using a Remote Access Data
 Enclave for Data Dissemination." *International Journal of Digital Curation*
 2, no. 1 (2007): 128-134.
-[doi:10.2218/ijdc.v2i1.20](http://dx.doi.org/10.2218/ijdc.v2i1.20).
+<http://dx.doi.org/10.2218/ijdc.v2i1.20>.
 
 <!-- NOT ASSIGNED IN FALL 2012:
 
@@ -1050,7 +1052,7 @@ Objects* (2009): 105-112. http://escholarship.org/uc/item/7d3465vg.
 * Burton, Adrian, and Andrew Treloar. "Designing for Discovery and Re-Use: The
 'ANDS Data Sharing Verbs' Approach to Service Decomposition." *International 
 Journal of Digital Curation* 4, no. 3 (2009): 44-56.
-[doi:10.2218/ijdc.v4i3.124](http://dx.doi.org/10.2218/ijdc.v4i3.124).
+<http://dx.doi.org/10.2218/ijdc.v4i3.124>.
 
 * Rose Holley, "Resource Sharing in Australia: Find and Get in Trove – Making
 'Getting' Better." D-Lib Magazine 17, no. 3/4 (2011).
