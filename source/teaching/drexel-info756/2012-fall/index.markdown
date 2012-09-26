@@ -1052,7 +1052,7 @@ Objects* (2009): 105-112. http://escholarship.org/uc/item/7d3465vg.
 * Burton, Adrian, and Andrew Treloar. "Designing for Discovery and Re-Use: The
 'ANDS Data Sharing Verbs' Approach to Service Decomposition." *International 
 Journal of Digital Curation* 4, no. 3 (2009): 44-56.
-<http://dx.doi.org/10.2218/ijdc.v4i3.124>.
+http://dx.doi.org/10.2218/ijdc.v4i3.124.
 
 * Rose Holley, "Resource Sharing in Australia: Find and Get in Trove – Making
 'Getting' Better." D-Lib Magazine 17, no. 3/4 (2011).
