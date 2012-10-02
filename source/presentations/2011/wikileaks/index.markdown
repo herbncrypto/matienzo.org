@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Remarks from WikiLeaks & the Archives and Records Professions 
+title: Remarks from WikiLeaks &amp; the Archives and Records Professions 
 footer: false
 sidebar: false
 date: 2011-01-25
 ---
 
-*The following is the text of my remarks from [WikiLeaks & the Archives and Records Professions][1], a panel organized by the Archivists' Roundtable of Metropolitan New York, on January 25, 2011.*
+*The following is the text of my remarks from [WikiLeaks &amp; the Archives and Records Professions][2], a panel organized by the Archivists' Roundtable of Metropolitan New York, on January 25, 2011.*
 
 Before I begin I would like to thank ARMA and ART for the opportunity to be part of this panel. I have been thinking that the engagement of recordkeeping professions with WikiLeaks has been a long time coming. I would also like to acknowledge my colleagues whose insightful commentary and challenging opinions have informed my remarks, namely Hillel Arnold, Craig Savino, and Amelia Abreu. They, as well as others, have assisted in the process of clarifying my arguments and I am certainly grateful for their input.
 
