@@ -18,7 +18,7 @@ A project funded by the Andrew W. Mellon Foundation to build a best of breed, ne
 #### Application of digital forensics tools and methodologies in digital archives
 
 * [BitCurator](http://bitcurator.net); serving on the Development Advisory Group
-* [DGI scripts for fiwalk](https://github.com/anarchivist/fiwalk-dgi)
+* [Fiwalk plugins](https://github.com/anarchivist/fiwalk-dgi)
 * A [dfxml gem](https://github.com/anarchivist/dfxml) for Ruby, to aid parsing Digital Forensics XML 
 * [Gumshoe](https://github.com/anarchivist/gumshoe), a Blacklight (Rails+Solr) interface to index/present/search metadata and content extracted from disk images
 * See my recent [presentations](presentations) ...
@@ -48,7 +48,7 @@ An Andrew W. Mellon Foundation-funded project, with University of Virginia, Yale
 * [AIMS Project Site](http://www2.lib.virginia.edu/aims/)
 * [AIMS White Paper](http://www2.lib.virginia.edu/aims/)
 * [Born Digital Archives (project blog)](http://born-digital-archives.blogspot.com/)
-* [Hypatia](https://wiki.duraspace.org/display/HYPAT/Home), a prototype application to support acessioning, arrangement, description, delivery and long term preservation of born digital collections using Hydra and Fedora
+* [Hypatia](https://wiki.duraspace.org/display/HYPAT/Home), a prototype application to support accessioning, arrangement, description, delivery and long term preservation of born digital collections using Hydra and Fedora
 * [Symposia and workshops organized by AIMS project](https://wiki.duraspace.org/display/AIMS/Home)
 
 #### Consortium Special Collections Search Hub
