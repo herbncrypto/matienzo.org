@@ -8,7 +8,9 @@ sidebar: false
 
 #### National &amp; International Presentations
 
-[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Oct-OpenSourceSearchConf.pdf) Matienzo, Mark A. "Digital Archives, Digital Forensics, and Open Source Search: Developing Together." Open Souce Search Conference, Chantilly VA, Oct 2 2012. {% render_partial _includes/labels/reviewed.html %}
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Oct-OSDFCON.pdf) Matienzo, Mark A. "Using and Developing with Open Source Forensics Software in Digital Archives Programs." Open Source Digital Forensics Conference, Chantilly VA, Oct 3 2012. {% render_partial _includes/labels/reviewed.html %}
+
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Oct-OpenSourceSearchConf.pdf) Matienzo, Mark A. "Digital Archives, Digital Forensics, and Open Source Search: Developing Together." Open Source Search Conference, Chantilly VA, Oct 2 2012. {% render_partial _includes/labels/reviewed.html %}
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Aug-SAAResearchForum.pdf) Matienzo, Mark A. ["Using and Developing with Open Source Digital Forensics Software in Digital Archives Programs."](http://www.slideshare.net/anarchivist/using-and-developing-with-open-source-digital-forensics-software-in-digital-archives-programs) Society of American Archivists Research Forum, San Diego, CA, Aug 7, 2012. {% render_partial _includes/labels/reviewed.html %}
 
