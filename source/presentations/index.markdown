@@ -62,10 +62,14 @@ Matienzo, Mark A. "Perspectives of Encoded Archival Description at the Instituti
 
 #### Local Presentations
 
+Matienzo, Mark A. "Contextual Futures: The Meaning, Structure, and Use of 
+Archival Description." Gelman Library, George Washington University,
+Washington, DC, Oct 5, 2012. {% render_partial _includes/labels/invited.html %}
+
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Sep-SCOPA-Recap.pdf) Matienzo, Mark A. "Digital Forensics
 &amp; Born-Digital Archives at Yale." Librarian's Conference Recap, Yale
-University Library Standing Committee on Professional Awareness, New Haven, CT,
-Sep 19, 2012.
+University Library Standing Committee on Professional Awareness, New Haven,
+CT, Sep 19, 2012.
 
 [{% render_partial _includes/labels/video.html %}](http://mith.umd.edu/podcasts/contextual-futures-the-meaning-structure-and-use-of-archival-description/) Matienzo, Mark A. ["Contextual Futures: The Meaning, Structure, and Use of Archival Description."](http://mith.umd.edu/podcasts/contextual-futures-the-meaning-structure-and-use-of-archival-description/) Maryland Institute for Technology in the Humanities, College Park, MD, May 8, 2012. {% render_partial _includes/labels/invited.html %}
 
