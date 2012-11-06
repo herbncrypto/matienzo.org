@@ -8,9 +8,11 @@ sidebar: false
 
 #### National &amp; International Presentations
 
-[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Oct-OSDFCON.pdf) Matienzo, Mark A. "Using and Developing with Open Source Forensics Software in Digital Archives Programs." Open Source Digital Forensics Conference, Chantilly VA, Oct 3 2012. {% render_partial _includes/labels/reviewed.html %}
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Nov-DLFForum-ArchivesSpace.pdf) Millman, David, Mark A. Matienzo, and Katherine Kott. ["Sustaining ArchivesSpace."](http://www.slideshare.net/DLFCLIR/sustaining-archivesspace) Digital Library Federation Forum, Denver, CO, Nov 4 2012. {% render_partial _includes/labels/voted.html %}
 
-[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Oct-OpenSourceSearchConf.pdf) Matienzo, Mark A. "Digital Archives, Digital Forensics, and Open Source Search: Developing Together." Open Source Search Conference, Chantilly VA, Oct 2 2012. {% render_partial _includes/labels/reviewed.html %}
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Oct-OSDFCON.pdf) Matienzo, Mark A. "Using and Developing with Open Source Forensics Software in Digital Archives Programs." Open Source Digital Forensics Conference, Chantilly, VA, Oct 3 2012. {% render_partial _includes/labels/reviewed.html %}
+
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Oct-OpenSourceSearchConf.pdf) Matienzo, Mark A. "Digital Archives, Digital Forensics, and Open Source Search: Developing Together." Open Source Search Conference, Chantilly, VA, Oct 2 2012. {% render_partial _includes/labels/reviewed.html %}
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Aug-SAAResearchForum.pdf) Matienzo, Mark A. ["Using and Developing with Open Source Digital Forensics Software in Digital Archives Programs."](http://www.slideshare.net/anarchivist/using-and-developing-with-open-source-digital-forensics-software-in-digital-archives-programs) Society of American Archivists Research Forum, San Diego, CA, Aug 7, 2012. {% render_partial _includes/labels/reviewed.html %}
 
@@ -61,6 +63,8 @@ Matienzo, Mark A. "New Directions for Archival Data." New England Archivists, Pr
 Matienzo, Mark A. "Perspectives of Encoded Archival Description at the Institutional, Research, and National Level," Mid-Atlantic Regional Archives Conference, Jersey City, NJ, Oct 2009. {% render_partial _includes/labels/invited.html %} {% render_partial _includes/labels/chair.html %}
 
 #### Local Presentations
+
+Matienzo, Mark A. "Using Open Source Digital Forensics Software for Digital Archives Workshop." Society of American Archivists, University of Michigan Student Chapter, Ann Arbor, MI, Oct 19, 2012. {% render_partial _includes/labels/invited.html %}
 
 Matienzo, Mark A. "Contextual Futures: The Meaning, Structure, and Use of 
 Archival Description." Gelman Library, George Washington University,
