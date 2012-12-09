@@ -80,29 +80,30 @@ sidebar: false
 #### International
 
 * *Association of Canadian Archivists.* Guest Editor, Archivaria 72 (Fall 2011), Sep 2010 - Sep 2011.
-* *Society of American Archivists. Schema Development Team.* Committee Member. Mar 2010 - Present.
+* *Society of American Archivists. Schema Development Team.* Mar 2010 - Present.
 
 #### National
 
-* *BitCurator.* Development Advisory Group Member. Oct 2011 - Present.
-* *Institute for Museum and Library Services.* Peer Reviewer. 2010 and 2011.
-* *Museum Computer Network.* Standards Special Interest Group. Chair. Nov 2008 - Oct 2009.
+* *BitCurator. Development Advisory Group.* Oct 2011 - Present.
+* *Institute for Museum and Library Services.* Peer Reviewer, 2010-2012.
+* *Museum Computer Network. Standards Special Interest Group.* Chair, Nov 2008 - Oct 2009.
 * *National Endowment for the Humanities.* Peer Reviewer, 2011.
 * *National Historical Publications and Records Commission.* Peer Reviewer, 2009 and 2011.
-* *OCLC Research. RLG Programs.* Barriers to Using EAD Working Group. Nov 2008 - Mar 2010.
-* *OCLC Research. RLG Programs.* Sharing &amp; Aggregating Social Metadata Working Group, Jan 2009 - Aug 2009.
-* *Society of American Archivists. Description Section.* Co-Chair. Aug 2006 - Aug 2008.
-* *Society of American Archivists. Digital Archives Specialist Curriculum Subcommittee.* Committee Member. Jul 2011 - August 2012.
-* *Society of American Archivists.* Electronic Records Section. Steering Committee. Aug 2010 - Aug 2011 and Aug 2012 - Present.
-* *Society of American Archivists.* Encoded Archival Description Roundtable. Co-Chair. Aug 2010 - Aug 2012.
-* *Society of American Archivists. Metadata and Digital Object Roundtable.* Web Liaison. Aug 2006 - Aug 2011.
-* *Society of American Archivists. RLG Programs Roundtable.* Co-Chair. Aug 2008 - Aug 2009.
-* *Society of American Archivists. Technical Subcommittee on Descriptive Standards. Committee Member.* Sep 2007 - Aug 2009.
-* *Society of American Archivists. Website Working Group.* Member. Sep 2007 - Aug 2009.
+* *OCLC Research. RLG Programs. Barriers to Using EAD Working Group.* Nov 2008 - Mar 2010.
+* *OCLC Research. RLG Programs. Sharing &amp; Aggregating Social Metadata Working Group.* Jan 2009 - Aug 2009.
+* *Society of American Archivists. Communications Technology Working Group.* Sep 2007 - Aug 2009.
+* *Society of American Archivists. Description Section.* Co-Chair, Aug 2006 - Aug 2008.
+* *Society of American Archivists. Digital Archives Specialist Curriculum Subcommittee.*  Jul 2011 - Aug 2012.
+* *Society of American Archivists. Electronic Records Section.* Steering Committee, Aug 2010 - Aug 2011 and Aug 2012 - Present.
+* *Society of American Archivists. Encoded Archival Description Roundtable.* Co-Chair, Aug 2010 - Aug 2012.
+* *Society of American Archivists. Metadata and Digital Object Roundtable.* Web Liaison, Aug 2006 - Aug 2011.
+* *Society of American Archivists. RLG Programs Roundtable.* Co-Chair, Aug 2008 - Aug 2009.
+* *Society of American Archivists. Technical Subcommittee on Descriptive Standards.* Sep 2007 - Aug 2009.
 
 #### Institutional
 
 * *Yale University. Office of Digital Assets and Infrastructure. Digital Preservation Planning Committee.* May 2010 - Apr 2012.
+* *Yale University. Silliman College.* Fellow, Oct 2012 - Present.
 * *Yale University Library. Finding Aids Coordinating Committee.* Aug 2010 - Present.
 * *Yale University Library. Sustainability Steering Committee.* Oct 2011 - Jul 2012.
 
