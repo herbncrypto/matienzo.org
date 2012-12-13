@@ -64,7 +64,7 @@ Matienzo, Mark A. "Perspectives of Encoded Archival Description at the Instituti
 
 #### Local Presentations
 
-[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Dec-ArchivistsToolkit-NYU.pdf) Matienzo, Mark A. "Archivists' Toolkit (The AT)." CINE-GT.2031: Access to Moving Image Collections (guest lecture), New York University, New York, NY, Dec 10, 2012. {% render_partial _includes/labels/invited.html %}
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Dec-ArchivistsToolkit-NYU.pdf) Matienzo, Mark A. "Archivists' Toolkit (The AT)." CINE-GT.2031: Access to Moving Image Collections (guest lecture), New York University, New York, NY, Dec 12, 2012. {% render_partial _includes/labels/invited.html %}
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Dec-SemanticWeb-NYU.pdf) Matienzo, Mark A. "Linked Data and the Semantic Web in an Archival Context." HIST-GA.2031: Advanced Archival Description (guest lecture), New York University, New York, NY, Dec 10, 2012. {% render_partial _includes/labels/invited.html %}
 
