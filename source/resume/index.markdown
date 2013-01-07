@@ -119,6 +119,7 @@ sidebar: false
 <div class="page-break-before"></div>
 ### Training and Continuing Education
 
+* *Topic Modeling for Humanities Research Workshop*, University of Maryland, Nov 2012.
 * *Appraisal of Electronic Records,* Society of American Archivists, May 2012.
 * *Archives Leadership Institute,* University of Wisconsin-Madison, Jul 2011.
 * *Designing Archival Description Systems,* Rare Book School, University of Virginia, Jul 2009.
