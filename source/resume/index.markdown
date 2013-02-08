@@ -4,7 +4,8 @@ title: Mark A. Matienzo
 footer: false
 sidebar: false
 ---
-##### Brooklyn, NY — <i class="icon-envelope"></i> mark@matienzo.org — <i class="icon-link"></i> www.matienzo.org
+
+##### Brooklyn, NY — <i class="icon-envelope">&nbsp;</i> mark@matienzo.org — <i class="icon-link">&nbsp;</i> www.matienzo.org
 
 ### Education
 
@@ -14,44 +15,44 @@ sidebar: false
 
 ### Experience
 
-<span class="label label-info"><i class="icon-time"></i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Present)
+<span class="label label-info"><i class="icon-time">&nbsp;</i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Present)
     
 > Technical lead and product owner on Andrew W. Mellon Foundation-funded project to develop a new, best-of-breed open source archival management system merging functionality of Archivists' Toolkit and Archon. Responsible for leading review and revision process of functional specifications, development of data model, creation of technical documentation and architectural recommendations, and assessment of potential vendors for programming fulfillment.
 
-<span class="label label-info"><i class="icon-time"></i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - Present)
+<span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - Present)
 
 > Instructor of INFO 756: Digital Preservation (taught Fall 2011, Spring 2012, Fall 2012).
 
-<span class="label label-success"><i class="icon-time"></i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)
 
 > Development and implementation of workflows of born-digital archival material. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Responsible for analysis, integration, and presentation of collections-related metadata in a variety of forms. Portion of time seconded to ArchivesSpace (see above).
 
-<span class="label label-warning"><i class="icon-time"></i> Consulting</span>
+<span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span>
 *Consultant*, Philadelphia Area Center for History of Science, Philadelphia, PA (Aug 2009 - Aug 2011) 
 
 > Development of a unified search portal for bibliographic records from the Center's member institutions, using Blacklight, Ruby, Python, and Solr.
 
-<span class="label label-warning"><i class="icon-time"></i> Consulting</span> *Consultant*, Brooklyn Historical Society, Brooklyn, NY (May 2011 - Jul 2011)
+<span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span> *Consultant*, Brooklyn Historical Society, Brooklyn, NY (May 2011 - Jul 2011)
 
 > Development of a PHP plugin to import MARCXML data from the Society's Archivists' Toolkit instance into their WordPress-based online catalog system.
 
-<span class="label label-success"><i class="icon-time"></i> Full-Time</span> *Applications Developer*, Digital Experience Group, New York Public Library, New York, NY (Jun 2008 - Jan 2010)
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Applications Developer*, Digital Experience Group, New York Public Library, New York, NY (Jun 2008 - Jan 2010)
 
 > Developer for projects integrating library and archival data and metadata in structured and semi-structured forms. Drupal development (modules, views, content types, data migration) for the Library's website. Implementation of a multiple instance Solr deployment for searching and indexing content within Drupal.
 
-<span class="label label-info"><i class="icon-time"></i> Part-Time</span> *Adjunct Professor*, Palmer School of Library &amp; Information Science, Long Island University (Sep 2009 - Dec 2009)
+<span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Palmer School of Library &amp; Information Science, Long Island University (Sep 2009 - Dec 2009)
 
 > Instructor of LIS 901-08 Building Digital Libraries: Infrastructural and Social Aspects (taught Fall 2009).
 
-<span class="label label-success"><i class="icon-time"></i> Full-Time</span> *Assistant Archivist*, Niels Bohr Library, American Institute of Physics, College Park, MD (Mar 2006 - May 2008)
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Assistant Archivist*, Niels Bohr Library, American Institute of Physics, College Park, MD (Mar 2006 - May 2008)
 
 > Appraisal and arrangement of archival collections. DACS-compliant archival description in MARC21 and EAD; authority control and service as NACO liaison. Led test implementation of Archivists' Toolkit. Database administration (Access, Oracle, Sybase) and programming (Python, SQL, XSLT, Perl). In person, telephone, and electronic reference.
 
-<span class="label label-important"><i class="icon-time"></i> Contract</span> *Project Archivist*, National Anthropological Archives, Smithsonian Institution, Suitland, MD (Sep 2005 - Feb 2006)
+<span class="label label-important"><i class="icon-time">&nbsp;</i> Contract</span> *Project Archivist*, National Anthropological Archives, Smithsonian Institution, Suitland, MD (Sep 2005 - Feb 2006)
 
 > Full-level cataloging using SirsiDynix Horizon of 19th century Plains Indian ledger art for submission to ARTstor.
 
-<span class="label label-important"><i class="icon-time"></i> Contract</span> *Catalog Librarian*, Research Collections, ProQuest Information & Learning, Ann Arbor, MI (Jun 2004 - Aug 2005)
+<span class="label label-important"><i class="icon-time">&nbsp;</i> Contract</span> *Catalog Librarian*, Research Collections, ProQuest Information & Learning, Ann Arbor, MI (Jun 2004 - Aug 2005)
 
 > High-quality bibliographic cataloging in OCLC Connexion of microfilmed material from 16th-20th centuries.
 
