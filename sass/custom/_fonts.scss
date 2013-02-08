@@ -13,7 +13,7 @@ $body-font: "Franklin Gothic Book", "Verdana", sans-serif;
 
 body {
     color: black;
-    p {
+    p, section, .pagination {
         font-family: $body-font;
     }
     #main {
@@ -31,6 +31,7 @@ body {
                     }
                 }
             }
+            .blog-index 
             blockquote {
                 p {
                     line-height: 18px;
