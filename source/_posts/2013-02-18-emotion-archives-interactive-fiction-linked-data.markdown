@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emotion, Archives, and Interactive Fiction"
+title: "Emotion, Archives, Interactive Fiction, and Linked Data"
 date: 2013-02-18 01:03
 updated: 2013-02-18 09:52
 comments: true
