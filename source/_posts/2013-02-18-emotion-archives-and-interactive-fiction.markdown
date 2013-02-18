@@ -83,7 +83,7 @@ I had visions of untamed hypertext - interactive fiction built on the native tec
 
 > Feral hypertext has a tendency to move beneath the radar. It is easy to not identify feral hypertext as hypertext at all. Feral hypertexts are not as clearly delimited and disciplined as domesticated hypertexts are, and our language and culture aren’t designed to speak about things that lack boundaries. What feral hypertexts have in common is that they have reverted to the wild, in one respect or another. They are no longer tame. They won’t do what we expect and they refuse to stay put within boundaries we’ve defined. They don’t follow standards -- indeed, they appear to revel in the non-standard, while perhaps building new kinds of standard that we don’t yet understand.
 
-Meanwhile, "Performing Fictions" provided me with an important notion of "ontological fusion," wherein one world (say, a fictional one) is overlaid on top of another (say, the "actual" world). This is precisely what I wanted to do, but how should we achieve it?
+Meanwhile, "Performing Fictions" provided me with an important notion of "ontological fusion," wherein one world (say, a fictional one) is overlaid on top of another (say, the "actual" world). This is precisely what I wanted to do. But we still have an open question of how we can actually implement these ideas into something that may be useful.
 
 ## What are we building?
 
