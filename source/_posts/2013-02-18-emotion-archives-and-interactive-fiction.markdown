@@ -3,7 +3,7 @@ layout: post
 title: "Emotion, Archives, and Interactive Fiction"
 date: 2013-02-18 01:03
 comments: true
-sharing: false
+sharing: true
 categories: 
 ---
 
