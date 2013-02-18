@@ -2,6 +2,7 @@
 layout: post
 title: "Emotion, Archives, and Interactive Fiction"
 date: 2013-02-18 01:03
+updated: 2013-02-18 09:52
 comments: true
 sharing: true
 categories: 
@@ -87,7 +88,7 @@ Meanwhile, "Performing Fictions" provided me with an important notion of "ontolo
 
 ## What are we building?
 
-What I want to build is something that's simple, that stays in the spirit of Twine. I want there be an easy way of annotating text or adding another kind of link to something *outside* of a Twine story. I want these outside links to be some times obvious - maybe sometimes not. I don't know how I want to surface this information, or whether I just want a Twine story to pollute the global graph. So roughly, I see us needing to come up with the following:
+What I want to build is something that's **simple**, that stays in the spirit of Twine. I want there be an easy way of annotating text or adding another kind of link to something *outside* of a Twine story. I want these outside links to be some times obvious - maybe sometimes not. I don't know how I want to surface this information, or whether (or when) I want a Twine story to pollute the global graph. So roughly, I see us needing to come up with the following:
 
 * An extension to Twee (Twine's markup language) and the JavaScript code that turns it into reader-actionable HTML.
 * Some thought to the UI containing the links as represented in a reader-facing Twine story.
@@ -96,7 +97,7 @@ What I want to build is something that's simple, that stays in the spirit of Twi
 
 It doesn't even have to be Twine, but it makes sense because it's already out there.
 
-I don't want to worry about the problems of the semantic web. Provenance is an issue near and dear to my heart but focusing on that it this point stands to complicate the entire task of building this. If they care about what we're doing, maybe what we're doing matters more than we think.
+I don't want to worry about the problems of the semantic web. Provenance is an issue near and dear to my heart but focusing on that it this point stands to complicate the entire task of building this. Worrying about the "proper way" to build this stands only to get in the way and threaten the necessity of this being a grassroots project. I want this to be more than an academic exercise. If the semantic web community cares about what we're doing, maybe what we're doing matters more than we think.
 
 By taking back or taking issue with linked data through our stories built on a free/libre tool, we are committing a political act. We are fighting back and we're taking the whole world of knowledge either with us or standing in opposition to it.
 
