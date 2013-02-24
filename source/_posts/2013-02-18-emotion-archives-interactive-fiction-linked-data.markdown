@@ -2,13 +2,15 @@
 layout: post
 title: "Emotion, Archives, Interactive Fiction, and Linked Data"
 date: 2013-02-18 01:03
-updated: 2013-02-18 09:52
+updated: 2013-02-24 01:52
 comments: true
 sharing: true
 categories: 
 ---
 
-Last week, I gave a lightning talk entitled ["Wielding the Whip: Affect, Archives, and Ontological Fusion"]({{ root_url }}/storage/2013/2013Feb-code4lib-lightning-talk) at the [2013 Code4lib conference](http://code4lib.org/conference/2013) in Chicago, Illinois. This lightning talk was one of the most difficult presentations I've ever given for a number of reasons, including the emotional aspect of the content itself, as well as the fact that several of the ideas I was trying to articulate weren't fully baked. I've been thinking about this for the four to six months in various capacities and with different focuses, especially as I read more interactive fiction and learn more about it (as well as about hypertext in general). This post serves as an expansion of some of the ideas in my lightning talk and as a way to further the discussion around the following question:
+[**Edit (Feb 24, 2013):** Thanks to the fantastic work of [Tara Robertson](http://www.tararobertson.ca), the [video of my lightning talk](http://archive.org/details/Day4LTMark) is now available!]
+
+I gave a lightning talk entitled ["Wielding the Whip: Affect, Archives, and Ontological Fusion"]({{ root_url }}/storage/2013/2013Feb-code4lib-lightning-talk) at the [2013 Code4lib conference](http://code4lib.org/conference/2013) in Chicago, Illinois. This lightning talk was one of the most difficult presentations I've ever given for a number of reasons, including the emotional aspect of the content itself, as well as the fact that several of the ideas I was trying to articulate weren't fully baked. I've been thinking about this for the four to six months in various capacities and with different focuses, especially as I read more interactive fiction and learn more about it (as well as about hypertext in general). This post serves as an expansion of some of the ideas in my lightning talk and as a way to further the discussion around the following question:
 
 > Can we write interactive fiction and (semi-/para-)fictional hypertext that leverages linked data to create an emotional connection to the "real world"?
 
