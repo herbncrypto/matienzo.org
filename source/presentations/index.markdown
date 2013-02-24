@@ -95,7 +95,7 @@ CT, Sep 19, 2012.
 
 #### <span class="unpublished">Miscellaneous Presentations, Lightning Talks and Unconference Sessions</span>
 
-<span class="unpublished">[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2013/2013Feb-code4lib-lightning-talk) Matienzo, Mark A. "Wielding the Whip: Affect, Archives, and Ontological Fusion." Code4lib, Chicago, IL, Feb 14, 2013. {% render_partial _includes/labels/lightning_talk.html %}</span>
+<span class="unpublished">[{% render_partial _includes/labels/video.html %}](http://archive.org/details/Day4LTMark) [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2013/2013Feb-code4lib-lightning-talk) Matienzo, Mark A. "Wielding the Whip: Affect, Archives, and Ontological Fusion." Code4lib, Chicago, IL, Feb 14, 2013. {% render_partial _includes/labels/lightning_talk.html %}</span>
 
 <span class="unpublished">Matienzo, Mark A. "Open Source Digital Forensics at Yale University." LibDevConX^3, Stanford, CA, Mar 2012. {% render_partial _includes/labels/lightning_talk.html %}</span>
 
