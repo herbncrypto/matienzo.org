@@ -15,17 +15,17 @@ sidebar: false
 
 ### Experience
 
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)
+
+> Development and implementation of tools, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisiton and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Responsible for analysis, integration, and presentation of collections-related metadata in a variety of forms. Portion of time seconded to ArchivesSpace (see below).
+
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Present)
     
-> Technical lead and product owner on Andrew W. Mellon Foundation-funded project to develop a new, best-of-breed open source archival management system merging functionality of Archivists' Toolkit and Archon. Responsible for leading review and revision process of functional specifications, development of data model, creation of technical documentation and architectural recommendations, and assessment of potential vendors for programming fulfillment.
+> Technical lead and product owner on Andrew W. Mellon Foundation-funded project to develop a new, best-of-breed open source archival management system merging functionality of Archivists' Toolkit and Archon. Responsible for establishing software development priorities, performing functional acceptance testing, leading review and revision process of functional specifications, and creation of technical documentation and architectural recommendations.
 
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - Present)
 
-> Instructor of INFO 756: Digital Preservation (taught Fall 2011, Spring 2012, Fall 2012).
-
-<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)
-
-> Development and implementation of workflows of born-digital archival material. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Responsible for analysis, integration, and presentation of collections-related metadata in a variety of forms. Portion of time seconded to ArchivesSpace (see above).
+> Instructor of INFO 756: Digital Preservation (taught Fall 2011, Spring 2012, Fall 2012, Spring 2013).
 
 <span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span>
 *Consultant*, Philadelphia Area Center for History of Science, Philadelphia, PA (Aug 2009 - Aug 2011) 
@@ -117,7 +117,6 @@ sidebar: false
 
 {% render_partial presentations/index.markdown %}
 
-<div class="page-break-before"></div>
 ### Training and Continuing Education
 
 * *Topic Modeling for Humanities Research Workshop*, University of Maryland, Nov 2012.
