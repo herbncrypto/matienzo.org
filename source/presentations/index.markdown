@@ -22,7 +22,7 @@ sidebar: false
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Jul-NDIIPP.pdf) Matienzo, Mark A. ["Digital Forensics for Digital Archives."](http://www.slideshare.net/anarchivist/ndiipp-digitalforensics2012-Jul) DigitalPreservation 2012 (NDIIPP annual meeting), Arlington, VA, Jul 25, 2012. {% render_partial _includes/labels/invited.html %} 
 
-[{% render_partial _includes/labels/video.html %}](https://ala.ilinc.com/join/vkvpcrb) Gueguen, Gretchen, Mark A. Matienzo, Simon Wilson, and Peter Chan. ["Born-Digital Collections: An Inter-Institutional Model for Stewardship."](https://ala.ilinc.com/join/vkvpcrb) ACRL Digital Curation Interest Group Webinar Series. Jun 7, 2012. {% render_partial _includes/labels/invited.html %} 
+[{% render_partial _includes/labels/video.html %}](http://ala.adobeconnect.com/june-digital-curation-discussion/) Gueguen, Gretchen, Mark A. Matienzo, Simon Wilson, and Peter Chan. ["Born-Digital Collections: An Inter-Institutional Model for Stewardship."](http://ala.adobeconnect.com/june-digital-curation-discussion/) ACRL Digital Curation Interest Group Webinar Series. Jun 7, 2012. {% render_partial _includes/labels/invited.html %} 
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Jan-CurateGear.pdf) Matienzo, Mark A. ["Accessioning-Based Metadata Extraction and Iterative Processing: Notes from the Field."](http://www.slideshare.net/anarchivist/dig-c-currcurategearjan2012) [CurateGear](http://sils.unc.edu/events/2011/curategear), Chapel Hill, NC, Jan 6, 2012. {% render_partial _includes/labels/invited.html %} 
 
