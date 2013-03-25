@@ -54,7 +54,7 @@ week's topic.
 
 This course follows all Drexel University policies and procedures regarding
 academic integrity (see
-[Drexel University's Code of Conduct](http://www.drexel.edu/studentaffairs/community_standards/studentHandbook/general_information/code_of_conduct/)> for more
+[Drexel University's Code of Conduct](http://www.drexel.edu/studentaffairs/community_standards/studentHandbook/general_information/code_of_conduct/) for more
 details). All assignments submitted must be your own work, with sources
 properly cited. Any incidence of plagiarism or other academic dishonesty will
 result in an F for the course. See "Guidelines for Assignments" below as an
@@ -208,8 +208,6 @@ statement. For more information, please visit the
 [Drexel University Code of Conduct](http://www.drexel.edu/studentaffairs/community_standards/studentHandbook/general_information/code_of_conduct/).
 The certification text follows:
 
-> I certify that:
->
 > I certify that my work in this course will be entirely my own work. I will
 not quote the words of any other person from a printed source or a website
 without indicating what has been quoted and providing an appropriate citation.
@@ -732,7 +730,7 @@ access, use, and meaning over time.
 
 **Readings**
 
-* In Harvey, Ross, *Digital Curation: A How-To-Do-It-Manual* )New York: Neal Schuman, 2010):
+* In Harvey, Ross, *Digital Curation: A How-To-Do-It-Manual* (New York: Neal Schuman, 2010):
     * "Chapter 9: Designing Data," 105-114.
     * "Chapter 10: Creating Data," 115-130.
 * Knight, Gareth, and Maureen Pennock. "Data without Meaning: Establishing the
@@ -1097,3 +1095,4 @@ http://dlib.org/dlib/march11/holley/03holley.html.
 
 -->
 
+{% render_partial _includes/cc-by-sa.html %}
