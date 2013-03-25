@@ -7,6 +7,7 @@ sidebar: false
 <div class="subnav">
     <ul class="nav nav-pills">
         <li><a href="http://www.ischool.drexel.edu/Home/Academics/CourseDescriptions/Course?courseID=149">Extended Course Description</a></li>
+        <li><a href="{{ root_url }}/teaching/drexel-info756/2013-spring">Spring 2013</a></li>
         <li><a href="{{ root_url }}/teaching/drexel-info756/2012-fall">Fall 2012</a></li>
         <li class="disabled"><a href="#">Spring 2012</a></li>
         <li class="disabled"><a href="#">Fall 2011</a></li>
