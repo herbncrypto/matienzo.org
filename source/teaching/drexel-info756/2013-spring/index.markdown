@@ -142,9 +142,6 @@ For final grades, the grading scale is as follows:
 * D- = 58 - 61
 * F = 0 - 58
 
-In the event that your numerical grade falls between two letter grades, your
-grade will be rounded up if the decimal value is 0.5 or greater; otherwise, it
-will be rounded down.
 
 #### Incomplete Policy
 
@@ -723,7 +720,7 @@ the ACM* 51, no. 4 (2008): 52-58.
 
 #### Week 4: Significant Properties and Preservation Planning (April 22)
 
-**Assignment Due: Hands-On Assignment 1**
+**Assignment Due: Hands-On Exercise #1**
 
 Preservation planning is an important component of the OAIS model, and
 involves both monitoring a preservation environment and its surroundings as
