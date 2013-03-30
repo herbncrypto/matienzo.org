@@ -128,14 +128,19 @@ your final grade has a maximum possible grade of 20 points.
 
 For final grades, the grading scale is as follows:
 
-* A+ = 99-100
-* A = 94-98
-* A- = 90-93
-* B+ = 86-89
-* B = 82-85
-* B- = 78-81
-* C+ = 74-77
-* C = 70-73
+* A+ = 98.5 - 100
+* A = 93.5 - 98.5
+* A- = 89.5 - 93.5
+* B+ = 85.5 - 89.5
+* B = 81.5 - 85.5
+* B- = 77.5 - 81.5
+* C+ = 73.5 - 77.5
+* C = 69.5 - 73.5
+* C = 66.5 - 69.5
+* D+ = 63.5 - 66.5
+* D = 61 - 63.5
+* D- = 58 - 61
+* F = 0 - 58
 
 In the event that your numerical grade falls between two letter grades, your
 grade will be rounded up if the decimal value is 0.5 or greater; otherwise, it
