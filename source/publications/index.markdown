@@ -5,7 +5,9 @@ footer: false
 sidebar: false
 ---
 
-#### Articles
+#### Articles and Published Conference Papers
+
+[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2013/.pdf) Matienzo, Mark A. and Katherine Kott. ["ArchivesSpace: A Next-Generation Archives Management System."](http://mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system/). In *Museums and the Web 2013: Proceedings.* Published April 9, 2013. Available from <http://mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system/>.
 
 Matienzo, Mark A. "'New Contexts of Permanent Change' in Digital Archivy." *Archivaria* 72, Fall 2011.
 
