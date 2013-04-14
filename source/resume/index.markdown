@@ -9,15 +9,14 @@ sidebar: false
 
 ### Education
 
-*Master of Science in Information* (Archives &amp; Records Management), University of Michigan, Ann Arbor, MI, 2004
-
-*Bachelor of Arts in Philosophy*, College of Wooster, Wooster, OH, 2001
+* *Master of Science in Information* (Archives &amp; Records Management), University of Michigan, Ann Arbor, MI, 2004
+* *Bachelor of Arts in Philosophy*, College of Wooster, Wooster, OH, 2001
 
 ### Experience
 
 <span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)
 
-> Development and implementation of tools, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisiton and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Responsible for analysis, integration, and presentation of collections-related metadata in a variety of forms. Portion of time seconded to ArchivesSpace (see below).
+> Development and implementation of tools, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisiton and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Portion of time seconded to ArchivesSpace (see below).
 
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Present)
     
