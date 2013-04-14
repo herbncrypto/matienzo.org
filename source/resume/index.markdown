@@ -103,7 +103,7 @@ sidebar: false
 #### Institutional
 
 * *Yale University. Office of Digital Assets and Infrastructure. Digital Preservation Planning Committee.* May 2010 - Apr 2012.
-* *Yale University. Silliman College.* Fellow, Oct 2012 - Present.
+* *Yale University. Silliman College.* Fellow, Jan 2013 - Present.
 * *Yale University Library. Finding Aids Coordinating Committee.* Aug 2010 - Present.
 * *Yale University Library. Sustainability Steering Committee.* Oct 2011 - Jul 2012.
 
