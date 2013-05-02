@@ -42,7 +42,7 @@ studies of real-world digital preservation projects and systems.
 The class will consist of weekly lectures, supplemented by readings,
 discussion, and assignments. Each week will focus on specific primary topics,
 but students should seek connections between the topics and the application
-of principals across domains and different types of digital preservation
+of principles across domains and different types of digital preservation
 problems. Furthermore, each week's concepts will build on concepts and
 material introduced and discussed in previous weeks. In discussion, students
 are encouraged to bring up past experience when relevant to the current
