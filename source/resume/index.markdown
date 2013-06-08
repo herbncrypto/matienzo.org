@@ -5,11 +5,11 @@ footer: false
 sidebar: false
 ---
 
-##### Brooklyn, NY — <i class="icon-envelope">&nbsp;</i> mark@matienzo.org — <i class="icon-link">&nbsp;</i> www.matienzo.org
+##### 520 Lincoln Place #6A, Brooklyn, NY 11238 — <i class="icon-phone">&nbsp;</i> +1 734 834-4334 — <i class="icon-envelope">&nbsp;</i> mark@matienzo.org — <i class="icon-link">&nbsp;</i> www.matienzo.org
 
 ### Education
 
-* *Master of Science in Information* (Archives &amp; Records Management), University of Michigan, Ann Arbor, MI, 2004
+* *Master of Science in Information* (Archives &amp; Records Management), University of Michigan, 2004
 * *Bachelor of Arts in Philosophy*, College of Wooster, Wooster, OH, 2001
 
 ### Experience
