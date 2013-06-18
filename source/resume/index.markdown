@@ -118,6 +118,7 @@ sidebar: false
 
 ### Training and Continuing Education
 
+* *Inreach and Outreach for Digital Archives*, Society of American Archivists, Jun 2013.
 * *Topic Modeling for Humanities Research Workshop*, University of Maryland, Nov 2012.
 * *Appraisal of Electronic Records,* Society of American Archivists, May 2012.
 * *Archives Leadership Institute,* University of Wisconsin-Madison, Jul 2011.
