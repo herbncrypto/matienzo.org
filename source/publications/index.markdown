@@ -7,11 +7,11 @@ sidebar: false
 
 #### Articles and Published Conference Papers
 
-[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2013/.pdf) Matienzo, Mark A. and Katherine Kott. ["ArchivesSpace: A Next-Generation Archives Management System."](http://mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system/). In *Museums and the Web 2013: Proceedings.* Published April 9, 2013. Available from <http://mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system/>.
+[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2013/.pdf) Matienzo, Mark A. and Katherine Kott. ["ArchivesSpace: A Next-Generation Archives Management System."](http://mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system/). In *Museums and the Web 2013: Proceedings.* Published April 9, 2013. Available from [mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system](http://mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system/).
 
 Matienzo, Mark A. "'New Contexts of Permanent Change' in Digital Archivy." *Archivaria* 72, Fall 2011.
 
-[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2010/2010-Jun-LinkedData.pdf) Matienzo, Mark A. "Linked Data and the Future of Archival Description. *ARC Magazine*, June 2010.
+[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2010/2010-Jun-LinkedData.pdf) Matienzo, Mark A. "Linked Data and the Future of Archival Description." *ARC Magazine*, June 2010.
 
 [{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2009/2009-Jun-WorldCatAPI.pdf) Matienzo, Mark A. "Using the OCLC WorldCat APIs." *Python Magazine* 3(6), June 2009.
 

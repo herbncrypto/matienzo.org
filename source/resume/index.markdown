@@ -80,6 +80,7 @@ sidebar: false
 #### International
 
 * *Association of Canadian Archivists.* Guest Editor, Archivaria 72 (Fall 2011), Sep 2010 - Sep 2011.
+* *[Media Archaeology Lab.](http://mediaarchaeologylab.com/)* Advisory Board, Oct 2012- Present.
 * *Society of American Archivists. Schema Development Team.* Mar 2010 - Present.
 
 #### National
@@ -99,6 +100,7 @@ sidebar: false
 * *Society of American Archivists. Metadata and Digital Object Roundtable.* Web Liaison, Aug 2006 - Aug 2011.
 * *Society of American Archivists. RLG Programs Roundtable.* Co-Chair, Aug 2008 - Aug 2009.
 * *Society of American Archivists. Technical Subcommittee on Descriptive Standards.* Sep 2007 - Aug 2009.
+* *
 
 #### Institutional
 
