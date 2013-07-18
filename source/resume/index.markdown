@@ -80,7 +80,7 @@ sidebar: false
 #### International
 
 * *Association of Canadian Archivists.* Guest Editor, Archivaria 72 (Fall 2011), Sep 2010 - Sep 2011.
-* *[Media Archaeology Lab.](http://mediaarchaeologylab.com/)* Advisory Board, Oct 2012- Present.
+* *[Media Archaeology Lab.](http://mediaarchaeologylab.com/)* Advisory Board, Oct 2012 - Present.
 * *Society of American Archivists. Schema Development Team.* Mar 2010 - Present.
 
 #### National
