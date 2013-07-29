@@ -3,6 +3,7 @@ layout: page
 title: Bio
 footer: true
 sidebar: false
+sharing: false
 ---
 
 *Mark A. Matienzo* is Technical Architect for the [ArchivesSpace](http://archivesspace.org) project and a Digital Archivist in [Manuscripts and Archives](http://www.library.yale.edu/mssa/) at the [Yale University Library](http://www.library.yale.edu/). He also teaches as an adjunct professor at the [iSchool at Drexel](http://ischool.drexel.edu/) (the Drexel University College of Information Science and Technology). His research and professional interests include digital curation, open source digital forensics, archival description, and media archaeology. In 2012, Matienzo was the first awardee of the [Emerging Leader Award](http://www2.archivists.org/governance/handbook/section12-emerging-leader) of the [Society of American Archivists](http://www2.archivists.org/).
