@@ -100,7 +100,6 @@ sidebar: false
 * *Society of American Archivists. Metadata and Digital Object Roundtable.* Web Liaison, Aug 2006 - Aug 2011.
 * *Society of American Archivists. RLG Programs Roundtable.* Co-Chair, Aug 2008 - Aug 2009.
 * *Society of American Archivists. Technical Subcommittee on Descriptive Standards.* Sep 2007 - Aug 2009.
-* *
 
 #### Institutional
 
