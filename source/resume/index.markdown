@@ -16,13 +16,13 @@ sidebar: false
 
 <span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)
 
-> Development and implementation of tools, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisiton and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Portion of time seconded to ArchivesSpace (see below).
+> Development and implementation of tools, specifications, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisiton and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Portion of time seconded to ArchivesSpace (see below).
 
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Present)
     
 > Technical lead and product owner on Andrew W. Mellon Foundation-funded project to develop a new, best-of-breed open source archival management system merging functionality of Archivists' Toolkit and Archon. Responsible for establishing software development priorities, performing functional acceptance testing, leading review and revision process of functional specifications, and creation of technical documentation and architectural recommendations.
 
-<span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - Present)
+<span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - June 2013)
 
 > Instructor of INFO 756: Digital Preservation (taught Fall 2011, Spring 2012, Fall 2012, Spring 2013).
 
