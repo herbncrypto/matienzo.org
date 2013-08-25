@@ -14,7 +14,8 @@ sidebar: false
 
 ### Experience
 
-<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)<br/>
+*Librarian II,* Jan 2010 - Aug 2013; *Librarian III* (continuing appointment), Sep 2013 - Present (awarded Jul 2013)
 
 > Development and implementation of tools, specifications, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisiton and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Portion of time seconded to ArchivesSpace (see below).
 
@@ -29,11 +30,11 @@ sidebar: false
 <span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span>
 *Consultant*, Philadelphia Area Center for History of Science, Philadelphia, PA (Aug 2009 - Aug 2011) 
 
-> Development of a unified search portal for bibliographic records from the Center's member institutions, using Blacklight, Ruby, Python, and Solr.
+> Development of a multi-institutional search portal for bibliographic records, using Python, Ruby and Solr.
 
 <span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span> *Consultant*, Brooklyn Historical Society, Brooklyn, NY (May 2011 - Jul 2011)
 
-> Development of a PHP plugin to import MARCXML data from the Society's Archivists' Toolkit instance into their WordPress-based online catalog system.
+> Development of a PHP plugin to import MARCXML data from Archivists' Toolkit into their WordPress-based online catalog.
 
 <span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Applications Developer*, Digital Experience Group, New York Public Library, New York, NY (Jun 2008 - Jan 2010)
 
