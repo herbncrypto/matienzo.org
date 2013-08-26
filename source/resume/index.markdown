@@ -70,7 +70,7 @@ sidebar: false
 * Search, Harvesting, and Indexing: Lucene (Solr, Nutch), SRU/Z39.50 (Zebra, YAZ), OAI-PMH.
 * Web/Markup Languages: XML, JSON, XHTML, XSLT 1.0 and 2.0, XSL-FO, CSS, TEI, XQuery.
 * Semantic Web Technologies: RDF, SKOS, OWL, SPARQL.
-* Archival/Library Metadata Standards: EAD, MODS, METS, PREMIS, MARC21/MARCXML, DACS, EAD, Dublin Core, AACR2, LCRI, DCRM(B).
+* Archival/Library Metadata Standards: EAD, MODS, METS, PREMIS, MARC21/MARCXML, DACS, Dublin Core, AACR2, LCRI, DCRM(B).
 * System Administration: Linux, Apache, Tomcat, MySQL, Postfix.
 * Classification Standards & Thesauri: LCSH, LCNAF/NACO, LC Classification, AAT, TGM, MeSH, DDC.
 * Bibliographic Utilities: OCLC, RLIN, Classweb, Cataloger's Desktop, NUC pre-1956, NUCMC.
