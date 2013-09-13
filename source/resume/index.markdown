@@ -17,7 +17,7 @@ sidebar: false
 <span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)<br/>
 *Librarian II,* Jan 2010 - Aug 2013; *Librarian III* (continuing appointment), Sep 2013 - Present (awarded Jul 2013)
 
-> Development and implementation of tools, specifications, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisiton and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Portion of time seconded to ArchivesSpace (see below).
+> Development and implementation of tools, specifications, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisition and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Portion of time seconded to ArchivesSpace (see below).
 
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Present)
     
