@@ -63,7 +63,7 @@ sidebar: false
 * Programming Languages: Ruby, Python, PHP, SQL, Unix shell scripts, Perl, Java.
 * Applications: Microsoft Office, Adobe Photoshop, Adobe Acrobat, Archivists' Toolkit.
 * Disk imaging: FTK Imager, Guymager, KryoFlux, Catweasel, FC5025.
-* Forensic analysis: The Sleuth Kit, fiwalk, Forensic Toolkit.
+* Forensic analysis: The Sleuth Kit, fiwalk, Forensic Toolkit, PRTK, Registry Viewer.
 * Web Frameworks/Content Management Systems: Rails, Sinatra, Drupal, Django, web.py, WordPress.
 * Operating Systems: Linux, Mac OS X, Windows, Free/Net/OpenBSD, Solaris, VMS.
 * Database Systems/Persistence: MySQL, Postgres, MongoDB, Oracle, Access.
@@ -120,6 +120,7 @@ sidebar: false
 
 ### Training and Continuing Education
 
+* *AccessData Bootcamp* (FTK, FTK Imager, PRTK, Registry Viewer), AccessData Corporation, Sep 2013.
 * *Inreach and Outreach for Digital Archives*, Society of American Archivists, Jun 2013.
 * *Topic Modeling for Humanities Research Workshop*, University of Maryland, Nov 2012.
 * *Appraisal of Electronic Records,* Society of American Archivists, May 2012.
