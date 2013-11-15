@@ -5,7 +5,7 @@ footer: false
 sidebar: false
 ---
 
-##### 520 Lincoln Place #6A, Brooklyn, NY 11238 — <i class="icon-phone">&nbsp;</i> +1 734 834-4334 — <i class="icon-envelope">&nbsp;</i> mark@matienzo.org — <i class="icon-link">&nbsp;</i> www.matienzo.org
+##### Brooklyn, NY — <i class="icon-envelope">&nbsp;</i> mark@matienzo.org — <i class="icon-link">&nbsp;</i> www.matienzo.org
 
 ### Education
 
