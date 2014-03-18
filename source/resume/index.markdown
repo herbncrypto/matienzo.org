@@ -14,12 +14,16 @@ sidebar: false
 
 ### Experience
 
-<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Present)<br/>
-*Librarian II,* Jan 2010 - Aug 2013; *Librarian III* (continuing appointment), Sep 2013 - Present (awarded Jul 2013)
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Director of Technology*, Digital Public Library of America, Boston, MA (Dec 2013 - Present)<br/>
+
+> Responsible for the overall technology vision, architecture, and oversees and contributes to implementation for an early-stage non-profit organization dedicated to free and open access to digitized cultural heritage material. Oversees and manages developer team and contractors. 
+
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Dec 2013)<br/>
+*Librarian II,* Jan 2010 - Aug 2013; *Librarian III* (continuing appointment), Sep 2013 - Dec 2013 (awarded Jul 2013)
 
 > Development and implementation of tools, specifications, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisition and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Andrew W. Mellon Foundation-funded project, Born-Digital Collections: An Inter-Institutional Model for Stewardship (AIMS). Portion of time seconded to ArchivesSpace (see below).
 
-<span class="label label-info"><i class="icon-time">&nbsp;</i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Present)
+<span class="label label-info"><i class="icon-time">&nbsp;</i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Dec 2013)
     
 > Technical lead and product owner on Andrew W. Mellon Foundation-funded project to develop a new, best-of-breed open source archival management system merging functionality of Archivists' Toolkit and Archon. Responsible for establishing software development priorities, performing functional acceptance testing, leading review and revision process of functional specifications, and creation of technical documentation and architectural recommendations.
 
@@ -105,8 +109,8 @@ sidebar: false
 #### Institutional
 
 * *Yale University. Office of Digital Assets and Infrastructure. Digital Preservation Planning Committee.* May 2010 - Apr 2012.
-* *Yale University. Silliman College.* Fellow, Jan 2013 - Present.
-* *Yale University Library. Finding Aids Coordinating Committee.* Aug 2010 - Present.
+* *Yale University. Silliman College.* Fellow, Jan 2013 - Dec 2013.
+* *Yale University Library. Finding Aids Coordinating Committee.* Aug 2010 - Dec 2013.
 * *Yale University Library. Sustainability Steering Committee.* Oct 2011 - Jul 2012.
 
 <div class="page-break-before"></div>
