@@ -8,7 +8,7 @@ sidebar: false
 
 #### National &amp; International Presentations
 
-[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Jan-DPLA-LibHack-ALAMW.pdf) Matienzo, Mark A. "The DPLA API." [LibHack 2014](http://libhack.org), Philadelphia, PA, Jan 24 2014. {% render_partial _includes/labels/invited.html %}
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Jan-DPLA-LibHackALAMW.pdf) Matienzo, Mark A. "The DPLA API." [LibHack 2014](http://libhack.org), Philadelphia, PA, Jan 24 2014. {% render_partial _includes/labels/invited.html %}
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2013/2013Nov-DLF-ASpace.pdf) Millman, David, Mark A. Matienzo, Katherine Kott, and Brad Westbrook. "ArchivesSpace 1.0 and Beyond." Digital Library Federation Forum, Austin, TX, Nov 5 2013. {% render_partial _includes/labels/reviewed.html %}
 
