@@ -64,6 +64,8 @@ sidebar: false
 
 #### Regional Presentations
 
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Jun-NYAC/) Matienzo, Mark A. "The Digital Public Library of America: An Introduction." New York Archives Conference, Binghamton, NY, Jun 6, 2014.  {% render_partial _includes/labels/invited.html %} 
+
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Apr-BCLC/) Matienzo, Mark A. "Among Place and Non-Place: Situating the Digital Public Library of America." British Columbia Library Conference, Vancouver, BC, Apr 1, 2014.  {% render_partial _includes/labels/invited.html %} 
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2011/2011Oct-MARACArchivesSpace.pdf) Matienzo, Mark A. "ArchivesSpace: Building a Next-Generation Archives Management Tool." Mid-Atlantic Regional Archives Conference, Bethlehem, PA, Oct 22, 2011.  {% render_partial _includes/labels/invited.html %} 
