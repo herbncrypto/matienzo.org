@@ -7,6 +7,8 @@ sidebar: false
 
 #### Articles and Published Conference Papers
 
+[{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2014Aug-DCMI-paper.pdf) Matienzo, Mark A. and Amy Rudersdorf. "The Digital Public Library of America Ingestion Ecosystem: Lessons Learned After One Year of Large-Scale Collaborative Metadata Aggregation." Forthcoming; Proceedings of the International Conference on Dublin Core and Metadata Applications 2014. Preprint: [arXiv:1408.1713](http://arxiv.org/abs/1408.1713).
+
 [{% render_partial _includes/labels/pdf.html %}]({{ root_url }}/storage/2013/2013-MW-ArchivesSpace.pdf) Matienzo, Mark A. and Katherine Kott. ["ArchivesSpace: A Next-Generation Archives Management System."](http://mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system/) In *Museums and the Web 2013: Proceedings.* Published April 9, 2013. Available from [mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system](http://mw2013.museumsandtheweb.com/paper/archivesspace-a-next-generation-archives-management-system/).
 
 Matienzo, Mark A. "'New Contexts of Permanent Change' in Digital Archivy." *Archivaria* 72, Fall 2011.

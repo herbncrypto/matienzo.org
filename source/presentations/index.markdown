@@ -64,7 +64,11 @@ sidebar: false
 
 #### Regional Presentations
 
-[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Jun-NYAC/) Matienzo, Mark A. "The Digital Public Library of America: An Introduction." New York Archives Conference, Binghamton, NY, Jun 6, 2014.  {% render_partial _includes/labels/invited.html %} 
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Jul-DPLA-PDX.pdf) Rudersdorf, Amy, and Mark A. Matienzo. "Pacific Northwest DPLA Metadatathon: Intro to DPLA Metadata." Portland, OR, Jul 19, 2014. {% render_partial _includes/labels/invited.html %} 
+
+Matienzo, Mark A. "The Digital Public Library of America: An Introduction." Metropolitan New York Library Council, New York, NY, Jul 2, 2014. {% render_partial _includes/labels/invited.html %} 
+
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Jun-NYAC/) Matienzo, Mark A. "The Digital Public Library of America: An Introduction." New York Archives Conference, Binghamton, NY, Jun 6, 2014. {% render_partial _includes/labels/invited.html %} 
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Apr-BCLC/) Matienzo, Mark A. "Among Place and Non-Place: Situating the Digital Public Library of America." British Columbia Library Conference, Vancouver, BC, Apr 1, 2014.  {% render_partial _includes/labels/invited.html %} 
 
@@ -77,6 +81,10 @@ Matienzo, Mark A. "New Directions for Archival Data." New England Archivists, Pr
 Matienzo, Mark A. "Perspectives of Encoded Archival Description at the Institutional, Research, and National Level," Mid-Atlantic Regional Archives Conference, Jersey City, NJ, Oct 2009. {% render_partial _includes/labels/invited.html %} {% render_partial _includes/labels/chair.html %}
 
 #### Local Presentations
+
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Aug-Code4lib-MDC.pdf) Matienzo, Mark A. "What We Learned by Aggregating Metadata for 7 Million Items." Code4lib MDC, Washington, DC, Aug 11, 2014. {% render_partial _includes/labels/invited.html %}
+
+Matienzo, Mark A. "DPLA After One Year," ARTstor, New York, NY, Jun 12, 2014. {% render_partial _includes/labels/invited.html %}
 
 [{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2012/2012Dec-ArchivistsToolkit-NYU.pdf) Matienzo, Mark A. "Archivists' Toolkit (The AT)." CINE-GT.2031: Access to Moving Image Collections (guest lecture), New York University, New York, NY, Dec 12, 2012. {% render_partial _includes/labels/invited.html %}
 
