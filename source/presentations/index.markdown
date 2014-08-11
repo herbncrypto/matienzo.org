@@ -82,7 +82,7 @@ Matienzo, Mark A. "Perspectives of Encoded Archival Description at the Instituti
 
 #### Local Presentations
 
-[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Aug-Code4lib-MDC.pdf) Matienzo, Mark A. "What We Learned by Aggregating Metadata for 7 Million Items." Code4lib MDC, Washington, DC, Aug 11, 2014. {% render_partial _includes/labels/invited.html %}
+[{% render_partial _includes/labels/slides.html %}]({{ root_url }}/storage/2014/2014Aug-Code4libMDC.pdf) Matienzo, Mark A. "What We Learned by Aggregating Metadata for 7 Million Items." Code4lib MDC, Washington, DC, Aug 11, 2014. {% render_partial _includes/labels/invited.html %}
 
 Matienzo, Mark A. "DPLA After One Year," ARTstor, New York, NY, Jun 12, 2014. {% render_partial _includes/labels/invited.html %}
 
