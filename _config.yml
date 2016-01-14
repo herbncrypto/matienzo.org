@@ -29,7 +29,7 @@ email:
 #root: /
 permalink: /blog/:year/:title/
 #source: source
-destination: public
+destination: _site
 plugins: _plugins
 code_dir: sketches
 category_dir: 
@@ -45,6 +45,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - rsync-exclude
+  - config.rb
 
 
 paginate: 10          # Posts per page on the blog index
