@@ -3,8 +3,9 @@
 .sass-cache
 .gist-cache
 .pygments-cache
+.deploy
 _deploy
-public
+_site
 sass.old
 vendor
 node_modules
