@@ -1,0 +1,15 @@
+{% unless page.sidebar == false %}
+  <div class="span4 sidebar">
+    <div class="well">
+      {% if site.page_asides.size %}
+        {% for aside in site.page_asides %}
+        {% include aside %}
+        {% endfor %}
+      {% else %}
+        {% for aside in site.default_asides %}
+        {% include aside %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+{% endunless %}

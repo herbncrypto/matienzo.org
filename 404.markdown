@@ -1,0 +1,9 @@
+---
+layout: page
+title: 404 - File Not Found
+footer: true
+sidebar: false
+sharing: false
+---
+
+You may want to try a search above, or [visit the homepage](/).
