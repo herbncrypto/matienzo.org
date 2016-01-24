@@ -7,11 +7,6 @@ single: true
   <div class="{% if page.sidebar == false %}span12{% else %}span8{% endif %}">
     {% include article.html %}
     <footer>
-      <p class="meta">
-        {% include post/author.html %}
-        {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
-        {% include post/categories.html %}
-      </p>
       {% unless page.sharing == false %}
         {% include post/sharing.html %}
       {% endunless %}

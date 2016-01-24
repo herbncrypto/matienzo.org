@@ -12,5 +12,7 @@ group :jekyll_plugins do
     gem 'octopress-quote-tag'
     gem 'octopress-codefence'
     gem 'octopress-solarized'
+    gem 'octopress-date-format'
     gem 'octopress-gist'
+    gem 'jekyll-redirect-from'
 end
