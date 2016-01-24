@@ -66,6 +66,10 @@ gems:
   - octopress-codefence
   - octopress-solarized
   - octopress-gist
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
 
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
