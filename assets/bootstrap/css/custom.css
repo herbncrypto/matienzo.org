@@ -15,7 +15,7 @@
 
 p { font-size: 14px; line-height: 21px; }
 
-footer p { font-size: 12px; color: #999; }
+footer p, p.meta { font-size: 12px; color: #999; }
 
 .navbar-inner { padding: 0 10px; }
 

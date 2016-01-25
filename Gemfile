@@ -16,3 +16,11 @@ group :jekyll_plugins do
     gem 'octopress-gist'
     gem 'jekyll-redirect-from'
 end
+
+group :development do
+    gem 'pry'
+    gem 'jekyll-import'
+    gem 'hpricot'
+    gem 'open_uri_redirections'
+    gem 'safe_yaml'
+end

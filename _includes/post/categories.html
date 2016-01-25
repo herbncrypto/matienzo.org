@@ -1,11 +1,9 @@
-{% capture category %}{% if post %}{{ post.categories | category_links | size }}{% else %}{{ page.categories | category_links | size }}{% endif %}{% endcapture %}
+{% if post %}
+  {% assign entry = post %}
+{% else %}
+  {% assign entry = page %}
+{% endif %}
+{% capture category %}{{ entry.categories | category_links | size }}{% endcapture %}
 {% unless category == '0' %}
-<span class="categories">
-  posted in 
-  {% if post %}
-    {{ post.categories | category_links }}
-  {% else %}
-    {{ page.categories | category_links }}
-  {% endif %}
-</span>
+(posted in <span class="p-category">{{ entry.categories | join: "</span>, <span class='p-category'>" }}</span>)
 {% endunless %}
