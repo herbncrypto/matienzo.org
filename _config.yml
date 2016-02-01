@@ -30,7 +30,7 @@ email:
 permalink: /blog/:year/:title/
 #source: source
 destination: _site
-plugins: _plugins
+plugins_dir: _plugins
 code_dir: sketches
 category_dir: 
 markdown: rdiscount
@@ -68,6 +68,7 @@ gems:
   - octopress-gist
   - octopress-date-format
   - jekyll-redirect-from
+  - jekyll-paginate
 
 whitelist:
   - jekyll-redirect-from
