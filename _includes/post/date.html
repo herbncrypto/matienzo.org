@@ -3,8 +3,8 @@
 {% else %}
   {% assign entry = page %}
 {% endif %}
-  <time datetime="{{ entry.date_xml }}" class="dt-published" pubdate{% if entry.updated %} data-updated="true"{% endif %}>Posted on {{ entry.date_text }}</time>
+<time datetime="{{ entry.date | date_to_xmlschema }}" class="dt-published" pubdate{% if entry.updated %} data-updated="true"{% endif %}>on {{ entry.date | date_to_string }}</time>
 
 {% if entry.updated %}
-  - <time datetime="{{ entry.date_updated_xml }}" class="updated dt-updated">Updated on {{ entry.date_updated_text }}</time>
+(<time datetime="{{ entry.updated | date_to_xmlschema }}" class="updated dt-updated">updated on {{ entry.updated | date_to_string }})</time>
 {% endif %}

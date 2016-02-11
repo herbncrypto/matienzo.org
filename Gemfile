@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
  
-gem 'jekyll', '~> 3.1'
+gem 'jekyll', '~> 3.0.2'
 #gem 'github-pages'
 gem 'bourbon'
 gem 'rdiscount'
@@ -13,7 +13,6 @@ group :jekyll_plugins do
     gem 'octopress-quote-tag'
     gem 'octopress-codefence'
     gem 'octopress-solarized'
-    gem 'octopress-date-format'
     gem 'octopress-hooks', github: 'octopress/hooks', branch: 'master'
     gem 'octopress-gist'
     gem 'jekyll-redirect-from'

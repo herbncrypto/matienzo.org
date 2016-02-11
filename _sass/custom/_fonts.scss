@@ -13,7 +13,7 @@ $body-font: "Franklin Gothic Book", "Verdana", sans-serif;
 
 body {
     color: black;
-    p, section, .pagination, footer {
+    p, section, .pagination, footer, .footnotes {
         font-family: $body-font;
     }
     #main {

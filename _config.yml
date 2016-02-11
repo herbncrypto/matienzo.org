@@ -33,12 +33,7 @@ destination: _site
 plugins_dir: _plugins
 code_dir: sketches
 category_dir: 
-markdown: rdiscount
-rdiscount:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+markdown: kramdown
 highlighter: rouge 
 
 exclude:
@@ -61,12 +56,11 @@ sass:
 gems: 
   - octopress-image-tag
   - octopress-video-tag
-  - octopress-codeblock
-  - octopress-quote-tag
-  - octopress-codefence
-  - octopress-solarized
-  - octopress-gist
-  - octopress-date-format
+  # - octopress-codeblock
+  # - octopress-quote-tag
+  # - octopress-codefence
+  # - octopress-solarized
+  # - octopress-gist
   - jekyll-redirect-from
   - jekyll-paginate
 
