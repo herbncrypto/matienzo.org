@@ -9,6 +9,21 @@
 //$header-title-font-family: "Futura", sans-serif;
 //$header-subtitle-font-family: "Futura", sans-serif;
 
+@font-face {
+font-family: 'Franklin Gothic Book';
+font-style: normal;
+font-weight: normal;
+src: local('Franklin Gothic Book'), url('/fonts/franklin-gothic-book.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Franklin Gothic Book Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Franklin Gothic Book Italic'), url('/fonts/franklin-gothic-book-italic.woff') format('woff');
+}
+
 $body-font: "Franklin Gothic Book", "Verdana", sans-serif;
 
 body {
