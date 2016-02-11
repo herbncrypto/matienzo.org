@@ -5,7 +5,7 @@ date: 2013-02-18 01:03
 updated: 2013-02-24 01:52
 comments: true
 sharing: true
-categories: 
+redirect_from: /blog/2013/emotion-archives-interactive-fiction-linked-data/
 ---
 
 [**Edit (Feb 24, 2013):** Thanks to the fantastic work of [Tara Robertson](http://www.tararobertson.ca), the [video of my lightning talk](http://archive.org/details/Day4LTMark) is now available!]

@@ -7,6 +7,8 @@ comments: true
 categories:
 - indiewebcamp
 - webmention
+redirect_from:
+- /blog/2016/indiewebcamp-nyc-2016/
 ---
 
 I'm at [IndieWebCamp NYC](https://indiewebcamp.com/2016/NYC) and I just added

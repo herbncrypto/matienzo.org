@@ -4,7 +4,8 @@ title: "Computer Anonymous New York"
 date: 2013-10-22 9:30
 comments: true
 sharing: true
-categories: 
+redirect_from:
+- /blog/2013/computer-anonymous-nyc/
 ---
 
 In my [previous post](/blog/2013/privilege-archives-technology), I wrote about wanting to address issues of privilege in the space between archives and technology. As a first step, I mentioned organizing a New York group of [Computer Anonymous](http://computeranonymous.org). I'm pleased to announce that we've scheduled our [first meeting](http://computeranonymous.org/us_newyork.html#meetings):

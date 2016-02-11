@@ -4,7 +4,7 @@ title: "Cha(lle)nging the dynamics of privilege in archives and technology"
 date: 2013-10-15 23:23
 comments: true
 sharing: true
-categories: 
+redirect_from: /blog/2013/privilege-archives-technology/
 ---
 
 Like others, I found the [presidential address of Jackie Dooley](http://www2.archivists.org/history/leaders/jackie-m-dooley/2013-saa-presidential-address-by-jackie-dooley) last August's Society of American Archivists annual meeting to be problematic. At the time, I had little more to add than what was articulated by others, such as Sam Winn's post on [professional privilege](http://archivasaurus.wordpress.com/2013/08/16/professional-privilege-a-response-to-the-2013-saa-presidential-address/). As the dust settles, though I've gotten a lot more clarity.
