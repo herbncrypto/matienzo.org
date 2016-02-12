@@ -3,6 +3,8 @@ layout: post
 title: "To Hell With Good Intentions: Linked Data, Community and the Power to Name"
 comments: true
 date: 2016-02-11 1:48:00 -0500
+syndication:
+- https://medium.com/on-archivy/to-hell-with-good-intentions-3de1eecc7db6
 ---
 *This is the written version of my keynote presentation from the [2015 <abbr title="Library Information Technology Association">LITA</abbr> Forum](http://litaforum.org/) in Minneapolis, Minnesota, on November 14, 2015. I am grateful for the thoughtful and critical feedback from my friends and colleagues Maureen Callahan, Jarrett M. Drake, Hillel Arnold, Ben Armintor, Christina Harlow, and Chela Weber in their review of earlier drafts of this text. My [slides]({{ root_url }}/storage/2015/2015Nov-LITAForum.pdf) are also available.*
 

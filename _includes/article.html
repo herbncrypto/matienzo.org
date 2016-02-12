@@ -32,7 +32,11 @@
     {% include post/author.html %}
     {% include post/date.html %}
     {% include post/categories.html %}<br/>
-    <a href="{{ root_url }}{{ page.url }}" class="u-url">Permalink</a>
+    <a href="{{ root_url }}{{ page.url }}" class="u-url">Permalink</a> 
+    {% if page.syndication %}| <span>Syndication links: {% for syn in page.syndication %}
+     <a rel="syndication" class="u-syndication"
+      href="{{ syn }}">{{ forloop.index }} <i class="icon-external-link"></i></a> {% endfor %}
+    </span>{% endif %}
   </p>
 {% endif %}
 </article> 
