@@ -5,18 +5,14 @@ footer: false
 sidebar: false
 ---
 
-##### Brooklyn, NY — <i class="icon-envelope">&nbsp;</i> mark@matienzo.org — <i class="icon-link">&nbsp;</i> www.matienzo.org
+##### Digital Public Library of America, c/o Boston Public Library — 700 Boylston St — Boston, MA 02116 — <i class="icon-envelope">&nbsp;</i> mark@dp.la 
 
-### Education
-
-* *Master of Science in Information* (Archives &amp; Records Management), University of Michigan, 2004
-* *Bachelor of Arts in Philosophy*, College of Wooster, Wooster, OH, 2001
 
 ### Experience
 
 <span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Director of Technology*, Digital Public Library of America, Boston, MA (Dec 2013 - Present)<br/>
 
-> Responsible for the overall technology vision, architecture, and oversees and contributes to implementation for an early-stage non-profit organization dedicated to free and open access to digitized cultural heritage material. Oversees and manages  team of four developers, and serves as business and technical contact for contractors. 
+> Responsible for the overall technology vision, architecture, and oversees and contributes to implementation for an early-stage non-profit organization dedicated to free and open access to digitized cultural heritage material. Oversees and manages  team of four developers, and serves as business and technical contact for contractors. Project manager and project director for the Hydra in a Box project, a partnership between DPLA, Stanford University, and DuraSpace, funded by the Institute for Museum and Library Services.
 
 <span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Digital Archivist*, Manuscripts and Archives, Yale University Library, New Haven, CT (Jan 2010 - Dec 2013)<br/>
 *Librarian II,* Jan 2010 - Aug 2013; *Librarian III* (continuing appointment), Sep 2013 - Dec 2013 (awarded Jul 2013)
@@ -30,15 +26,6 @@ sidebar: false
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - June 2013)
 
 > Instructor of INFO 756: Digital Preservation (taught Fall 2011, Spring 2012, Fall 2012, Spring 2013).
-
-<span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span>
-*Consultant*, Philadelphia Area Center for History of Science, Philadelphia, PA (Aug 2009 - Aug 2011) 
-
-> Development of a multi-institutional search portal for bibliographic records, using Python, Ruby and Solr.
-
-<span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span> *Consultant*, Brooklyn Historical Society, Brooklyn, NY (May 2011 - Jul 2011)
-
-> Development of a PHP plugin to import MARCXML data from Archivists' Toolkit into their WordPress-based online catalog.
 
 <span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Applications Developer*, Digital Experience Group, New York Public Library, New York, NY (Jun 2008 - Jan 2010)
 
@@ -60,40 +47,17 @@ sidebar: false
 
 > High-quality bibliographic cataloging in OCLC Connexion of microfilmed material from 16th-20th centuries.
 
-### Skills
-
-* Natural Languages: Spoken and written English; reading knowledge of French and Latin.
-* Programming Languages: Ruby, Python, PHP, SQL, Unix shell scripts, Perl, Java.
-* Applications: Microsoft Office, Adobe Photoshop, Adobe Acrobat, Archivists' Toolkit.
-* Disk imaging: FTK Imager, Guymager, KryoFlux, Catweasel, FC5025.
-* Forensic analysis: The Sleuth Kit, fiwalk, Forensic Toolkit, PRTK, Registry Viewer.
-* Web Frameworks/Content Management Systems: Rails, Sinatra, Drupal, Django, web.py, WordPress.
-* Operating Systems: Linux, Mac OS X, Windows, Free/Net/OpenBSD, Solaris, VMS.
-* Database Systems/Persistence: MySQL, Postgres, MongoDB, Oracle, Access.
-* Search, Harvesting, and Indexing: Lucene (Solr, Nutch), SRU/Z39.50 (Zebra, YAZ), OAI-PMH.
-* Web/Markup Languages: XML, JSON, XHTML, XSLT 1.0 and 2.0, XSL-FO, CSS, TEI, XQuery.
-* Semantic Web Technologies: RDF, SKOS, OWL, SPARQL, LDP.
-* Archival/Library Metadata Standards: EAD, MODS, METS, PREMIS, MARC21/MARCXML, DACS, Dublin Core, AACR2, LCRI, DCRM(B).
-* System Administration: Linux, Apache, Tomcat, MySQL, Postfix.
-* Classification Standards & Thesauri: LCSH, LCNAF/NACO, LC Classification, AAT, TGM, MeSH, DDC.
-* Bibliographic Utilities: OCLC, RLIN, Classweb, Cataloger's Desktop, NUC pre-1956, NUCMC.
-* Library Management Systems: Innovative Interfaces, SirsiDynix Horizon, Ex Libris Voyager.
+<div class="page-break-before"></div>
 
 ### Service
 
-#### International
-
 * *Association of Canadian Archivists.* Guest Editor, Archivaria 72 (Fall 2011), Sep 2010 - Sep 2011.
-* *International Rights Statements Working Group.* Technical Co-Chair, Apr 2014 - Present.
-* *[Media Archaeology Lab.](http://mediaarchaeologylab.com/)* Advisory Board, Oct 2012 - Present.
-* *Society of American Archivists. Schema Development Team.* Mar 2010 - Aug 2015.
-
-#### National
-
 * *BitCurator. Development Advisory Group.* Oct 2011 - Sep 2014.
 * *Code4lib 2015.* Program Committee Member, Oct 2014 - Mar 2015.
 * *ePADD Phase 2.* Advisory Board Member, Nov 2015 - Present.
 * *Institute for Museum and Library Services.* Peer Reviewer, 2010-2012, 2014-2015.
+* *International Rights Statements Working Group.* Technical Co-Chair, Apr 2014 - Present.
+* *[Media Archaeology Lab.](http://mediaarchaeologylab.com/)* Advisory Board, Oct 2012 - Present.
 * *Museum Computer Network. Standards Special Interest Group.* Chair, Nov 2008 - Oct 2009.
 * *National Endowment for the Humanities.* Peer Reviewer, 2011.
 * *National Historical Publications and Records Commission.* Peer Reviewer, 2009 and 2011.
@@ -106,24 +70,12 @@ sidebar: false
 * *Society of American Archivists. Encoded Archival Description Roundtable.* Co-Chair, Aug 2010 - Aug 2012.
 * *Society of American Archivists. Metadata and Digital Object Roundtable.* Web Liaison, Aug 2006 - Aug 2011.
 * *Society of American Archivists. RLG Programs Roundtable.* Co-Chair, Aug 2008 - Aug 2009.
+* *Society of American Archivists. Schema Development Team.* Mar 2010 - Aug 2015.
 * *Society of American Archivists. Technical Subcommittee on Descriptive Standards.* Sep 2007 - Aug 2009.
-
-#### Institutional
-
 * *Yale University. Office of Digital Assets and Infrastructure. Digital Preservation Planning Committee.* May 2010 - Apr 2012.
 * *Yale University. Silliman College.* Fellow, Jan 2013 - Dec 2013.
 * *Yale University Library. Finding Aids Coordinating Committee.* Aug 2010 - Dec 2013.
 * *Yale University Library. Sustainability Steering Committee.* Oct 2011 - Jul 2012.
-
-### Publications
-
-{% capture pubs %}{% include publications.markdown %}{% endcapture %}
-{{ pubs | markdownify }}
-
-### Presentations
-
-{% capture prezs %}{% include presentations.markdown %}{% endcapture %}
-{{ prezs | markdownify }}
 
 ### Training and Continuing Education
 
@@ -140,10 +92,9 @@ sidebar: false
 
 ### Awards and Honors
 
-* *Emerging Leader Award,* Society of American Archivists, Aug 2012.
-* *Movers and Shakers in Archives Award,* ArchivesNext, Jul 2009.
-* *School of Information Opportunity Scholarship,* University of Michigan, Sep 2001 - Dec 2003.
-* *Registration Scholarship,* 10th Annual National Conference on the Management of Electronic Records, Sep 2002.
-* *Honors, Senior Independent Study Thesis,* College of Wooster, Apr 2001.
-* *Phi Sigma Tau (Philosophy Honors Society),* College of Wooster, Apr 2000.
-* *Arthur Holly Compton Scholarship,* College of Wooster, Sep 1997 - May 2001.
+* *Emerging Leader Award,* Society of American Archivists, 2012.
+* *School of Information Opportunity Scholarship,* University of Michigan, 2001-2003.
+* *Registration Scholarship,* 10th Annual Conference on the Management of Electronic Records, 2002.
+* *Honors, Senior Independent Study Thesis,* College of Wooster, 2001.
+* *Phi Sigma Tau (Philosophy Honors Society),* College of Wooster, 2000.
+* *Arthur Holly Compton Scholarship,* College of Wooster, 1997-2001.
