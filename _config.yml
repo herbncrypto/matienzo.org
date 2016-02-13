@@ -56,11 +56,7 @@ sass:
 gems: 
   - octopress-image-tag
   - octopress-video-tag
-  # - octopress-codeblock
-  # - octopress-quote-tag
-  # - octopress-codefence
-  # - octopress-solarized
-  # - octopress-gist
+  - octopress-include-tag
   - jekyll-redirect-from
   - jekyll-paginate
 
