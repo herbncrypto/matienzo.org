@@ -57,6 +57,7 @@ gems:
   - octopress-image-tag
   - octopress-video-tag
   - octopress-include-tag
+  - jekyll-embedly-plugin
   - jekyll-redirect-from
   - jekyll-paginate
 
@@ -78,6 +79,16 @@ default_asides: [asides/recent_posts.html]
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+
+embedly:
+  api_key: 598ae0b40dc44d639bcc0e04610aaa7b
+
+# Disqus Comments
+disqus_short_name: matienzo
+disqus_show_comment_count: false
+
+# Google Analytics
+google_analytics_tracking_id: UA-6399155-1
 
 # Github repositories
 github_user: anarchivist
@@ -109,13 +120,6 @@ pinboard_count: 2
 # Delicious
 delicious_user:
 delicious_count: 3
-
-# Disqus Comments
-disqus_short_name: matienzo
-disqus_show_comment_count: false
-
-# Google Analytics
-google_analytics_tracking_id: UA-6399155-1
 
 # Facebook Like
 facebook_like: false
