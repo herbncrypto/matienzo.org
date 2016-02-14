@@ -2,7 +2,7 @@
 .DS_Store
 .sass-cache
 .gist-cache
-.pygments-cache
+.embedly-cache
 .deploy
 _deploy
 _site
