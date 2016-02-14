@@ -60,6 +60,7 @@ gems:
   - jekyll-embedly-plugin
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-sitemap
 
 whitelist:
   - jekyll-redirect-from
