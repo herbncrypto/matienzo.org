@@ -14,6 +14,7 @@ A running list of things I want to do or have done. A lot of this relates to ado
 
 * **DONE** <strike>Enable sending and receiving webmentions</strike>
 * **DONE** <strike>Minimal h-entry markup</strike>
+* New theme!
 * Enable incoming [webmention](https://indiewebcamp.com/webmention) displays from [Webmention.io](https://webmention.io/).
 * Redo build process, perhaps running on [Travis](http://travis-ci.com/) or my own server.
 * Enable automatic <abbr title="Publish on my Own Site, Syndicate Everywhere">[POSSE](https://indiewebcamp.com/POSSE)</abbr> to Twitter, Medium, Slideshare, LinkedIn, and Facebook(?). Consider using [Bridgy](https://brid.gy/about) if this will lower friction.
