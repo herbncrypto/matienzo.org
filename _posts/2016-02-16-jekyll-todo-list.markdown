@@ -6,6 +6,8 @@ date: 2016-02-16 23:01:24
 categories:
 - jekyll
 - indieweb
+syndication:
+- https://twitter.com/anarchivist/status/699815203823726592
 ---
 
 A running list of things I want to do or have done. A lot of this relates to adopting the [IndieWeb](https://indiewebcamp.com/) ethos
