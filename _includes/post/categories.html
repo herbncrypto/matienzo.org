@@ -5,5 +5,5 @@
 {% endif %}
 {% capture category %}{{ entry.categories | category_links | size }}{% endcapture %}
 {% unless category == '0' %}
-(posted in <span class="p-category">{{ entry.categories | join: "</span>, <span class='p-category'>" }}</span>)
+in <span class="p-category">{{ entry.categories | join: "</span>, <span class='p-category'>" }}</span>
 {% endunless %}
