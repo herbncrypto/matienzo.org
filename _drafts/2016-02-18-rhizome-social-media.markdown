@@ -53,3 +53,5 @@ Nathan Jurgensen
 * "it's life and death when archiving is done wrong"
 * "if we preserve everything nothing becomes important"
 Contrast between dynamic practices of presentation and preservationists and ones based in static acts 
+
+"There has to be a way to preserve Instagram" - GR
