@@ -46,6 +46,10 @@ Guadalupe Rosales
 * represents conversations and material culture
 * opportunity to embrace history
 
-
+Nathan Jurgensen
+* focus on importance of consent
+* tools w value have ootential to cause harm
+* relationship to personal vulnerability - there are stakes for getting this wrong that relate to personal safety 
+* "it's life and death when archiving is done wrong"
 
 Contrast between dynamic practices of presentation and preservationists and ones based in static acts 
