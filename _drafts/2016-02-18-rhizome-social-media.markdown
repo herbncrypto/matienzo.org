@@ -41,7 +41,11 @@ Guadalupe Rosales
 * motivation: connect with friends and creating space for Chicana women
 * people sharing photos as an affirmation of intimacy when sharing descriptions 
 * started adding attribution over time 
-* #ChicanaBedrooms
+* #ChicanaBedrooms and presence of objects in rooms - nostalgia
+* ids and prison drawings
+* represents conversations and material culture
+* opportunity to embrace history
+
 
 
 Contrast between dynamic practices of presentation and preservationists and ones based in static acts 
