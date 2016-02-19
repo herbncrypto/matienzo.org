@@ -14,3 +14,5 @@ dragan
 * geocities torrent release
 * geocities institute
 geocities "as the social network of 1995"
+* pages as works in progress
+* tumblr as a nonfixed artefact
