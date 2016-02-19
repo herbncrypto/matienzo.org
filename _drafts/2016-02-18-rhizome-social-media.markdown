@@ -57,4 +57,4 @@ Contrast between dynamic practices of presentation and preservationists and ones
 
 "There has to be a way to preserve Instagram" - GR
 
-What is saved is not a passive thing. To platforms and SV it's just data to be algorithmically manipulated to present something interesting. 
+What is saved is not a passive thing. To platforms and SV it's just data to be algorithmically manipulated to present something interesting. - DE
