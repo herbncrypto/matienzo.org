@@ -1,9 +1,4 @@
----
-layout: post
-title: "Rhizome panel on social media archiving"
-date: 2016-02-18 19:00:00 -0500
----
- 
+
 [Who Owns Digital Social Memory?](http://livestream.com/newmuseum/events/4837386) at Rhizome
 
 Connor: contrasting memory and the archive. Memory as social process. 
@@ -16,3 +11,4 @@ dragan
 geocities "as the social network of 1995"
 * pages as works in progress
 * tumblr as a nonfixed artefact
+* webrecorder
