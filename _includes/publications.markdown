@@ -16,7 +16,7 @@ Matienzo, Mark A. "'New Contexts of Permanent Change' in Digital Archivy." *Arch
 
 #### Research Reports, White Papers, and Technical Reports
 
-International Rights Statements Working Group-Technical Working Group: Valentine Charles, Esmé Cowles, Karen Estlund, Antoine Isaac, Tom Johnson, Mark A. Matienzo, Patrick Peiffer, Richard J. Urban, Maarten Zeinstra. *Rightsstatements.org White Paper: Requirements for the Technical Infrastructure for Standardized International Rights Statements.* Published online at: [rightsstatements.org](http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf), Febuary 2016. 
+International Rights Statements Working Group-Technical Working Group: Valentine Charles, Esmé Cowles, Karen Estlund, Antoine Isaac, Tom Johnson, Mark A. Matienzo, Patrick Peiffer, Richard J. Urban, Maarten Zeinstra. *Rightsstatements.org White Paper: Requirements for the Technical Infrastructure for Standardized International Rights Statements.* Published online at: [rightsstatements.org](http://rightsstatements.org/files/151002requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements.pdf), October 2016. 
 
 International Rights Statements Working Group-Technical Working Group: Valentine Charles, Esmé Cowles, Karen Estlund, Antoine Isaac, Tom Johnson, Mark A. Matienzo, Patrick Peiffer, Richard J. Urban, Maarten Zeinstra. *Recommendations for the Technical Infrastructure for Standardized International Rights Statements.* May 2015. [arxiv:1512.00443](http://arxiv.org/abs/1512.00443)
 
