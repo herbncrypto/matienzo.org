@@ -24,7 +24,7 @@ International Rights Statements Working Group-Technical Working Group: Valentine
 
 [<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2010/2010-Jul-ArchivesSpace-TechArchReport.pdf) *ArchivesSpace Technical Design Meeting: Summary Report on Technical Architecture.* Prepared by Mark A. Matienzo for ArchivesSpace. Published online at: [www.archivesspace.org/documents/reports](http://www.archivesspace.org/documents/reports), July 2010.
 
-[<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2010/2010-Feb-EAD-Barriers.pdf) Combs, Michele, Mark A. Matienzo, Merrilee Proffitt, and Lisa Spiro. *ver, Under, Around, and Through: Getting Around Barriers to EAD Implementation.* Report produced by OCLC Research in support of the RLG Partnership, February 2010. Republished in [*Making Archival and Special Collections More Accessible*](http://www.oclc.org/content/dam/research/publications/2015/oclcresearch-making-special-collections-accessible-2015.pdf) (Dublin, OH: OCLC), 2015, 39-62.
+[<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2010/2010-Feb-EAD-Barriers.pdf) Combs, Michele, Mark A. Matienzo, Merrilee Proffitt, and Lisa Spiro. *Over, Under, Around, and Through: Getting Around Barriers to EAD Implementation.* Report produced by OCLC Research in support of the RLG Partnership, February 2010. Republished in [*Making Archival and Special Collections More Accessible*](http://www.oclc.org/content/dam/research/publications/2015/oclcresearch-making-special-collections-accessible-2015.pdf) (Dublin, OH: OCLC), 2015, 39-62.
 
 #### Book Reviews
 
