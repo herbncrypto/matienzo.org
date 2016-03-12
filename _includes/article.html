@@ -19,13 +19,10 @@
   </header>
 {% endunless %}
 {% if index %}
-  <div class="entry-content p-summary">{{ content | excerpt }}</div>
-  {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
-  {% if excerpted == 'true' %}
+  <div class="entry-content p-summary">{{ post.excerpt | remove: '<em>' | remove: '</em>' }}</div>
     <footer>
       <a rel="full-article" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
     </footer>
-  {% endif %}
 {% else %}
   <div class="entry-content e-content">{{ content }}</div>
   <p class="meta">Posted 
