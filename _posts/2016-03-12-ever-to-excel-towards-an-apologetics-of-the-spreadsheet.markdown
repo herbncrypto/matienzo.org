@@ -8,6 +8,8 @@ presentation:
    date: 2016-03-08
    slides: "http://matienzo.org/storage/2016/2016-Mar-code4lib/"
    video: "https://www.youtube.com/watch?v=YCaQ-hHJvcE"
+syndication:
+  - https://twitter.com/anarchivist/status/708792361044856833
 ---
 
 *This is the written version of my presentation from [Code4lib 2016](http://2016.code4lib.org/) in Philadelphia, on March 8, 2016. My presentation was part of a panel with my friends [Christina Harlow](http://christinaharlow.com/), [Ted Lawless](http://lawlesst.github.io/), and [Matt Zumwalt](http://flyingzumwalt.com/), after which we had some discussion moderated by [Matt Miller](http://thisismattmiller.com/). My [slides](http://matienzo.org/storage/2016/2016-Mar-code4lib/) are available, as are the [video of all talks from the panel](https://www.youtube.com/watch?v=YCaQ-hHJvcE).*
