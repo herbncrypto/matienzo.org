@@ -1,3 +1,4 @@
+* *Alfred P. Sloan Foundation.* Peer Reviewer, 2011 and 2015.
 * *Association of Canadian Archivists.* Guest Editor, Archivaria 72 (Fall 2011), Sep 2010 - Sep 2011.
 * *BitCurator. Development Advisory Group.* Oct 2011 - Sep 2014.
 * *Code4lib 2015.* Program Committee Member, Oct 2014 - Mar 2015.

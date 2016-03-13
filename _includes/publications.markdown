@@ -1,4 +1,6 @@
-#### Articles and Conference Papers
+#### Articles, Book Chapters, and Conference Papers
+
+Matienzo, Mark A. "The Digital Public Library of America's Application Programming Interface and Metadata Ingestion Process." In *Sharing Archival Metadata,* ed. Aaron Rubenstein. Forthcoming.
 
 [<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2014/2014Aug-DCMI-paper.pdf) Matienzo, Mark A. and Amy Rudersdorf. ["The Digital Public Library of America Ingestion Ecosystem: Lessons Learned After One Year of Large-Scale Collaborative Metadata Aggregation."](http://dcpapers.dublincore.org/pubs/article/view/3700) In *Proceedings of the International Conference on Dublin Core and Metadata Applications* 2014. Preprint: [arXiv:1408.1713](http://arxiv.org/abs/1408.1713).
 
