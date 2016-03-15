@@ -17,6 +17,6 @@ Storing/structuring information as practice. Not a typical library. Publishing "
 
 * Ariane Roth and Roland Früh (Sitterwerk)
 
-Based in Sittertal. Famous for having oldest library in Switzerland. "Material archive" forms basis of collections among others. Other museum/object collections as well. Also near foundary for art, fabrication, photo lab, etc. 
+Based in St. Gallen, Sittertal. Famous for having oldest library in Switzerland. "Material archive" forms basis of collections among others. Other museum/object collections as well. Also near foundry for art, fabrication, photo lab, etc. 
 
 * Anthon Anstrom and Lukas Zimmer
