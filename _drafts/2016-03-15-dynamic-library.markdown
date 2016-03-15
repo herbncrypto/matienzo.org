@@ -7,7 +7,7 @@ layout: post
 * David Reinfurt (Dexter Sinister/The Serving Library)
 
 The Serving Library (w Angie Kiefer and Stuart ?)
-Storing/structuring information as practice. Not a typical library. Publishing "bulletins" (texts focused on contemporary art, design, media) through website. Texts are published as "bound works" in PDF form; adds objecthood. 
+Storing/structuring information as practice. Not a typical library. Publishing "bulletins" (texts focused on contemporary art, design, media) through website. Texts are published as "bound works" in PDF form; adds objecthood. PDFs have embedded time stamps. 
 
 * Ben Vershbow
 * Ariane Roth and Roland Früh (Sitterwerk$
