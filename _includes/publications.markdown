@@ -1,4 +1,6 @@
-#### Articles and Conference Papers
+#### Articles, Book Chapters, and Conference Papers
+
+Matienzo, Mark A. "The Digital Public Library of America's Application Programming Interface and Metadata Ingestion Process." In *Sharing Archival Metadata,* ed. Aaron Rubenstein. Forthcoming.
 
 [<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2014/2014Aug-DCMI-paper.pdf) Matienzo, Mark A. and Amy Rudersdorf. ["The Digital Public Library of America Ingestion Ecosystem: Lessons Learned After One Year of Large-Scale Collaborative Metadata Aggregation."](http://dcpapers.dublincore.org/pubs/article/view/3700) In *Proceedings of the International Conference on Dublin Core and Metadata Applications* 2014. Preprint: [arXiv:1408.1713](http://arxiv.org/abs/1408.1713).
 
@@ -16,7 +18,7 @@ Matienzo, Mark A. "'New Contexts of Permanent Change' in Digital Archivy." *Arch
 
 #### Research Reports, White Papers, and Technical Reports
 
-International Rights Statements Working Group-Technical Working Group: Valentine Charles, Esmé Cowles, Karen Estlund, Antoine Isaac, Tom Johnson, Mark A. Matienzo, Patrick Peiffer, Richard J. Urban, Maarten Zeinstra. *Rightsstatements.org White Paper: Requirements for the Technical Infrastructure for Standardized International Rights Statements.* Published online at: [rightsstatements.org](http://rightsstatements.org/files/160208recommendations_for_standardized_international_rights_statements_v1.1.pdf), Febuary 2016. 
+International Rights Statements Working Group-Technical Working Group: Valentine Charles, Esmé Cowles, Karen Estlund, Antoine Isaac, Tom Johnson, Mark A. Matienzo, Patrick Peiffer, Richard J. Urban, Maarten Zeinstra. *Rightsstatements.org White Paper: Requirements for the Technical Infrastructure for Standardized International Rights Statements.* Published online at: [rightsstatements.org](http://rightsstatements.org/files/151002requirements_for_the_technical_infrastructure_for_standardized_international_rights_statements.pdf), October 2015. 
 
 International Rights Statements Working Group-Technical Working Group: Valentine Charles, Esmé Cowles, Karen Estlund, Antoine Isaac, Tom Johnson, Mark A. Matienzo, Patrick Peiffer, Richard J. Urban, Maarten Zeinstra. *Recommendations for the Technical Infrastructure for Standardized International Rights Statements.* May 2015. [arxiv:1512.00443](http://arxiv.org/abs/1512.00443)
 
@@ -24,7 +26,7 @@ International Rights Statements Working Group-Technical Working Group: Valentine
 
 [<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2010/2010-Jul-ArchivesSpace-TechArchReport.pdf) *ArchivesSpace Technical Design Meeting: Summary Report on Technical Architecture.* Prepared by Mark A. Matienzo for ArchivesSpace. Published online at: [www.archivesspace.org/documents/reports](http://www.archivesspace.org/documents/reports), July 2010.
 
-[<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2010/2010-Feb-EAD-Barriers.pdf) Combs, Michele, Mark A. Matienzo, Merrilee Proffitt, and Lisa Spiro. *ver, Under, Around, and Through: Getting Around Barriers to EAD Implementation.* Report produced by OCLC Research in support of the RLG Partnership, February 2010. Republished in [*Making Archival and Special Collections More Accessible*](http://www.oclc.org/content/dam/research/publications/2015/oclcresearch-making-special-collections-accessible-2015.pdf) (Dublin, OH: OCLC), 2015, 39-62.
+[<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2010/2010-Feb-EAD-Barriers.pdf) Combs, Michele, Mark A. Matienzo, Merrilee Proffitt, and Lisa Spiro. *Over, Under, Around, and Through: Getting Around Barriers to EAD Implementation.* Report produced by OCLC Research in support of the RLG Partnership, February 2010. Republished in [*Making Archival and Special Collections More Accessible*](http://www.oclc.org/content/dam/research/publications/2015/oclcresearch-making-special-collections-accessible-2015.pdf) (Dublin, OH: OCLC), 2015, 39-62.
 
 #### Book Reviews
 

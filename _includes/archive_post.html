@@ -5,6 +5,6 @@
   {% capture category %}{{ post.categories | size }}{% endcapture %}
   <h3><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h3>
   {% if category != '0' %}
-  <h3><small>posted in {{ post.categories | category_links }}</small></h3>
+  <h3><small>posted in <span class="p-category">{{ post.categories | join: "</span>, <span class='p-category'>" }}</span></small></h3>
   {% endif %}
 </td>
