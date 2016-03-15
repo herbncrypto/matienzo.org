@@ -12,5 +12,8 @@ The Serving Library (w Angie Kiefer and Stuart ?)
 Storing/structuring information as practice. Not a typical library. Publishing "bulletins" (texts focused on contemporary art, design, media) through website. Texts are published as "bound works" in PDF form; adds objecthood. PDFs have embedded time stamps. Printed works based on these PDFs. 
 
 * Ben Vershbow
-* Ariane Roth and Roland Früh (Sitterwerk$
-* Anthon Anstrom and
+
+"Raising the baseline of access" through APIs
+
+* Ariane Roth and Roland Früh (Sitterwerk)
+* Anthon Anstrom and Lukas Zimmer
