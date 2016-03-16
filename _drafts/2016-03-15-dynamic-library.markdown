@@ -17,6 +17,6 @@ Storing/structuring information as practice. Not a typical library. Publishing "
 
 * Ariane Roth and Roland Früh (Sitterwerk)
 
-Based in St. Gallen, Sittertal. Famous for having oldest library in Switzerland. "Material archive" forms basis of collections among others. Other museum/object collections as well. Also near foundry for art, fabrication, photo lab, etc. 
+Based in St. Gallen, Sittertal. Famous for having oldest library in Switzerland. "Material archive" forms basis of collections among others. Other museum/object collections as well. Also near foundry for art, fabrication, photo lab, etc. Kunstbibliothek, Materialarchiv. Founded by Daniel Rohner (architect); "followed art scene by buying books." Ended up at Sitterwerk/Art Foundry by coincidence. RFID tags introduced on Rohner's passing. 
 
 * Anthon Anstrom and Lukas Zimmer
