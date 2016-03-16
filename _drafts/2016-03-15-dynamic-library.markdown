@@ -27,3 +27,7 @@ https://twitter.com/anarchivist/status/709893230729494528
 Werkbank addresses the dislike of lists. External objects could also not be recorded. Is there way to have work developed in the library flow back to it?
 
 desk tracks position with 12 RFID antennae; camera on photo stand with image recognition software
+
+Anstrom/Zimmer's MAPS application - http://perspectives.io/ - to map objects into a service
+
+Gradient tagging: intended to represent relationships between objects 
