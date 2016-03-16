@@ -30,4 +30,4 @@ desk tracks position with 12 RFID antennae; camera on photo stand with image rec
 
 Anstrom/Zimmer's MAPS application - http://perspectives.io/ - to map objects into a service
 
-Gradient tagging: intended to represent relationships between objects 
+Gradient tagging: intended to represent relationships between objects - http://lines.thecafesociety.org
