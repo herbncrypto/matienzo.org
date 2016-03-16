@@ -19,4 +19,11 @@ Storing/structuring information as practice. Not a typical library. Publishing "
 
 Based in St. Gallen, Sittertal. Famous for having oldest library in Switzerland. "Material archive" forms basis of collections among others. Other museum/object collections as well. Also near foundry for art, fabrication, photo lab, etc. Kunstbibliothek, Materialarchiv. Founded by Daniel Rohner (architect); "followed art scene by buying books." Ended up at Sitterwerk/Art Foundry by coincidence. RFID tags introduced on Rohner's passing. 
 
+https://twitter.com/anarchivist/status/709893230729494528
+
+
 * Anthon Anstrom and Lukas Zimmer
+
+Werkbank addresses the dislike of lists. External objects could also not be recorded. Is there way to have work developed in the library flow back to it?
+
+desk tracks position with 12 RFID antennae; camera on photo stand with image recognition software
