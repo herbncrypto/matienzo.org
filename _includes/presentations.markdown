@@ -42,7 +42,7 @@ Arnold, Hillel, Maureen Callahan, Ben Goldman, Tom Johnson, Mark A. Matienzo, an
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2014/2014Oct-dcmi14-rdfap.pdf) Matienzo, Mark A., Kevin Ford, Tom Johnson, Eric Miller, and Eric Wood. ["RDF Application Profiles and Tools for Metadata Validation and Quality Control."](http://dcevents.dublincore.org/IntConf/dc-2014/paper/view/214) International Conference on Dublin Core and Metadata Applications, Austin, TX, Oct 9 2014. <span class="label label-info"><i class="icon-ok-circle"></i> Peer-Reviewed</span>
 
-[<span class="label label-important"><i class="icon-file"></i> Paper</span>]({{ root_url }}/storage/2014/2014Aug-DCMI-paper.pdf) [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2014/2014Oct-dcmi14.pdf) Matienzo, Mark A. and Amy Rudersdorf. "The Digital Public Library of America Ingestion Ecosystem: Lessons Learned After One Year of Large-Scale Collaborative Metadata Aggregation." International Conference on Dublin Core and Metadata Applications, Austin, TX, Oct 9 2014. <span class="label label-info"><i class="icon-ok-circle"></i> Peer-Reviewed</span>
+[<span class="label label-inverse"><i class="icon-file"></i> Paper</span>]({{ root_url }}/storage/2014/2014Aug-DCMI-paper.pdf) [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2014/2014Oct-dcmi14.pdf) Matienzo, Mark A. and Amy Rudersdorf. "The Digital Public Library of America Ingestion Ecosystem: Lessons Learned After One Year of Large-Scale Collaborative Metadata Aggregation." International Conference on Dublin Core and Metadata Applications, Austin, TX, Oct 9 2014. <span class="label label-info"><i class="icon-ok-circle"></i> Peer-Reviewed</span>
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2014/2014Jan-DPLA-LibHackALAMW.pdf) Matienzo, Mark A. "The DPLA API." [LibHack 2014](http://libhack.org), Philadelphia, PA, Jan 24 2014. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
@@ -161,9 +161,9 @@ CT, Sep 19 2012.
 
 #### <span class="unpublished">Miscellaneous Presentations, Lightning Talks and Unconference Sessions</span>
 
-<span class="unpublished">[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2015/2015Feb-Code4lib-Bread) Matienzo, Mark A. "Bread." Code4lib 2015, Portland, OR, Feb 10 2015.<span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
+<span class="unpublished">[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2015/2015Feb-Code4lib-Bread) Matienzo, Mark A. "Bread." Code4lib 2015, Portland, OR, Feb 10 2015. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
-<span class="unpublished">[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2014/2014Mar-code4lib-lightning-talk) Matienzo, Mx A. "Dial-A-DPLA." Code4lib, Raleigh, NC, Mar 26 2014.<span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
+<span class="unpublished">[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2014/2014Mar-code4lib-lightning-talk) Matienzo, Mx A. "Dial-A-DPLA." Code4lib, Raleigh, NC, Mar 26 2014. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
 <span class="unpublished">[<span class="label label-info"><i class="icon-facetime-video"></i> Video</span>](http://archive.org/details/Day4LTMark) [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2013/2013Feb-code4lib-lightning-talk) Matienzo, Mark A. "Wielding the Whip: Affect, Archives, and Ontological Fusion." Code4lib, Chicago, IL, Feb 14 2013. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
@@ -179,11 +179,11 @@ CT, Sep 19 2012.
 
 <span class="unpublished">[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2008/20080328) Matienzo, Mark A. "EPODe: Extensible Platform for Oral History Delivery." The New York Public Library, Mar 28 2008. <span class="label label-info"><i class="icon-warning-sign"></i> Job Talk</span></span>
 
-<span class="unpublished">[<span class="label label-info"><i class="icon-facetime-video"></i> Video</span>](http://video.google.com/videoplay?docid=9016342205165054123&hl=en) Matienzo, Mark A. "HOWTO Meet People and Have Fun at Code4lib." Code4lib, Portland, OR, Feb 2008. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
+<!-- <span class="unpublished">[<span class="label label-info"><i class="icon-facetime-video"></i> Video</span>](http://video.google.com/videoplay?docid=9016342205165054123&hl=en) --> Matienzo, Mark A. "HOWTO Meet People and Have Fun at Code4lib." Code4lib, Portland, OR, Feb 2008. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
-<span class="unpublished">[<span class="label label-info"><i class="icon-facetime-video"></i> Video</span>](http://video.google.com/videoplay?docid=6865176579955784199&hl=en) Matienzo, Mark A. "Archivists' Toolkit." Code4lib, Portland, OR, Feb 2008. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
+<!-- <span class="unpublished">[<span class="label label-info"><i class="icon-facetime-video"></i> Video</span>](http://video.google.com/videoplay?docid=6865176579955784199&hl=en) --> Matienzo, Mark A. "Archivists' Toolkit." Code4lib, Portland, OR, Feb 2008. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
-<span class="unpublished">[<span class="label label-info"><i class="icon-facetime-video"></i> Video</span>](http://video.google.com/videoplay?docid=-676364327055235327&hl=en) Farrell, Gabriel, and Mark A. Matienzo. "Kochief: Kobold Chieftain, a.k.a. Fac-Back-OPAC." Code4lib, Portland, OR, Feb 2008. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
+<!-- <span class="unpublished">[<span class="label label-info"><i class="icon-facetime-video"></i> Video</span>](http://video.google.com/videoplay?docid=-676364327055235327&hl=en)  --> Farrell, Gabriel, and Mark A. Matienzo. "Kochief: Kobold Chieftain, a.k.a. Fac-Back-OPAC." Code4lib, Portland, OR, Feb 2008. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
 <span class="unpublished">[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2007/20071026) Matienzo, Mark A. "ohilist.py: Processing MARC into HTML." Seattle Public Library, Seattle, WA, Oct 26 2007. <span class="label label-info"><i class="icon-warning-sign"></i> Job Talk</span></span>
 
