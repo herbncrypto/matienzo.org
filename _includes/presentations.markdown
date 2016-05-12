@@ -1,5 +1,7 @@
 #### National &amp; International Presentations
 
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2016/2016May-IIIF-DescriptiveMetadata.pdf) Matienzo, Mark A. "Descriptive Metadata Alignment and Interoperability in IIIF." Access to the World’s Images: The Advantages of IIIF, New York, NY, May 11 2016. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
+
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2016/2016May-IIIF-Archives.pdf) Matienzo, Mark A., and Anna Naruta-Moya. "IIIF: Archival Use Cases." Access to the World’s Images: The Advantages of IIIF, New York, NY, May 10 2016. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2016/2016Apr-DPLAFest-IIIF.pdf) Roddis, Tristan, Esmé Cowles, Antoine Isaac, and Mark Matienzo. "Everything You Wanted To Know about IIIF But Were Afraid to Ask." DPLAFest 2016, Washington, DC, Apr 15 2016. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
