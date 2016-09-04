@@ -6,6 +6,8 @@ categories:
 - hardware
 - software
 comments: true
+syndication:
+- https://twitter.com/anarchivist/status/772507454923956225
 ---
 
 My current position at [DPLA](https://dp.la/), especially since we are remote-first
