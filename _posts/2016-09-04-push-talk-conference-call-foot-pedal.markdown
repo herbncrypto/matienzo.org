@@ -33,7 +33,7 @@ for programming the switches.
 After doing some digging, I came across an application for Mac OS X called
 [Shush](http://mizage.com/shush/), which provides both push-to-talk and 
 push-to-silence modes, which are activated by a keystroke. Once installed, 
-I bound the Shush to the `Fn` keystroke, which would allow me to activate 
+I bound Shush to the `Fn` keystroke, which would allow me to activate 
 push-to-talk even if I didn't have the pedal plugged in. However, I couldn't
 get the pedal to send the `Fn` keystroke alone since it's a modifier key. As
 a workaround, I put together a device-specific configuration for
