@@ -1,12 +1,15 @@
-* *Alfred P. Sloan Foundation.* Peer Reviewer, 2011 and 2015.
+* *Alfred P. Sloan Foundation.* Peer Reviewer, 2011, 2015, and 2016.
 * *Apache Marmotta*, Committer and Project Management Committee Member, Aug 2016 - Present.
+* *arXiv-ng*, Cornell University. Advisory Group, December 2016 - Present.
 * *Association of Canadian Archivists.* Guest Editor, Archivaria 72 (Fall 2011), Sep 2010 - Sep 2011.
-* *BitCurator. Development Advisory Group.* Oct 2011 - Sep 2014.
+* *BitCurator*, University of North Carolina. Development Advisory Group, Oct 2011 - Sep 2014.
+* *BitCurator NLP*, University of North Carolina. Advisory Board Member, Oct 2016 - Present.
 * *Code4lib 2015.* Program Committee Member, Oct 2014 - Mar 2015.
-* *ePADD Phase 2*, Stanford University. Advisory Board Member, Nov 2015 - Present.
+* *ePADD Phase 2*, Stanford University. Advisory Board, Nov 2015 - Present.
+* *Exploring Benefits for Users of Linked Open Data for Digitized Special Collections*, University of Illinois. Sep 2016 - Present.
 * *Institute for Museum and Library Services.* Peer Reviewer, 2010-2012, 2014-2015.
 * *International Rights Statements Working Group.* Technical Co-Chair, Apr 2014 - Present.
-* *[Media Archaeology Lab.](http://mediaarchaeologylab.com/)* Advisory Board, Oct 2012 - Present.
+* *Media Archaeology Lab*, University of Colorado. Advisory Board, Oct 2012 - Present.
 * *Museum Computer Network. Standards Special Interest Group.* Chair, Nov 2008 - Oct 2009.
 * *National Endowment for the Humanities.* Peer Reviewer, 2011.
 * *National Historical Publications and Records Commission.* Peer Reviewer, 2009 and 2011.

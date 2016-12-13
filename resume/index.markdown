@@ -14,7 +14,11 @@ sidebar: false
 
 ### Experience
 
-<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Director of Technology*, Digital Public Library of America, Boston, MA (Dec 2013 - Present)<br/>
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Collaboration &amp; Interoperability Architect* (IT Systems Analyst 3), Stanford University Library, Stanford, CA (Sep 2016 - Present)<br/>
+
+> Serves as an expert in the software, standards, architectures and models for technologies for libraries, archives and museums. Serves as a technologist, advocate, and facilitor to meet Stanford Libraries' objective of developing mutually rewarding collaborations, development of shared solutions, and convergence on common architectures, models and standards in the digital library sector.
+
+<span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Director of Technology*, Digital Public Library of America, Boston, MA (Dec 2013 - Sep 2016)<br/>
 
 > Responsible for the overall technology vision, architecture, and oversees and contributes to implementation for an early-stage non-profit organization dedicated to free and open access to digitized cultural heritage material. Oversees and manages team of four developers, and serves as business and technical contact for contractors. Project manager and project director for the Hydra in a Box project, a grant partnership between DPLA, Stanford University, and DuraSpace, funded by the Institute for Museum and Library Services.
 
