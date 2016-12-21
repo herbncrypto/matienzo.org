@@ -12,6 +12,7 @@ The comment period has produced
 * RiC-CM draft <http://www.ica.org/sites/default/files/RiC-CM-0.1.pdf>
 * TS-DACS comments <https://docs.google.com/document/d/1XoQmrT-kdj5fCKNcg0umghsWFORrKRf7rMsB4OsnY5o/edit?usp=sharing>
 * interpares trust comments <https://interparestrust.com/2016/12/11/interpares-trust-responds-to-egad-ric/>
+* CNEDA comments <http://www.mecd.gob.es/cultura-mecd/dms/mecd/cultura-mecd/areas-cultura/archivos/mc/cneda/actividades/actividad-internacional/Comentarios-al-RiC_CNEDA/Comentarios%20al%20RiC_CNEDA.pdf>
 
 Work of EGAD is to develop a descriptive standard based on archival principles; current term is to do that in context that "reconciles, integrates, and builds on the four existing standards": ISAD(G), ISAAR(CPF), ISDF, and ISDIAH.
 
