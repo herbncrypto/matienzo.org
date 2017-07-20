@@ -1,10 +1,10 @@
 #### National &amp; International Presentations
 
-[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017Apr-DPLAFest-IIIF-ResourceSync.pdf) Klein, Martin, Gretchen Gueguen, Mark A. Matienzo, and Petr Knoth. ["ResourceSync: Overview and Real-World Use Cases for Discovery, Harvesting, and Synchronization of Resources on the Web."](https://www.slideshare.net/martinklein0815/resourcesync-overview-and-realworld-use-cases-for-discovery-harvesting-and-synchronization-of-resources-on-the-web) DPLAFest, Chicago, IL, Apr 20 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Apr-DPLAFest-IIIF-ResourceSync.pdf) Klein, Martin, Gretchen Gueguen, Mark A. Matienzo, and Petr Knoth. ["ResourceSync: Overview and Real-World Use Cases for Discovery, Harvesting, and Synchronization of Resources on the Web."](https://www.slideshare.net/martinklein0815/resourcesync-overview-and-realworld-use-cases-for-discovery-harvesting-and-synchronization-of-resources-on-the-web) DPLAFest, Chicago, IL, Apr 20 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
 
-[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017Mar-Code4lib-DataModeling101.pdf) Matienzo, Mark A., Christina Harlow, Hector Correa, and Steve Van Tuyl. "Data Modeling 101: Getting Started." Code4lib, Los Angeles, CA, Mar 6 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Mar-Code4lib-DataModeling101.pdf) Matienzo, Mark A., Christina Harlow, Hector Correa, and Steve Van Tuyl. "Data Modeling 101: Getting Started." Code4lib, Los Angeles, CA, Mar 6 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
 
-[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017Mar-Code4lib-DataModeling201.pdf) Matienzo, Mark A., Christina Harlow, Esmé Cowles, and Steve Van Tuyl. "Data Modeling 201: Building Models and Profiles with PCDM." Code4lib, Los Angeles, CA, Mar 6 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Mar-Code4lib-DataModeling201.pdf) Matienzo, Mark A., Christina Harlow, Esmé Cowles, and Steve Van Tuyl. "Data Modeling 201: Building Models and Profiles with PCDM." Code4lib, Los Angeles, CA, Mar 6 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2016/2016Nov-MCN.pdf) Fournier, Melissa Gold, Emily Gore, Greg Cram, and Mark A. Matienzo. "Encouraging Use and Reuse of your Collections with RightsStatements.org: Interoperable Standardized Rights Statements for Cultural Heritage." Museum Computer Network, New Orleans, LA, Nov 4 2016. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span>
 
@@ -176,7 +176,7 @@ CT, Sep 19 2012.
 
 #### <span class="unpublished">Miscellaneous Presentations, Lightning Talks and Unconference Sessions</span>
 
-[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017Mar-LDCX-ArcLight.pdf)<span class="unpublished">Matienzo, Mark A. "ArcLight: Illuminating Archives." LDCX, Stanford University, Mar 27 2017. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Mar-LDCX-ArcLight.pdf)<span class="unpublished">Matienzo, Mark A. "ArcLight: Illuminating Archives." LDCX, Stanford University, Mar 27 2017. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017Mar-Code4lib-ArcLight.pdf)<span class="unpublished">Matienzo, Mark A. "ArcLight: Illuminating Archives." Code4lib, Los Angeles, CA, Mar 8 2017. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
