@@ -1,6 +1,6 @@
 #### Articles, Book Chapters, and Conference Papers
 
-Matienzo, Mark A. "The Digital Public Library of America's Application Programming Interface and Metadata Ingestion Process." In *Sharing Archival Metadata,* ed. Aaron Rubenstein. Chicago: Society of American Archivists, forthcoming.
+Matienzo, Mark A. "The Digital Public Library of America's Application Programming Interface and Metadata Ingestion Process." Case study in *Sharing Archival Metadata,* Aaron Rubenstein. In *Putting Descriptive Standards to Work*, eds. Kris Kiesling and Christopher J. Prom. Trends in Archives Practice. Chicago: Society of American Archivists, 2017.
 
 Karadkar, Unmil P., Audrey Altman, Mark Breedlove, and Mark Matienzo. ["Introduction to the Digital Public Library of America API."](http://dx.doi.org/10.1145/2910896.2925428) Tutorial. In *JCDL '16: Proceedings of the 16th ACM/IEEE-CS on Joint Conference on Digital Libraries.* [doi:10.1145/2910896.2925428](http://dx.doi.org/10.1145/2910896.2925428).
 
