@@ -178,7 +178,7 @@ CT, Sep 19 2012.
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Mar-LDCX-ArcLight.pdf)<span class="unpublished">Matienzo, Mark A. "ArcLight: Illuminating Archives." LDCX, Stanford University, Mar 27 2017. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
-[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Mar-Code4lib-ArcLight.pdf)<span class="unpublished">Matienzo, Mark A. "ArcLight: Illuminating Archives." Code4lib, Los Angeles, CA, Mar 8 2017. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Mar-Code4lib-ArcLight.pdf)<span class="unpublished">Matienzo, Mark A. "ArcLight." Code4lib, Los Angeles, CA, Mar 8 2017. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
 <span class="unpublished">[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2015/2015Feb-Code4lib-Bread) Matienzo, Mark A. "Bread." Code4lib 2015, Portland, OR, Feb 10 2015. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
