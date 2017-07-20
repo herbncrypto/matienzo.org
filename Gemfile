@@ -14,7 +14,7 @@ group :jekyll_plugins do
     gem 'octopress-gist'
     gem 'jekyll-redirect-from'
     gem 'jekyll-paginate'
-    gem 'jekyll-embedly-plugin', github: 'anarchivist/jekyll-embedly-plugin', branch: 'fix/remove-gemfile-lock'
+    # gem 'jekyll-embedly-plugin', github: 'anarchivist/jekyll-embedly-plugin', branch: 'fix/remove-gemfile-lock'
 end
 
 group :development do

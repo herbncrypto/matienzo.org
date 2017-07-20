@@ -58,7 +58,7 @@ gems:
   - octopress-image-tag
   - octopress-video-tag
   - octopress-include-tag
-  - jekyll-embedly-plugin
+#  - jekyll-embedly-plugin
   - jekyll-redirect-from
   - jekyll-paginate
 
