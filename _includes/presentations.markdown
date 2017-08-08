@@ -1,5 +1,9 @@
 #### National &amp; International Presentations
 
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Aug-XPSU-ArcLight.pdf) Matienzo, Mark A. "ArcLight and beyond: Illuminating the problem of 'seamless' archival discovery and delivery." Intersections: Technology and Public Services in Special Collections Symposium, State College, PA, Aug 7 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span>
+
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Jul-SAA-UserCenteredDesignArchivalDiscovery.pdf) Matienzo, Mark A., Emilie Hardman, Susan Pyzynski, Sally Vermaaten, James Bullen, Wendy Hagenmaier, and Mike Shallcross. "User-Centered Collaboration for Archival Discovery." Society of American Archivists, Portland, OR, Jul 28 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span>
+
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Apr-DPLAFest-IIIF-ResourceSync.pdf) Klein, Martin, Gretchen Gueguen, Mark A. Matienzo, and Petr Knoth. ["ResourceSync: Overview and Real-World Use Cases for Discovery, Harvesting, and Synchronization of Resources on the Web."](https://www.slideshare.net/martinklein0815/resourcesync-overview-and-realworld-use-cases-for-discovery-harvesting-and-synchronization-of-resources-on-the-web) DPLAFest, Chicago, IL, Apr 20 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Mar-Code4lib-DataModeling101.pdf) Matienzo, Mark A., Christina Harlow, Hector Correa, and Steve Van Tuyl. "Data Modeling 101: Getting Started." Code4lib, Los Angeles, CA, Mar 6 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
