@@ -103,7 +103,7 @@ sidebar: false
 {% capture prezs %}{% include presentations.markdown %}{% endcapture %}
 {{ prezs | markdownify }}
 
-### Training and Continuing Education
+### Training, Continuing Education, and Certifications
 
 {% capture training %}{% include training.markdown %}{% endcapture %}
 {{ training | markdownify }}

@@ -1,4 +1,4 @@
-* *Agile: Certified ScrumMaster*, Agile Learning Labs, Jul 2017.
+* *Agile: Certified ScrumMaster*, Agile Learning Labs, Jul 2017 (certified Aug 2017, Scrum Alliance).
 * *Software Carpentry/Data Carpentry Instructor Training*, Stanford University, May 2017.
 * *AccessData Bootcamp* (FTK, FTK Imager, PRTK, Registry Viewer), AccessData Corporation, Sep 2013.
 * *Inreach and Outreach for Digital Archives*, Society of American Archivists, Jun 2013.
