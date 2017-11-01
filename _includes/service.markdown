@@ -16,7 +16,7 @@
 * *OCLC Research. RLG Programs. Barriers to Using EAD Working Group.* Nov 2008 - Mar 2010.
 * *OCLC Research. RLG Programs. Sharing &amp; Aggregating Social Metadata Working Group.* Jan 2009 - Aug 2009.
 * *PeriodO 2*, University of Texas. Advisory Board Member, June 2016 - Present.
-* *Social Feed Manager*, George Washington University. Advisory Board Member, 2013 - Present.
+* *Social Feed Manager*, George Washington University. Advisory Board Member, 2013 - 2016.
 * *Society of American Archivists. Communications Technology Working Group.* Sep 2007 - Aug 2009.
 * *Society of American Archivists. Description Section.* Co-Chair, Aug 2006 - Aug 2008.
 * *Society of American Archivists. Digital Archives Specialist Curriculum Subcommittee.* Jul 2011 - Aug 2012.

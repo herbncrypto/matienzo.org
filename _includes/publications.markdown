@@ -1,6 +1,6 @@
 #### Articles, Book Chapters, and Conference Papers
 
-Matienzo, Mark A., Elizabeth Russey Roke, and Scott Carlson. ["Creating a Linked Data-Friendly Metadata Application Profile for Archival Description."](http://dcevents.dublincore.org/IntConf/dc-2017/paper/view/506) In *Proceedings of the International Conference on Dublin Core and Metadata Applications* 2017. Forthcoming. Preprint: [arXiv:1710.09688](https://arxiv.org/abs/1710.09688).
+[<span class="label label-inverse"><i class="icon-file"></i> Abstract</span>]({{ root_url }}/storage/2017/2017Oct-DCMI-LinkedDataArchives-abstract.pdf) [<span class="label label-success"><i class="icon-picture"></i> Poster</span>]({{ root_url }}/storage/2017/2017Oct-DCMI-LinkedDataArchives-poster.pdf) Matienzo, Mark A., Elizabeth Russey Roke, and Scott Carlson. ["Creating a Linked Data-Friendly Metadata Application Profile for Archival Description."](http://dcevents.dublincore.org/IntConf/dc-2017/paper/view/506) In *Proceedings of the International Conference on Dublin Core and Metadata Applications* 2017. Forthcoming. Preprint: [arXiv:1710.09688](https://arxiv.org/abs/1710.09688).
 
 Matienzo, Mark A. "The Digital Public Library of America's Application Programming Interface and Metadata Ingestion Process." Case study in *Sharing Archival Metadata,* Aaron Rubenstein. In *Putting Descriptive Standards to Work*, eds. Kris Kiesling and Christopher J. Prom. Trends in Archives Practice. Chicago: Society of American Archivists, 2017.
 

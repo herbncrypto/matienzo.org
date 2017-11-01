@@ -5,7 +5,7 @@ footer: false
 sidebar: false
 ---
 
-##### Brooklyn, NY — <i class="icon-envelope">&nbsp;</i> mark@matienzo.org — <i class="icon-link">&nbsp;</i> www.matienzo.org
+##### Redwood City, CA — <i class="icon-envelope">&nbsp;</i> mark@matienzo.org — <i class="icon-link">&nbsp;</i> www.matienzo.org
 
 ### Education
 
@@ -28,7 +28,7 @@ sidebar: false
 > Development and implementation of tools, specifications, systems and workflows to manage born-digital archival material. Led design and implementation of a forensic acquisition and processing lab space shared by MSSA and the Beinecke Rare Book and Manuscript Library. Lead digital archivist on Mellon Foundation-funded project Born-Digital Collections: An Inter-Institutional Model for Stewardship. Seconded to ArchivesSpace (see below).
 
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Secondment</span> *Technical Architect*, ArchivesSpace Project, New York University, New York, NY, (Jul 2011 - Dec 2013)
-    
+
 > Technical lead and product owner on Andrew W. Mellon Foundation-funded project to develop a new, best-of-breed open source archival management system merging functionality of Archivists' Toolkit and Archon. Responsible for establishing software development priorities, performing functional acceptance testing, leading review and revision process of functional specifications, and creation of technical documentation and architectural recommendations.
 
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - June 2013)
@@ -36,7 +36,7 @@ sidebar: false
 > Instructor of INFO 756: Digital Preservation (taught Fall 2011, Spring 2012, Fall 2012, Spring 2013).
 
 <!-- <span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span>
-*Consultant*, Philadelphia Area Center for History of Science, Philadelphia, PA (Aug 2009 - Aug 2011) 
+*Consultant*, Philadelphia Area Center for History of Science, Philadelphia, PA (Aug 2009 - Aug 2011)
 
 > Development of a multi-institutional search portal for bibliographic records, using Python, Ruby and Solr.
 
