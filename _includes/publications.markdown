@@ -1,6 +1,6 @@
 #### Articles, Book Chapters, and Conference Papers
 
-Matienzo, Mark A., Elizabeth Russey Roke, and Scott Carlson. "Creating a Linked Data-Friendly Metadata Application Profile for Archival Description." In *Proceedings of the International Conference on Dublin Core and Metadata Applications* 2017. Forthcoming.
+Matienzo, Mark A., Elizabeth Russey Roke, and Scott Carlson. ["Creating a Linked Data-Friendly Metadata Application Profile for Archival Description."](http://dcevents.dublincore.org/IntConf/dc-2017/paper/view/506) In *Proceedings of the International Conference on Dublin Core and Metadata Applications* 2017. Forthcoming. Preprint: [arXiv:1710.09688](https://arxiv.org/abs/1710.09688).
 
 Matienzo, Mark A. "The Digital Public Library of America's Application Programming Interface and Metadata Ingestion Process." Case study in *Sharing Archival Metadata,* Aaron Rubenstein. In *Putting Descriptive Standards to Work*, eds. Kris Kiesling and Christopher J. Prom. Trends in Archives Practice. Chicago: Society of American Archivists, 2017.
 
@@ -28,7 +28,7 @@ International Rights Statements Working Group-Technical Working Group: Valentine
 
 International Rights Statements Working Group-Technical Working Group: Valentine Charles, Esmé Cowles, Karen Estlund, Antoine Isaac, Tom Johnson, Mark A. Matienzo, Patrick Peiffer, Richard J. Urban, Maarten Zeinstra. *Recommendations for the Technical Infrastructure for Standardized International Rights Statements.*  Published online at: [rightsstatements.org](http://rightsstatements.org/en/documentation/rights-statements-white-paper/), May 2015. [arXiv:1512.00443](http://arxiv.org/abs/1512.00443)
 
-[<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2012/2012-Jan-AIMS-WhitePaper.pdf) AIMS Work Group. *AIMS Born-Digital Collections: An Inter-Institutional Model for Stewardship.* Published online at: [www2.lib.virginia.edu/aims/whitepaper/](http://www2.lib.virginia.edu/aims/whitepaper/), January 2012. 
+[<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2012/2012-Jan-AIMS-WhitePaper.pdf) AIMS Work Group. *AIMS Born-Digital Collections: An Inter-Institutional Model for Stewardship.* Published online at: [www2.lib.virginia.edu/aims/whitepaper/](http://www2.lib.virginia.edu/aims/whitepaper/), January 2012.
 
 [<span class="label label-important"><i class="icon-file"></i> PDF</span>]({{ root_url }}/storage/2010/2010-Jul-ArchivesSpace-TechArchReport.pdf) *ArchivesSpace Technical Design Meeting: Summary Report on Technical Architecture.* Prepared by Mark A. Matienzo for ArchivesSpace. Published online at: [www.archivesspace.org/documents/reports](http://www.archivesspace.org/documents/reports), July 2010.
 
