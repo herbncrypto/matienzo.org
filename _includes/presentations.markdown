@@ -1,5 +1,7 @@
 #### National &amp; International Presentations
 
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Nov-RPTF.pdf) Matienzo, Mark A. "Blacklight, ArcLight, and RPTF." Radio Preservation Task Force 2: From Archive to Classroom, Washington, DC, Nov 3 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Invited</span>
+
 [<span class="label label-inverse"><i class="icon-file"></i> Abstract</span>]({{ root_url }}/storage/2017/2017Oct-DCMI-LinkedDataArchives-abstract.pdf) [<span class="label label-success"><i class="icon-picture"></i> Poster</span>]({{ root_url }}/storage/2017/2017Oct-DCMI-LinkedDataArchives-poster.pdf) Matienzo, Mark A., Elizabeth Russey Roke, and Scott Carlson. ["Creating a Linked Data-Friendly Metadata Application Profile for Archival Description"](http://dcevents.dublincore.org/IntConf/dc-2017/paper/view/506) (poster). International Conference on Dublin Core and Metadata Applications, Arlington, VA, Oct 26 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Peer-Reviewed</span>
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Oct-DLFForum-ArcLight.pdf) Matienzo, Mark A., Nabeela Jaffer, and John Rees. ["ArcLight: Illuminating Archives."](https://osf.io/r58zt/) Digital Library Federation Forum, Pittsburgh, PA, Oct 24 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Voted</span>
@@ -126,12 +128,11 @@ Arnold, Hillel, Maureen Callahan, Ben Goldman, Tom Johnson, Mark A. Matienzo, an
 
 #### Regional Presentations
 
-[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Apr-NCTPG.pdf) Matienzo, Mark A. "Click to add title." Northern California Technical Process Group, San Francisco, CA, Apr 28, 2017. <i class="icon-ok-circle"></i> Invited</span>
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Apr-NCTPG.pdf) Matienzo, Mark A. "Click to add title." Northern California Technical Process Group, San Francisco, CA, Apr 28, 2017. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2015/2015Nov-DPLA-MidAtlanticFedoraUsersGroup.pdf) Matienzo, Mark A. "Updates on DPLA and Hydra-In-A-Box." Mid-Atlantic Fedora Users Group, Philadelphia, PA, Nov 30 2015. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
-[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2015/2015Nov-DPLA-MidAtlanticFedoraUsersGroup.pdf) Matienzo, Mark A. "Updates on DPLA and Hydra-In-A-Box." Mid-Atlantic Fedora Users Group, Philadelphia, PA, Nov 30 2015. <i class="icon-ok-circle"></i> Invited</span>
-
-[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2015/2015Jan-METROcon-DPLA-ESDN.pdf) Matienzo, Mark A. "Heidrun: Building DPLA's New Metadata Ingestion System." Metropolitan New York Library Council Annual Conference, New York, NY, Jan 15 2015. <i class="icon-ok-circle"></i> Reviewed</span>
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2015/2015Jan-METROcon-DPLA-ESDN.pdf) Matienzo, Mark A. "Heidrun: Building DPLA's New Metadata Ingestion System." Metropolitan New York Library Council Annual Conference, New York, NY, Jan 15 2015. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span>
 
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2014/2014Jul-DPLA-PDX.pdf) Rudersdorf, Amy, and Mark A. Matienzo. "Pacific Northwest DPLA Metadatathon: Intro to DPLA Metadata." Portland, OR, Jul 19 2014. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
