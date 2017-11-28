@@ -68,7 +68,7 @@ sidebar: false
 ### Skills
 
 * Natural Languages: Spoken and written English; reading knowledge of French and Latin.
-* Programming Languages: Ruby, Python, PHP, SQL, Unix shell scripts, Perl, Java.
+* Programming Languages: Ruby, Python, R, PHP, SQL, Unix shell scripts, Perl, Java.
 * Applications: Microsoft Office, Adobe Photoshop, Adobe Acrobat, Archivists' Toolkit.
 * Disk imaging: FTK Imager, Guymager, KryoFlux, Catweasel, FC5025.
 * Forensic analysis: The Sleuth Kit, fiwalk, Forensic Toolkit, PRTK, Registry Viewer.
