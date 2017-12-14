@@ -1,5 +1,7 @@
 #### National &amp; International Presentations
 
+[<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Dec-CNI-ArcLight.pdf) Matienzo, Mark A. "ArcLight: illuminating discovery to delivery for archives & special collections." Coalition for Networked Information Membership Meeting, Washington, DC, Dec 11 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span>
+
 [<span class="label label-important"><i class="icon-picture"></i> Slides</span>]({{ root_url }}/storage/2017/2017Nov-RPTF.pdf) Matienzo, Mark A. "Blacklight, ArcLight, and RPTF." Radio Preservation Task Force 2: From Archive to Classroom, Washington, DC, Nov 3 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Invited</span>
 
 [<span class="label label-inverse"><i class="icon-file"></i> Abstract</span>]({{ root_url }}/storage/2017/2017Oct-DCMI-LinkedDataArchives-abstract.pdf) [<span class="label label-success"><i class="icon-picture"></i> Poster</span>]({{ root_url }}/storage/2017/2017Oct-DCMI-LinkedDataArchives-poster.pdf) Matienzo, Mark A., Elizabeth Russey Roke, and Scott Carlson. ["Creating a Linked Data-Friendly Metadata Application Profile for Archival Description"](http://dcevents.dublincore.org/IntConf/dc-2017/paper/view/506) (poster). International Conference on Dublin Core and Metadata Applications, Arlington, VA, Oct 26 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Peer-Reviewed</span>
