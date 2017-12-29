@@ -54,10 +54,10 @@ titlecase: false       # Converts page and post titles to titlecase
 sass:
     sass_dir: _sass
 
-gems: 
-  - octopress-image-tag
-  - octopress-video-tag
-  - octopress-include-tag
+plugins: 
+#  - octopress-image-tag
+#  - octopress-video-tag
+#  - octopress-include-tag
 #  - jekyll-embedly-plugin
   - jekyll-redirect-from
   - jekyll-paginate
