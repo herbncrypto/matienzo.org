@@ -2,7 +2,9 @@
 layout: post
 title: "Iterative Intentions for 2018"
 date: "2018-01-01 11:43:12 -0800"
-comments: true
+comments: false
+syndication:
+- https://twitter.com/anarchivist/status/947935676779020288
 ---
 
 While I enjoy seeing what my friends are setting their intentions towards in the
@@ -10,7 +12,7 @@ new year, I don't really believe in new year's resolutions for myself. They tend
 to wear on me heavily whenever I've proclaimed a long list of things I'm hoping
 to get better at. Instead, this year, I'm starting with a very short list. My
 hope is that I can commit to a small number of good habits at a time, which I
-can then build iteratively. I want to have the windows of reinforcement stay
+can then build on iteratively. I want to have the windows of reinforcement stay
 small at first (maybe a week or two), and once I feel satisfied about whichever
 habits I've committed to, I can add more.
 
