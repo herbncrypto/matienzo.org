@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://matienzo.org
-title: Mx A. Matienzo
-subtitle: 
-author: Mx A. Matienzo
+title: Mark A. Matienzo
+subtitle:
+author: Mark A. Matienzo
 simple_search: http://google.com/search
 description:
 
@@ -32,11 +32,12 @@ permalink: /:year/:title/
 destination: _site
 plugins_dir: _plugins
 code_dir: sketches
-category_dir: 
+category_dir:
 markdown: kramdown
-highlighter: rouge 
+highlighter: rouge
 
 exclude:
+  - bin/deploy
   - Gemfile
   - Gemfile.lock
   - rsync-exclude
@@ -54,7 +55,7 @@ titlecase: false       # Converts page and post titles to titlecase
 sass:
     sass_dir: _sass
 
-plugins: 
+plugins:
 #  - octopress-image-tag
 #  - octopress-video-tag
 #  - octopress-include-tag
