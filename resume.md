@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Mark A. Matienzo
+title: Resume
+alt_title: Mark A. Matienzo
 footer: false
 sidebar: false
 ---
@@ -33,7 +34,7 @@ sidebar: false
 
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Drexel University iSchool, Philadelphia, PA (Sep 2011 - June 2013)
 
-> Instructor of INFO 756: Digital Preservation (taught Fall 2011, Spring 2012, Fall 2012, Spring 2013).
+> Instructor of [INFO 756: Digital Preservation]({{ site.baseurl }}{% link teaching/drexel-info756/index.markdown %}) (taught Fall 2011, Spring 2012, Fall 2012, Spring 2013).
 
 <!-- <span class="label label-warning"><i class="icon-time">&nbsp;</i> Consulting</span>
 *Consultant*, Philadelphia Area Center for History of Science, Philadelphia, PA (Aug 2009 - Aug 2011)
@@ -51,7 +52,7 @@ sidebar: false
 
 <span class="label label-info"><i class="icon-time">&nbsp;</i> Part-Time</span> *Adjunct Professor*, Palmer School of Library &amp; Information Science, Long Island University (Sep 2009 - Dec 2009)
 
-> Instructor of LIS 901-08 Building Digital Libraries: Infrastructural and Social Aspects (taught Fall 2009).
+> Instructor of [LIS 901-08: Building Digital Libraries: Infrastructural and Social Aspects]({{ site.baseurl }}{% link teaching/lis901-08-fall09/index.markdown %}) (taught Fall 2009).
 
 <span class="label label-success"><i class="icon-time">&nbsp;</i> Full-Time</span> *Assistant Archivist*, Niels Bohr Library, American Institute of Physics, College Park, MD (Mar 2006 - May 2008)
 

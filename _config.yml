@@ -6,6 +6,7 @@ url: http://matienzo.org
 title: Mark A. Matienzo
 subtitle:
 author: Mark A. Matienzo
+lang: en-US
 simple_search: http://google.com/search
 description:
 
@@ -17,6 +18,8 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
+feed:
+  path: atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -27,7 +30,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 #root: /
-permalink: /:year/:title/
+permalink: /:year/:title
 #source: source
 destination: _site
 plugins_dir: _plugins
@@ -57,6 +60,9 @@ theme: jekyll-theme-basically-basic
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 whitelist:
   - jekyll-redirect-from
@@ -115,4 +121,4 @@ delicious_user:
 delicious_count: 3
 
 # Facebook Like
-facebook_like: false
+facebook_like: falsee

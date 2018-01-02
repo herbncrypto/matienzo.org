@@ -134,12 +134,12 @@ Required reading:
 *   Ianella, Renato. "An Idiot's Guide to the Resource Description Framework." *New Review of Information Networking* 4 (1998). <http://renato.iannella.it/paper/rdf-idiot/>
 *   Berners-Lee, Tim. "Primer - Getting into the semantic web and RDF using N3." <http://www.w3.org/2000/10/swap/Primer.html>.
 *   Pitti, Daniel V. "Introduction to XML." <http://www.iath.virginia.edu/~dvp4c/xmlintro.html>.
-*   University of Texas at Austin Division of Instructional Innovation and Assessment. Summary of Hernandez, Michael J, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design. *<http://www.utexas.edu/academic/cit/howto/resources/database/>
+*   University of Texas at Austin Division of Instructional Innovation and Assessment. Summary of Hernandez, Michael J, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design.* <http://www.utexas.edu/academic/cit/howto/resources/database/>
 *   Berners-Lee, Tim. "Why RDF model is different from the XML model," 1998. <http://www.w3.org/DesignIssues/RDF-XML.html>.
 *   Berners-Lee, Tim. "Relational Databases on the Semantic Web," 1998. <http://www.w3.org/DesignIssues/RDB-RDF.html>.
 *   Bourret, Ronald. "XML and Databases." <http://www.rpbourret.com/xml/XMLAndDatabases.htm>
 *   <i class="icon-star-empty"></i> Hakala, Juha. "The seven levels of identification: An overview of the current state of identifying objects within digital libraries." *Program: electronic library and information systems* 40, no. 4 (2006): 361 - 371.
-*   Lynch, Clifford. "Identifiers and Their Role in Networked Information Applications," *ARL Newsletter *194 (October 1997). <http://www.arl.org/bm~doc/identifier.pdf>
+*   Lynch, Clifford. "Identifiers and Their Role in Networked Information Applications," *ARL Newsletter* 194 (October 1997). <http://www.arl.org/bm~doc/identifier.pdf>
 *   Vitello, Giuseppe. "Identifiers and Identification Systems: An Informational Look at Policies and Roles from a Library Perspective." *D-Lib Magazine* 10, no. 1 (2004). <http://www.dlib.org/dlib/january04/vitiello/01vitiello.html>
 
 Supplemental reading:

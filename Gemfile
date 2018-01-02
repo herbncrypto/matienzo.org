@@ -6,6 +6,9 @@ gem 'jekyll-theme-basically-basic'
 group :jekyll_plugins do
     gem 'jekyll-redirect-from'
     gem 'jekyll-paginate'
+    gem 'jekyll-feed'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-sitemap'
 end
 
 group :development do
