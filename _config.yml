@@ -44,7 +44,7 @@ exclude:
   - config.rb
 
 
-paginate: 10          # Posts per page on the blog index
+paginate: 5          # Posts per page on the blog index
 paginate_path: "blog/page/:num"
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "More &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -75,6 +75,8 @@ embedly:
   api_key: 598ae0b40dc44d639bcc0e04610aaa7b
 
 # Disqus Comments
+disqus:
+  shortname: matienzo
 disqus_short_name: matienzo
 disqus_show_comment_count: false
 
