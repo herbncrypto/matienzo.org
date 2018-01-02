@@ -27,7 +27,7 @@ I have taught graduate level classes in digital libraries and digital preservati
 of workshops in data modeling, API use, digital forensics, and electronic records.
 
 * [Drexel University iSchool - INFO756: Digital Preservation]({{ site.baseurl }}{% link teaching/drexel-info756/index.markdown %})
-* [Building Digital Libraries: Infrastructural and Social Aspects]({{ site.baseurl }}{% link teaching/drexel-info756/index.markdown %})
+* [Building Digital Libraries: Infrastructural and Social Aspects]({{ site.baseurl }}{% link teaching/lis901-08-fall09/index.markdown %})
 
 ### <span id="software">Software project contributions</span>
 

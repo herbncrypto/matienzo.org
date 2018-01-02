@@ -16,13 +16,9 @@ description:
 # Additionally, %o will give you the ordinal representation of the day
 date_format: "ordinal"
 
-# RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
 feed:
   path: atom.xml
-subscribe_email:
-# RSS feeds can list your email address if you like
-email:
+email: mark@matienzo.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -34,7 +30,6 @@ permalink: /:year/:title
 #source: source
 destination: _site
 plugins_dir: _plugins
-code_dir: sketches
 category_dir:
 markdown: kramdown
 highlighter: rouge
@@ -47,7 +42,7 @@ exclude:
   - config.rb
 
 
-paginate: 5          # Posts per page on the blog index
+paginate: 10          # Posts per page on the blog index
 paginate_path: "blog/page/:num"
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "More &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
