@@ -2,18 +2,20 @@
 layout: default
 ---
 
+<div class="h-entry">
 {% include page-intro.html %}
 
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
     <article class="entry-wrap">
-      <div class="entry-content">
+      <div class="entry-content e-content">
         {{ content }}
       </div>
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}
       {% endif %}
     </article>
+    
 
     <nav class="pager">
       <ul>
@@ -28,3 +30,4 @@ layout: default
     {% include footer.html %}
   </div>
 </main>
+</div>
