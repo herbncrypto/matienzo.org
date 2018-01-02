@@ -1,16 +1,14 @@
 {% comment %} Load script if disquss comments are enabled and `page.comments` is either empty (index) or set to true {% endcomment %}
 {% if site.disqus_short_name and page.comments != false %}
 <script type="text/javascript">
-<div id="disqus_thread"></div>
-<script>
 var disqus_config = function () {
 this.page.url = '{{ site.url }}{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
 this.page.identifier = '{{ site.url }}{{ page.url }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
-*/
+
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
+s.src = 'https://{{ site.disqus_short_name }}.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
