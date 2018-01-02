@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Home
-alt_title: Bio
+layout: about
 footer: true
 sidebar: false
 sharing: false
