@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '~> 3.2'
-gem 'jekyll-theme-basically-basic'
+# use releases soon
+gem 'jekyll-theme-basically-basic', git: 'https://github.com/mmistakes/jekyll-theme-basically-basic.git'
 
 group :jekyll_plugins do
     gem 'jekyll-redirect-from'
