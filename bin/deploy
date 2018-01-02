@@ -24,7 +24,7 @@ fi
 git checkout -b $BRANCH
 
 # build site
-
+bundle
 bundle exec jekyll build
 
 # Delete and move files.
