@@ -52,7 +52,7 @@ excerpt_separator: <!--more-->
 
 titlecase: false       # Converts page and post titles to titlecase
 
-theme: minima
+theme: jekyll-theme-basically-basic
 
 plugins:
   - jekyll-redirect-from
