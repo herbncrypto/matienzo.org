@@ -20,8 +20,9 @@
       {% if page.date %}
         {% include author %}
         <p class="entry-meta">
-          {% if author_name %}<span class="byline-item"><a href="{{ author_url }}" class="p-author h-card">{{ author_name }}</a></span>{% endif %}
-          <span class="byline-item"><span class="icon">{% include icon-calendar.svg %}</span><time datetime="{{ page.date | date_to_xmlschema }}" class="dt-published">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.updated %} (<time datetime="{{ entry.updated | date_to_xmlschema }}" class="dt-updated">updated {{ page.updated | date: "%B %-d, %Y" }})</time></span>{% endif %}
+          {% if author_name %}<span class="byline-item">by <a href="{{ author_url }}" class="p-author h-card">{{ author_name }}</a></span>{% endif %}
+          <span class="byline-item"><span class="icon">{% include icon-calendar.svg %}</span><time datetime="{{ page.date | date_to_xmlschema }}" class="dt-published">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.updated %} (<time datetime="{{ page.updated | date_to_xmlschema }}" class="dt-updated">updated {{ page.updated | date: "%B %-d, %Y" }})</time></span>{% endif %}
+          {% if page.categories %}{% capture category %}{{ page.categories | category_links | size }}{% endcapture %}{% unless category == '0' %}<span class="byline-item">in <span class="p-category">{{ page.categories | join: "</span>, <span class='p-category'>" }}</span></span>{% endunless %}{% endif %}
           {% if page.read_time %}<span class="byline-item"><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</span>{% endif %}
           <span class="byline-item"><a href="{{ site.url }}{{ page.url }}" class="u-url" rel="canonical">Permalink</a></span>
           {% if page.syndication %}<span class="byline-item">Syndication links: {% for syn in page.syndication %}<a rel="syndication" class="u-syndication"
