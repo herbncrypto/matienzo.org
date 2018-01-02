@@ -7,13 +7,13 @@ layout: default
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner h-card" id="mark">
     <div class="entry-wrap">
-      <div class="entry-content">
+      <div class="entry-content p-note">
         {{ content }}
       </div>
       <aside class="entry-sidebar">
         {% include author %}
         {% if author_picture %}
-          <img class="author-picture" src="{{ author_picture }}" alt="{{ author_name }}">
+          <img class="author-picture u-photo" src="{{ author_picture }}" alt="{{ author_name }}">
         {% endif %}
       </aside>
     </div>
