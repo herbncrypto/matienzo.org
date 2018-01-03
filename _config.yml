@@ -69,7 +69,7 @@ defaults:
       type: posts
     values:
       is_post: true
-      type: article
+      category: article
 
 # ----------------------- #
 #   3rd Party Settings    #

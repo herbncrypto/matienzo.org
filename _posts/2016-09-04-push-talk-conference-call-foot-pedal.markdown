@@ -2,7 +2,7 @@
 title: A Push-to-Talk Conference Call Foot Pedal
 layout: post
 date: 2016-09-04 14:16:50 -0400
-categories:
+tags:
 - hardware
 - software
 comments: true

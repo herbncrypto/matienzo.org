@@ -4,7 +4,7 @@ layout: post
 comments: true
 date: 2016-02-16 23:01:24 -0500
 updated: 2016-02-17 21:22:00 -0500
-categories:
+tags:
 - jekyll
 - indieweb
 syndication:

@@ -2,7 +2,7 @@
 title: "Collaboration Before Preservation: Recovering Born Digital Records in the Stephen Gendin Papers"
 layout: post
 date: "2013-09-26"
-categories:
+tags:
 - Archives
 - Electronic Records
 syndication:

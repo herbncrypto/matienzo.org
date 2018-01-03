@@ -6,7 +6,7 @@ date: 2006-04-10 10:39:00.000000000 -04:00
 published: true
 status: publish
 comments: true
-categories:
+tags:
 - Code
 ---
 <p>A little over a month ago, <a href="http://blog.socklabs.com/">Nick Gerakines</a> posted a <a href="http://blog.socklabs.com/2006/03/07/email_feeds_with_procmail/">Perl script</a> to be called from a <a href="http://procmail.org/">Procmail</a> configuration file. It seemed to work pretty well, but the anal-retentive cataloger/standards geek in me decided to pass the results through a <a href="http://feedvalidator.org/">feed validator</a>. It failed in a few key areas: <a href="http://feedvalidator.org/docs/error/MissingAttribute.html">missing version attribute</a> in the rss tag, improper <a href="http://feedvalidator.org/docs/error/InvalidHttpGUID.html">guid</a> and <a href="http://feedvalidator.org/docs/error/InvalidFullLink.html">link</a> tags, and a <a href="http://feedvalidator.org/docs/error/InvalidRFC2822Date.html">pubDate with a non-RFC822 date</a>. These all seemed pretty easy to fix, so I went ahead and made some changes. <a href="http://purl.org/net/matienzo/projects/mail2rss/">My fixes</a> are a bit inelegant, but they create valid RSS 2.0.</p>

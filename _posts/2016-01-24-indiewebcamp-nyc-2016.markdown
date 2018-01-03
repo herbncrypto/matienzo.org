@@ -4,7 +4,7 @@ title: "IndieWebCamp NYC 2016"
 date: 2016-01-24T17:24:49-05:00
 updated: 2016-01-24T22:54:52Z
 comments: true
-categories:
+tags:
 - indiewebcamp
 - webmention
 redirect_from:

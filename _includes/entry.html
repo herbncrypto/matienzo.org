@@ -18,8 +18,8 @@
     {% if post.read_time %}
       <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>
     {% endif %}
-    {% if post.categories %}{% capture category %}{{ post.categories | category_links | size }}{% endcapture %}{% unless category == '0' %}
-      <li><span class="icon">{% include icon-tags.svg %}</span><span class="p-category">{{ post.categories | join: "</span>, <span class='p-category'>" }}</span></span>{% endunless %}</li>
+    {% if post.tags %}{% capture tag %}{{ post.tags | category_links | size }}{% endcapture %}{% unless tag == '0' %}
+      <li><span class="icon">{% include icon-tags.svg %}</span><span class="p-category">{{ post.tags | join: "</span>, <span class='p-category'>" }}</span></span>{% endunless %}</li>
     {% endif %}
     </ul>
   </footer>
