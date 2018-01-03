@@ -1,9 +1,0 @@
-{% if post %}
-  {% assign entry = post %}
-{% else %}
-  {% assign entry = page %}
-{% endif %}
-{% capture category %}{{ entry.categories | category_links | size }}{% endcapture %}
-{% unless category == '0' %}
-in <span class="p-category">{{ entry.categories | join: "</span>, <span class='p-category'>" }}</span>
-{% endunless %}
