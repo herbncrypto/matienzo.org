@@ -6,7 +6,7 @@ gem 'jekyll-theme-basically-basic', git: 'https://github.com/mmistakes/jekyll-th
 
 group :jekyll_plugins do
     gem 'jekyll-redirect-from'
-    gem 'jekyll-paginate'
+    gem 'jekyll-paginate-v2'
     gem 'jekyll-feed'
     gem 'jekyll-seo-tag'
     gem 'jekyll-sitemap'

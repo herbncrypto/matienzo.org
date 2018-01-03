@@ -44,10 +44,6 @@ exclude:
   - rsync-exclude
   - config.rb
 
-
-paginate: 10          # Posts per page on the blog index
-paginate_path: "blog/page/:num"
-recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "More &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: <!--more-->
 
@@ -58,7 +54,7 @@ theme: jekyll-theme-basically-basic
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-feed
   - jekyll-sitemap
 
@@ -83,7 +79,7 @@ disqus:
   shortname: matienzo
 # End config for Basically Basically
 
-# Begin config for Jekyll SEO tag
+# Begin config for Jekyll SEO Tag
 twitter:
   username: anarchivist
 social:
@@ -96,3 +92,20 @@ social:
     - https://orcid.org/0000-0003-3270-1306
 webmaster_verifications:
   google: Cj3zranByErq0NTRdlM3c2RAkZoa3B46bcsyRVlbBBg
+# End config for Jekyll SEO Tag
+
+# Begin config for jekyll-paginate-v2
+## paginate: 10          # Posts per page on the blog index
+## paginate_path: "blog/page/:num"
+pagination:
+  enabled: true
+  category: article
+  per_page: 10
+  sort_field: date
+  sort_reverse: true
+  title: ':title - Page :num of :max'
+  trail:
+    before: 0
+    after: 0
+  permalink: /page/:num/
+# End config for jekyll-paginate-v2

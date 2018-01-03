@@ -48,6 +48,8 @@ GEM
       jekyll (>= 1.4)
       nokogiri
     jekyll-paginate (1.1.0)
+    jekyll-paginate-v2 (1.9.0)
+      jekyll (~> 3.0)
     jekyll-redirect-from (0.13.0)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.1)
@@ -96,7 +98,7 @@ DEPENDENCIES
   jekyll (~> 3.2)
   jekyll-feed
   jekyll-import
-  jekyll-paginate
+  jekyll-paginate-v2
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap

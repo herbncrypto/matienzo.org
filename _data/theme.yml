@@ -22,8 +22,10 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Fira Sans"
+  - name: "Alegreya Sans"
     weights: "400,400i,600,600i"
+  - name: "Space Mono"
+    weights: "400,400i,700,700i"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
