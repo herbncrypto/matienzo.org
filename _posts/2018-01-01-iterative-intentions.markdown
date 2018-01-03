@@ -2,7 +2,7 @@
 layout: post
 title: "Iterative Intentions for 2018"
 date: "2018-01-01 11:43:12 -0800"
-comments: false
+comments: true
 syndication:
 - https://twitter.com/anarchivist/status/947935676779020288
 ---

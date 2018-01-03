@@ -62,6 +62,15 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true
+      type: article
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
