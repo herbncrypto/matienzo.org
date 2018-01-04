@@ -107,17 +107,26 @@ webmaster_verifications:
 # End config for Jekyll SEO Tag
 
 # Begin config for jekyll-paginate-v2
-## paginate: 10          # Posts per page on the blog index
-## paginate_path: "blog/page/:num"
 pagination:
   enabled: true
-  category: article
+  collection: 'all'
   per_page: 10
   sort_field: date
   sort_reverse: true
-  title: ':title - Page :num of :max'
+  title: ':title - page :num of :max'
   trail:
     before: 0
     after: 0
   permalink: /page/:num/
+autopages:
+  enabled: true
+  collections:
+    layouts:
+      - home.html
+    title: :coll
+    permalink: /:coll/
+  tags:
+    enabled: false
+  categories:
+    enabled: false
 # End config for jekyll-paginate-v2

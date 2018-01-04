@@ -13,7 +13,30 @@ $monospace-font-family: "Space Mono", "Inconsolata", monospace;
 
 @import "basically-basic";
 
+$btn-small-min:  ($base-font-size / $modular-scale-1 / $modular-scale-1 / $modular-scale-1 / $modular-scale-1);
+$btn-small-max:  ($base-font-size / $modular-scale-1 / $modular-scale-1 / $modular-scale-1 / $modular-scale-1);
+
 .btn-small {
-  font-size: calc(11px + 4 * ((100vw - 320px) / 960));
+  @include fluid-type($min-vw, $max-vw, $btn-small-min, $btn-small-max);
   padding: 0.25em 0.25em;
 }
+
+.entry.entry-note, .entry-note .intro { padding-bottom: 0; }
+
+.entry-meta .h-card .u-photo { border-radius: 0.25em; }
+
+// .h-card .icon {
+//   position: relative;
+// }
+//
+// .h-card .icon:before {
+//   content: "";
+//   display: block;
+//   position: absolute;
+//   top: 0;
+//   bottom: 0;
+//   left: 0;
+//   right: 0;
+//   background: rgba(0,51,153,0.9);
+//   transition: all .3s linear;
+// }
