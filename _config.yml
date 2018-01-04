@@ -71,6 +71,7 @@ defaults:
       type: posts
     values:
       category: article
+      layout: post
 
   -
     scope:
@@ -78,6 +79,7 @@ defaults:
       type: notes
     values:
       category: note
+      layout: post
 
 # ----------------------- #
 #   3rd Party Settings    #

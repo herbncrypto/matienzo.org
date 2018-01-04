@@ -1,0 +1,14 @@
+---
+title: i felt my first earthquake.
+date: "2018-01-04 15:22:00 -0800"
+slug: quake
+bookmark-of:
+  - https://earthquake.usgs.gov/earthquakes/eventpage/nc72948801
+location:
+  name: home
+  locality: Redwood City
+  region: CA
+  country-name: USA
+---
+
+i was up late last night working on my website when i felt <span class="h-event">[a magnitude 4.4 earthquake](https://earthquake.usgs.gov/earthquakes/eventpage/nc72948801){:class="p-name u-url"}. its origin was <span class="p-location h-adr">2km SE of Berkeley, CA (_37.855_{:class="p-latitude"}, _-122.257_{:class="p-longitude"})</span> at <time class="dt-datetime" datetime="2018-01-04T10:39:37.730">2018-01-04 10:39:37.730 UTC</time></span>. this is was also an excuse to work more on my website, adding bookmarks and locations to posts, and experimenting with marking up an [h-event](http://microformats.org/wiki/h-event) in the text of a post.
