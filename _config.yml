@@ -11,7 +11,6 @@ author:
   picture: /images/matienzo.jpg
   url: http://matienzo.org
 lang: en-US
-simple_search: http://google.com/search
 #description: Thoughts on recordkeeping, technology, and politics
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -44,7 +43,6 @@ exclude:
   - rsync-exclude
   - config.rb
 
-excerpt_link: "More &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: <!--more-->
 
 titlecase: false       # Converts page and post titles to titlecase
@@ -58,14 +56,28 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+collections:
+  posts:
+    output: true
+    permalink: /:year/:title/
+  notes:
+    output: true
+    permalink: /:year/:y_day/:title/
+
 defaults:
   -
     scope:
       path: ""
       type: posts
     values:
-      is_post: true
       category: article
+
+  -
+    scope:
+      path: ""
+      type: notes
+    values:
+      category: note
 
 # ----------------------- #
 #   3rd Party Settings    #
