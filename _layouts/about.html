@@ -13,7 +13,9 @@ layout: default
       <aside class="entry-sidebar">
         {% include author %}
         {% if author_picture %}
+        <div class="author-picture-wrap">
           <img class="author-picture u-photo" src="{{ author_picture }}" alt="{{ author_name }}">
+        </div>
         {% endif %}
       </aside>
     </div>

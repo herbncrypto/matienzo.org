@@ -11,7 +11,6 @@ layout: default
       <div class="entry-content e-content">
         {% if page.collection == "notes" %}
         {% capture content_size %}{{ content | strip | size }}{% endcapture %}
-        {% if page.title != '' and content_size != "0" %}<p>{{ page.title }}</p>{% endif %}
         {% unless content_size == "0" %}{{ content }}{% endunless %}
         {% else %}{{ content }}{% endif %}
       </div>

@@ -22,21 +22,39 @@ $btn-small-max:  ($base-font-size / $modular-scale-1 / $modular-scale-1 / $modul
 }
 
 .entry.entry-note, .entry-note .intro { padding-bottom: 0; }
+.entries > .entry > .entry-header { float: left; }
+.entries > .entry > .entry-header ~ .entry-excerpt { clear: left; }
 
-.entry-meta .h-card .u-photo { border-radius: 0.25em; }
+.entry-meta .h-card .icon, .entry-meta .h-card .icon:before, .entry-meta .h-card .icon .u-photo {
+  fill: none;
+  border-radius: 1 * $border-radius;
+}
+.layout--about .entry-sidebar .author-picture-wrap {
+  position: relative;
+  margin: 0 0 2rem;
+  border-radius: 2 * $border-radius;
 
-// .h-card .icon {
-//   position: relative;
-// }
-//
-// .h-card .icon:before {
-//   content: "";
-//   display: block;
-//   position: absolute;
-//   top: 0;
-//   bottom: 0;
-//   left: 0;
-//   right: 0;
-//   background: rgba(0,51,153,0.9);
-//   transition: all .3s linear;
-// }
+  @include breakpoint($medium) {
+    margin: 0 0 0 2rem;
+  }
+  .author-picture {
+    margin: 0;
+  }
+}
+.layout--about .entry-sidebar .author-picture-wrap:before {
+  border-radius: 2 * $border-radius
+}
+
+.entry-meta .h-card .icon:before, .layout--about .entry-sidebar .author-picture-wrap:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,51,153,0.2);
+  transition: all .3s linear;
+}
+
+.entry-meta .h-card .icon:hover:before, .layout--about .entry-sidebar .author-picture-wrap:hover:before { background: none;}
