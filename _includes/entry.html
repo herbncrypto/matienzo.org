@@ -19,7 +19,7 @@
   {% endif %}
   {% if post.collection == "notes" %}
     <div class="entry-excerpt p-summary e-content">
-      {% if bookmark and post.title != nil %}<a href="{{ bookmark }}" rel="u-bookmark-of">{{ post.content }}</a>{% else %}{{ post.content }}{% endif %}
+      {% if bookmark and post.title == "" %}<a href="{{ bookmark }}" rel="u-bookmark-of">{{ post.content }}</a>{% else %}{{ post.content }}{% endif %}
     </div>
   {% elsif post.excerpt %}
   <div class="entry-excerpt p-summary">
