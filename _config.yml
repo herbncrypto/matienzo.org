@@ -36,6 +36,9 @@ category_dir:
 markdown: kramdown
 highlighter: rouge
 
+include:
+  - _redirects
+
 exclude:
   - bin/deploy
   - Gemfile
