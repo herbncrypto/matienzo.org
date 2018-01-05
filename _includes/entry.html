@@ -4,22 +4,27 @@
 {% capture content_size %}{{ post.content | strip | size }}{% endcapture %}
 {% if post.id %}
   {% assign title = post.title | markdownify | strip_html %}
+{% elsif post.title = "" %}
+  {% assign title = nil %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
 <article class="entry h-entry {% unless cat == '0' %}entry-{{ post.categories | join: ' entry-' }}{% endunless %}">
-  {% if title %}
+  {% if post.collection == "posts" %}
   <h2 class="entry-title p-name">
-    {% if bookmark %}
-    <a href="{{ bookmark }}" rel="u-bookmark-of">
+    {% if post.bookmark %}
+    <a href="{{ post.bookmark[0] }}" rel="u-bookmark-of">
     {% else %}
     <a href="{{ post.url | relative_url }}" rel="bookmark u-url">
     {% endif %}{{ title }}</a>
   </h2>
   {% endif %}
   {% if post.collection == "notes" %}
-    <div class="entry-excerpt p-summary e-content">
-      {% if bookmark and post.title == "" %}<a href="{{ bookmark }}" rel="u-bookmark-of">{{ post.content }}</a>{% else %}{{ post.content }}{% endif %}
+    <div class="entry-excerpt">
+      <p class="e-content{% if post.title == "" %} p-name{% endif %}">
+        {% if post.title != "" %}<span class="p-name">{% if post.bookmark-of %}<a href="{{ post.bookmark-of[0] }}" rel="u-bookmark-of">{% endif %}{{ post.title }}{% if post.bookmark-of %}</a></span> {{ post.content | remove: "<p>" | remove: "</p>"}}{% endif %}{% else %}
+      {% if post.bookmark-of %}<a href="{{ post.bookmark-of[0] }}" rel="u-bookmark-of">{% endif %}{{ post.content | remove: "<p>" | remove: "</p>" }}{% if post.bookmark-of %}</a>{% endif %}
+      {% endif %}</p>
     </div>
   {% elsif post.excerpt %}
   <div class="entry-excerpt p-summary">
@@ -32,7 +37,7 @@
     {% if author_name %}<li title="Author"><a href="{{ author_url }}" class="p-author h-card"><span class="icon">
       {% if author_picture %}<img src="{{ author_picture }}" class="u-photo author-picture"/>{% else %}{% include icon-user.svg %}{% endif %}</span>{{ author_name }}</a></span>{% endif %}</li>
     {% if post.date %}
-      <li title="Date"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time dt-published" datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ post.url | relative }}" class="u-url">{{ post.date | date: "%B %-d, %Y" }}</a></time></li>
+      <li title="Date"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time dt-published" datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ post.url | absolute_url }}" class="u-url">{{ post.date | date: "%B %-d, %Y" }}</a></time></li>
     {% endif %}
     {% if post.read_time %}
       <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>

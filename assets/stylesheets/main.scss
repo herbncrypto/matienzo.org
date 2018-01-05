@@ -22,8 +22,9 @@ $btn-small-max:  ($base-font-size / $modular-scale-1 / $modular-scale-1 / $modul
 }
 
 .entry.entry-note, .entry-note .intro { padding-bottom: 0; }
-
-.entry-meta .h-card .icon, .entry-meta .h-card .icon:before, .entry-meta .h-card .icon .u-photo {
+.intro-title a { color: tint($text-color, 25%) !important; text-decoration: none; }
+.intro-title .byline-item .icon { margin-right: 0.5em; }
+.entry-meta .h-card .icon:before, .intro-title .byline-item .icon:before, .icon .u-photo {
   fill: none;
   border-radius: 1 * $border-radius;
 }
@@ -43,7 +44,9 @@ $btn-small-max:  ($base-font-size / $modular-scale-1 / $modular-scale-1 / $modul
   border-radius: 2 * $border-radius
 }
 
-.entry-meta .h-card .icon:before, .layout--about .entry-sidebar .author-picture-wrap:before {
+.icon > img { vertical-align: baseline; }
+
+.entry-meta .h-card .icon:before, .intro-title .byline-item .icon:before, .layout--about .entry-sidebar .author-picture-wrap:before {
   content: "";
   display: block;
   position: absolute;
@@ -55,4 +58,4 @@ $btn-small-max:  ($base-font-size / $modular-scale-1 / $modular-scale-1 / $modul
   transition: all .3s linear;
 }
 
-.entry-meta .h-card .icon:hover:before, .layout--about .entry-sidebar .author-picture-wrap:hover:before { background: none;}
+.entry-meta .h-card .icon:hover:before, .intro-title .byline-item .icon:hover:before, .layout--about .entry-sidebar .author-picture-wrap:hover:before { background: none; }

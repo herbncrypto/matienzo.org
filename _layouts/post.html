@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% capture content_size %}{{ content | strip | size }}{% endcapture %}
 {% capture categories %}{{ page.categories | category_links | size }}{% endcapture %}
 <div class="h-entry {% unless cat == '0' %}entry-{{ page.categories | join: ' entry-' }}{% endunless %}">
 {% include page-intro.html %}
@@ -8,11 +9,13 @@ layout: default
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
     <article class="entry-wrap">
-      <div class="entry-content e-content">
+      <div class="entry-content">
         {% if page.collection == "notes" %}
-        {% capture content_size %}{{ content | strip | size }}{% endcapture %}
-        {% unless content_size == "0" %}{{ content }}{% endunless %}
-        {% else %}{{ content }}{% endif %}
+            <p class="e-content{% if page.title == "" %} p-name{% endif %}">
+              {% if page.title != "" %}<span class="p-name">{% if page.bookmark-of %}<a href="{{ page.bookmark-of[0] }}" rel="u-bookmark-of">{% endif %}{{ page.title }}{% if page.bookmark-of %}</a></span> {{ page.content | remove: "<p>" | remove: "</p>"}}{% endif %}{% else %}
+            {% if page.bookmark-of %}<a href="{{ page.bookmark-of[0] }}" rel="u-bookmark-of">{% endif %}{{ page.content | remove: "<p>" | remove: "</p>" }}{% if page.bookmark-of %}</a>{% endif %}
+            {% endif %}</p>
+          {% else %}{{ content }}{% endif %}
       </div>
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}
