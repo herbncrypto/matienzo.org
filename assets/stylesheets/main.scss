@@ -16,6 +16,8 @@ $monospace-font-family: "Space Mono", "Inconsolata", monospace;
 $btn-small-min:  ($base-font-size / $modular-scale-1 / $modular-scale-1 / $modular-scale-1 / $modular-scale-1);
 $btn-small-max:  ($base-font-size / $modular-scale-1 / $modular-scale-1 / $modular-scale-1 / $modular-scale-1);
 
+iframe#netlify-identity-widget { z-index: 999 !important; }
+
 .btn-small {
   @include fluid-type($min-vw, $max-vw, $btn-small-min, $btn-small-max);
   padding: 0.25em 0.25em;
