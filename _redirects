@@ -1,2 +1,3 @@
 /blog/page/* /posts/page/:splat
 /blog/:year/* /:year/:splat
+/storage/* http://storage.matienzo.org/:splat
