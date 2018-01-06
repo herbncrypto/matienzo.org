@@ -8,4 +8,5 @@ location:
   name: home
   region: CA
 ---
+
 but not great. the editor pages are not responsive
