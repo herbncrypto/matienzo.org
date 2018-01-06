@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{% capture content_size %}{{ content | strip | size }}{% endcapture %}
+{% capture categories %}{{ page.categories | category_links | size }}{% endcapture %}
+<div class="h-entry {% unless cat == '0' %}entry-{{ page.categories | join: ' entry-' }}{% endunless %}">
+{% include page-intro.html %}
+
+<main id="main" class="page-content" aria-label="Content">
+  <div class="inner">
+    <article class="entry-wrap">
+      <div class="entry-content">
+        {% if page.collection == "notes" %}
+            <p class="e-content{% if page.title == "" %} p-name{% endif %}">
+              {% if page.title != "" %}<span class="p-name">{% if page.bookmark-of %}<a href="{{ page.bookmark-of[0] }}" rel="u-bookmark-of">{% endif %}{{ page.title }}{% if page.bookmark-of %}</a></span> {{ page.content | remove: "<p>" | remove: "</p>"}}{% endif %}{% else %}
+            {% if page.bookmark-of %}<a href="{{ page.bookmark-of[0] }}" rel="u-bookmark-of">{% endif %}{{ page.content | remove: "<p>" | remove: "</p>" }}{% if page.bookmark-of %}</a>{% endif %}
+            {% endif %}</p>
+          {% else %}{{ content }}{% endif %}
+      </div>
+      {% if site.disqus.shortname %}
+        {% include disqus_comments.html %}
+      {% endif %}
+    </article>
+
+
+    <nav class="pager">
+      <ul>
+        {% if page.next.url %}
+          <li><a href="{{ page.next.url }}" title="Newer Post: {{ page.next.title }}" class="previous"><span class="icon icon--arrow-left">{% include icon-arrow-left.svg %}</span> {{ site.data.theme.t.newer | default: 'Newer' }}</a></li>
+        {% endif %}
+        {% if page.previous.url %}
+          <li><a href="{{ page.previous.url }}" title="Older Post: {{ page.previous.title }}" class="next">{{ site.data.theme.t.older | default: 'Older' }}<span class="icon icon--arrow-right"> {% include icon-arrow-right.svg %}</span></a></li>
+        {% endif %}
+      </ul>
+    </nav>
+    {% include footer.html %}
+  </div>
+</main>
+</div>
