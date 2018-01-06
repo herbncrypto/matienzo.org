@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: anarchivist/matienzo.org
   branch: master
 media_folder: images
 collections:
@@ -8,6 +9,8 @@ collections:
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: md
+    format: frontmatter
     fields:
       - label: Title
         name: title
@@ -46,6 +49,7 @@ collections:
         required: false
         field:
           - label: URL
+            name: url
             widget: text
       - label: Categories
         name: tags
@@ -77,6 +81,9 @@ collections:
       - label: Date
         name: date
         widget: datetime
+      - label: content
+        name: body
+        widget: markdown
       - label: Location
         name: location
         widget: object
@@ -108,6 +115,7 @@ collections:
         required: false
         field:
           - label: URL
+            name: url
             widget: text
       - label: Categories
         name: tags
@@ -120,6 +128,3 @@ collections:
         field:
           - label: URL
             widget: text
-      - label: content
-        name: body
-        widget: markdown
