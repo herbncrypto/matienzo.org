@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: anarchivist/matienzo.org
+  name: git-gateway
   branch: master
 media_folder: images
 collections:
