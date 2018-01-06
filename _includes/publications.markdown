@@ -20,7 +20,7 @@ Gore, Emily, Mark A. Matienzo, Aaron Devor, Lara Wilson, Meredith R. Evans, and 
 
 [<span class="icon">{% include icon-pdf.svg %}</span>PDF]({{ root_url }}/storage/2009/2009-Jun-WorldCatAPI.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Using the OCLC WorldCat APIs." *Python Magazine* 3(6), June 2009.
 
-[<span class="icon">{% include icon-pdf.svg %}</span>PDF]({{ root_url }}/storage/2008/2008-ArchiveFervourCanonization.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Canonization, Archivalization, and the 'Archival Imaginary'." Paper presented at Archive Fervour/Archive Further: Literature, Archives, and Literary Archives, Aberystwyth, Wales, July 9-11, 2008. Available from [http://hdl.handle.net/10150/216929](http://hdl.handle.net/10150/216929){.
+[<span class="icon">{% include icon-pdf.svg %}</span>PDF]({{ root_url }}/storage/2008/2008-ArchiveFervourCanonization.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Canonization, Archivalization, and the 'Archival Imaginary'." Paper presented at Archive Fervour/Archive Further: Literature, Archives, and Literary Archives, Aberystwyth, Wales, July 9-11, 2008. Available from [http://hdl.handle.net/10150/216929](http://hdl.handle.net/10150/216929).
 
 #### Research Reports, White Papers, and Technical Reports
 

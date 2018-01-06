@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://matienzo.org
+url: https://matienzo.org
 title: Mark A. Matienzo
 subtitle:
 author:
   name: Mark A. Matienzo
   twitter: anarchivist
   picture: /images/matienzo.jpg
-  url: http://matienzo.org
+  url: https://matienzo.org
 lang: en-US
 #description: Thoughts on recordkeeping, technology, and politics
 
