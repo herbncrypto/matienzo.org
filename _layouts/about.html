@@ -3,6 +3,17 @@ layout: default
 ---
 
 {% include page-intro.html %}
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner h-card" id="mark">
@@ -23,14 +34,3 @@ layout: default
     {% include footer.html %}
   </div>
 </main>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
