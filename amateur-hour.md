@@ -1,4 +1,4 @@
 ---
 title: Amateur Hour
-redirect_to: http://matienzo.org/twines/amateur-hour
+redirect_to: /twines/amateur-hour
 ---

@@ -6,7 +6,7 @@
 
 [<span class="icon">{% include icon-pdf.svg %}</span>PDF]({{ root_url }}/storage/2016/2016-JCDL.pdf){:class="no-print btn btn-small"} Karadkar, Unmil P., Audrey Altman, Mark Breedlove, and Mark Matienzo. ["Introduction to the Digital Public Library of America API."](http://dx.doi.org/10.1145/2910896.2925428) Tutorial. In *JCDL '16: Proceedings of the 16th ACM/IEEE-CS on Joint Conference on Digital Libraries.* [doi:10.1145/2910896.2925428](http://dx.doi.org/10.1145/2910896.2925428).
 
-Gore, Emily, Mark A. Matienzo, Aaron Devor, Lara Wilson, Meredith R. Evans, and Joy R. Novak. ["360° - Analysis and Discussion in the Round: Radical Archives"](http://www.archivejournal.net/roundtable/radical-archives-360/). *Archive Journal* 5, Fall 2015. Available from <http://www.archivejournal.net/roundtable/radical-archives-360/>.
+Gore, Emily, Mark A. Matienzo, Aaron Devor, Lara Wilson, Meredith R. Evans, and Joy R. Novak. ["Roundtable: Radical Archives."](http://www.archivejournal.net/roundtable/radical-archives-360/) *Archive Journal* 5, Fall 2015. Available from <http://www.archivejournal.net/roundtable/radical-archives-360/>.
 
 [<span class="icon">{% include icon-pdf.svg %}</span>PDF]({{ root_url }}/storage/2014/2014Aug-DCMI-paper.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. and Amy Rudersdorf. ["The Digital Public Library of America Ingestion Ecosystem: Lessons Learned After One Year of Large-Scale Collaborative Metadata Aggregation."](http://dcpapers.dublincore.org/pubs/article/view/3700) In *Proceedings of the International Conference on Dublin Core and Metadata Applications* 2014. Preprint: [arXiv:1408.1713](http://arxiv.org/abs/1408.1713)
 
