@@ -69,15 +69,12 @@ collections:
     label: "Notes"
     folder: "_notes"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-n5y-{{slug}}"
     fields:
       - label: Title
         name: title
         widget: string
         required: false
-      - label: Slug
-        name: slug
-        widget: string
       - label: Date
         name: date
         widget: datetime
