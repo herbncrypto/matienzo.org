@@ -23,7 +23,7 @@ iframe#netlify-identity-widget { z-index: 999 !important; }
   padding: 0.25em 0.25em;
 }
 
-.entry.entry-note, .entry-note .intro { padding-bottom: 0; }
+.entry.entry-note, .entry-note .intro { padding-bottom: 1rem; }
 .intro-title a { color: tint($text-color, 25%) !important; text-decoration: none; }
 .intro-title .byline-item .icon { margin-right: 0.5em; }
 .entry-meta .h-card .icon:before, .intro-title .byline-item .icon:before, .icon .u-photo {
