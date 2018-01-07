@@ -48,9 +48,12 @@ collections:
         widget: list
         required: false
         field:
+          - label: Name
+            name: name
+            widget: string
           - label: URL
             name: url
-            widget: text
+            widget: string
       - label: Categories
         name: tags
         widget: list
@@ -78,6 +81,17 @@ collections:
       - label: Date
         name: date
         widget: datetime
+      - label: Bookmark of
+        name: bookmark-of
+        widget: list
+        required: false
+        field:
+          - label: name
+            name: name
+            widget: string
+          - label: URL
+            name: url
+            widget: string
       - label: content
         name: body
         widget: markdown
@@ -106,14 +120,7 @@ collections:
             name: country-code
             widget: string
             required: false
-      - label: Bookmark of
-        name: bookmark-of
-        widget: list
-        required: false
-        field:
-          - label: URL
-            name: url
-            widget: text
+            widget: string
       - label: Categories
         name: tags
         widget: list
