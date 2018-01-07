@@ -9,3 +9,4 @@ _site
 sass.old
 vendor
 node_modules
+.netlify
