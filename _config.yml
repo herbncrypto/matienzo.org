@@ -83,7 +83,7 @@ defaults:
       type: notes
     values:
       category: note
-      layout: post
+      layout: note
 
 # ----------------------- #
 #   3rd Party Settings    #

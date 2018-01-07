@@ -13,9 +13,7 @@ layout: default
   <div class="inner">
     <article class="entry-wrap">
       <div class="entry-content">
-      {% if page.collection == "notes" %}
-      {% include note-content.html bookmark_url=bookmark_url bookmark_name=bookmark_name note_content=note_content note_content_size=note_content_size %}
-      {% else %}{{ content }}{% endif %}
+        {{ content }}
       </div>
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}

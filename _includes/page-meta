@@ -1,5 +1,5 @@
 {% include author %}
-  <p class="entry-meta">
+  <div class="entry-meta">
     {% if author_name %}<span class="byline-item" title="Author"><a href="{{ author_url }}" class="p-author h-card"><span class="icon">
       {% if author_picture %}<img src="{{ author_picture }}" class="u-photo"/>{% else %}{% include icon-user.svg %}{% endif %}</span>{{ author_name }}</a></span>{% endif %}
     {% if page.date %}<span class="byline-item" title="Date"><span class="icon">{% include icon-calendar.svg %}</span><time datetime="{{ page.date | date_to_xmlschema }}" class="dt-published">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.updated %} (<time datetime="{{ page.updated | date_to_xmlschema }}" class="dt-updated">updated {{ page.updated | date: "%B %-d, %Y" }})</time></span>{% endif %}{% endif %}
@@ -11,4 +11,4 @@
     {% if page.syndication %}<span class="byline-item" title="Syndicated at"><span class="icon">{% include icon-bullhorn.svg %}</span> {% for syn in page.syndication %}<a rel="syndication" class="u-syndication"
      href="{{ syn }}">{{ forloop.index }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% endif %}
     <span class="byline-item"><span class="icon">{% include icon-link.svg %}</span><a href="{{ page.url | replace:'index.html', '' | absolute_url }}" class="u-url u-uid">Permalink</a></span>
-  </p>
+  </div>
