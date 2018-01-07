@@ -38,6 +38,7 @@ markdown: kramdown
 highlighter: rouge
 
 include:
+  - _headers
   - _redirects
 
 exclude:
