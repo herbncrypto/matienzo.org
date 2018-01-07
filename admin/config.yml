@@ -86,7 +86,7 @@ collections:
         widget: list
         required: false
         field:
-          - label: name
+          - label: Name
             name: name
             widget: string
           - label: URL
