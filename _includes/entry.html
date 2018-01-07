@@ -1,6 +1,9 @@
+{% capture bookmark_url %}{{ post.bookmark-of[0].url }}{% endcapture %}
+{% capture bookmark_name %}{{ post.bookmark-of[0].name }}{% endcapture %}
+{% capture note_content %}{{ post.content | strip }}{% endcapture %}
+{% capture note_content_size %}{{ post.content | strip | size }}{% endcapture %}
 {% capture categories %}{{ post.categories | category_links | size }}{% endcapture %}
-{% assign bks=post.bookmark-of %}
-{% assign bookmark=post.bookmark-of | first %}
+{% capture bookmark %}{{ post.bookmark-of }}{% endcapture %}
 {% capture content_size %}{{ post.content | strip | size }}{% endcapture %}
 {% if post.id %}
   {% assign title = post.title | markdownify | strip_html %}
@@ -11,20 +14,11 @@
 {% endif %}
 <article class="entry h-entry {% unless cat == '0' %}entry-{{ post.categories | join: ' entry-' }}{% endunless %}">
   {% if post.collection == "posts" %}
-  <h2 class="entry-title p-name">
-    {% if post.bookmark %}
-    <a href="{{ post.bookmark[0] }}" rel="u-bookmark-of">
-    {% else %}
-    <a href="{{ post.url | relative_url }}" rel="bookmark u-url">
-    {% endif %}{{ title }}</a>
-  </h2>
+  <h2 class="entry-title p-name"><a href="{{ post.url | relative_url }}" rel="bookmark u-url">{{ title }}</a></h2>
   {% endif %}
   {% if post.collection == "notes" %}
     <div class="entry-excerpt">
-      <p class="e-content{% if post.title == "" %} p-name{% endif %}">
-        {% if post.title != "" %}<span class="p-name">{% if post.bookmark-of %}<a href="{{ post.bookmark-of[0] }}" rel="u-bookmark-of">{% endif %}{{ post.title }}{% if post.bookmark-of %}</a></span> {{ post.content | remove: "<p>" | remove: "</p>"}}{% endif %}{% else %}
-      {% if post.bookmark-of %}<a href="{{ post.bookmark-of[0] }}" rel="u-bookmark-of">{% endif %}{{ post.content | remove: "<p>" | remove: "</p>" }}{% if post.bookmark-of %}</a>{% endif %}
-      {% endif %}</p>
+      {% include note-content.html bookmark_url=bookmark_url bookmark_name=bookmark_name note_content=note_content note_content_size=note_content_size %}
     </div>
   {% elsif post.excerpt %}
   <div class="entry-excerpt p-summary">

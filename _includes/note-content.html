@@ -1,0 +1,6 @@
+<p class="e-content">
+{% if include.bookmark_url != "" %}
+  <a href="{{ include.bookmark_url }}" rel="u-bookmark-of p-name">{{ include.bookmark_name }}</a>
+  ({% assign bkurl = include.bookmark_url | split: '/' %}{{ bkurl[2] | strip }}){% if include.note_content_size != "0" %}:{% endif %}{% endif %}
+{{ include.note_content | remove: "<p>" | remove: "</p>" }}
+</p>

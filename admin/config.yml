@@ -69,9 +69,9 @@ collections:
     label: "Notes"
     folder: "_notes"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-n5y-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - label: Title
+      - label: Slug # This is a nasty workaround for netlify/netlify-cms#445
         name: title
         widget: string
         required: false
