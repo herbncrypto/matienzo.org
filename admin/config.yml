@@ -120,7 +120,6 @@ collections:
             name: country-code
             widget: string
             required: false
-            widget: string
       - label: Categories
         name: tags
         widget: list
