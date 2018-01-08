@@ -14,7 +14,7 @@
 {% endif %}
 <article class="entry h-entry {% unless cat == '0' %}entry-{{ post.categories | join: ' entry-' }}{% endunless %}">
   {% if post.collection == "posts" %}
-  <h2 class="entry-title p-name"><a href="{{ post.url | relative_url }}" rel="bookmark u-url">{{ title }}</a></h2>
+  <h2 class="entry-title p-name"><a href="{{ post.url | relative_url }}" rel="bookmark" class="u-url">{{ title }}</a></h2>
   {% endif %}
   {% if post.collection == "notes" %}
     <div class="entry-excerpt">
@@ -28,8 +28,8 @@
   <footer class="entry-meta">
     <ul>
     {% include author %}
-    {% if author_name %}<li title="Author"><a href="{{ author_url }}" class="p-author h-card"><span class="icon">
-      {% if author_picture %}<img src="{{ author_picture }}" class="u-photo author-picture"/>{% else %}{% include icon-user.svg %}{% endif %}</span>{{ author_name }}</a></span>{% endif %}</li>
+    {% if author_name %}<li title="Author"><a href="{{ author_url }}" class="p-author h-card" ><span class="icon">
+      {% if author_picture %}<img src="{{ author_picture }}" class="u-photo author-picture" alt="Picture of {{ author_name }}"/>{% else %}{% include icon-user.svg %}{% endif %}</span>{{ author_name }}</a>{% endif %}</li>
     {% if post.date %}
       <li title="Date"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time dt-published" datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ post.url | absolute_url }}" class="u-url">{{ post.date | date: "%B %-d, %Y" }}</a></time></li>
     {% endif %}
@@ -42,7 +42,7 @@
           {% for l in post.location %}{% case l[0] %}{% when "name" %}{% when "url" %}{% else %}<span class="p-{{l[0]}}">{{ l[1] ]}}</span>{% endcase %} {% endfor %}</span></li>
     {% endif %}
     {% if post.tags %}{% capture tag %}{{ post.tags | category_links | size }}{% endcapture %}{% unless tag == '0' %}
-      <li title="Categories"><span class="icon">{% include icon-tags.svg %}</span><span class="p-category">{{ post.tags | join: "</span>, <span class='p-category'>" }}</span></span>{% endunless %}</li>
+      <li title="Categories"><span class="icon">{% include icon-tags.svg %}</span><span class="p-category">{{ post.tags | join: "</span>, <span class='p-category'>" }}</span></li>{% endunless %}
     {% endif %}
     {% if post.syndication %}
       <li title="Syndicated at"><span class="icon">{% include icon-bullhorn.svg %}</span>{% for syn in post.syndication %}<a class="u-syndication"
