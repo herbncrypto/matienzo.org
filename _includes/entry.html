@@ -29,7 +29,7 @@
     <ul>
     {% include author %}
     {% if author_name %}<li title="Author"><a href="{{ author_url }}" class="p-author h-card" ><span class="icon">
-      {% if author_picture %}<img src="{{ author_picture }}" class="u-photo author-picture" alt="Picture of {{ author_name }}"/>{% else %}{% include icon-user.svg %}{% endif %}</span>{{ author_name }}</a>{% endif %}</li>
+      {% if author_picture %}<img src="{{ author_picture }}" class="u-photo author-picture" alt="{{ author_name }}"/>{% else %}{% include icon-user.svg %}{% endif %}</span>{{ author_name }}</a>{% endif %}</li>
     {% if post.date %}
       <li title="Date"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time dt-published" datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ post.url | absolute_url }}" class="u-url">{{ post.date | date: "%B %-d, %Y" }}</a></time></li>
     {% endif %}
