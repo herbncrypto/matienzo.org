@@ -37,9 +37,9 @@
       <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>
     {% endif %}
     {% if post.location %}
-      <li title="Location"><span class="icon">{% include icon-location.svg %}</span><span class="p-location h-card">{% if post.location.name %}<a {% if post.location.url %}href="{{ post.location.url }}" class="u-url p-name"{% else %}class="p-name"{% endif %}>{{ post.location.name }}</a> &middot; {% endif %}
-        <span class="h-adr">
-          {% for l in post.location %}{% case l[0] %}{% when "name" %}{% when "url" %}{% else %}<span class="p-{{l[0]}}">{{ l[1] ]}}</span>{% endcase %} {% endfor %}</span></li>
+      <li title="Location"><span class="icon">{% include icon-location.svg %}</span><span class="p-location h-card">
+        {% if post.location.name %}<a {% if post.location.url %}href="{{ post.location.url }}" class="u-url p-name"{% else %}class="p-name"{% endif %}>{{ post.location.name }}</a> &middot; {% endif %}
+        <span class="h-adr">{% for l in post.location %} {% case l[0] %}{% when "name" %}{% when "url" %}{% else %} <span class="p-{{l[0]}}">{{ l[1] ]}}</span>{% endcase %}{% endfor %}</span></span></li>
     {% endif %}
     {% if post.tags %}{% capture tag %}{{ post.tags | category_links | size }}{% endcapture %}{% unless tag == '0' %}
       <li title="Categories"><span class="icon">{% include icon-tags.svg %}</span><span class="p-category">{{ post.tags | join: "</span>, <span class='p-category'>" }}</span></li>{% endunless %}
