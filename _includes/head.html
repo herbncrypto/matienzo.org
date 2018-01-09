@@ -20,7 +20,7 @@
       document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
     }
   </script>
-  {% if page.url == "/"" %}
+  {% if page.layout == "about" %}
   <link rel="feed" type="text/html" title="Mark A. Matienzo's posts" href="/posts/">
   <link rel="feed" type="text/html" title="Mark A. Matienzo's notes" href="/notes/">
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
