@@ -1,7 +1,7 @@
 {% include author %}
   <div class="entry-meta">
     {% if author_name %}<span class="byline-item" title="Author"><a href="{{ author_url }}" class="p-author h-card"><span class="icon">
-      {% if author_picture %}<img src="{{ author_picture }}" class="u-photo" alt="Picture of {{ author_name }}"/>{% else %}{% include icon-user.svg %}{% endif %}</span>{{ author_name }}</a></span>{% endif %}
+      {% if author_picture %}<img src="{{ author_picture }}" class="u-photo" alt="{{ author_name }}"/>{% else %}{% include icon-user.svg %}{% endif %}</span>{{ author_name }}</a></span>{% endif %}
     {% if page.date %}<span class="byline-item" title="Date"><span class="icon">{% include icon-calendar.svg %}</span><time datetime="{{ page.date | date_to_xmlschema }}" class="dt-published">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.updated %} (<time datetime="{{ page.updated | date_to_xmlschema }}" class="dt-updated">updated {{ page.updated | date: "%B %-d, %Y" }})</time>>{% endif %}</span>{% endif %}
     {% if page.location %}
     <span class="byline-item" title="Location"><span class="icon">{% include icon-location.svg %}</span>
