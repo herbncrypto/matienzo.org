@@ -3,8 +3,6 @@
 {% capture note_content %}{{ post.content | strip }}{% endcapture %}
 {% capture note_content_size %}{{ post.content | strip | size }}{% endcapture %}
 {% capture categories %}{{ post.categories | category_links | size }}{% endcapture %}
-{% capture bookmark %}{{ post.bookmark-of }}{% endcapture %}
-{% capture content_size %}{{ post.content | strip | size }}{% endcapture %}
 {% if post.id %}
   {% assign title = post.title | markdownify | strip_html %}
 {% elsif post.title = "" %}
@@ -41,7 +39,7 @@
         {% if post.location.name %}<a {% if post.location.url %}href="{{ post.location.url }}" class="u-url p-name"{% else %}class="p-name"{% endif %}>{{ post.location.name }}</a> &middot; {% endif %}
         <span class="h-adr">{% for l in post.location %} {% case l[0] %}{% when "name" %}{% when "url" %}{% else %} <span class="p-{{l[0]}}">{{ l[1] ]}}</span>{% endcase %}{% endfor %}</span></span></li>
     {% endif %}
-    {% if post.tags %}{% capture tag %}{{ post.tags | category_links | size }}{% endcapture %}{% unless tag == '0' %}
+    {% if post.tags %}{% capture tag %}{{ post.tags | tag_links | size }}{% endcapture %}{% unless tag == '0' %}
       <li title="Categories"><span class="icon">{% include icon-tags.svg %}</span><span class="p-category">{{ post.tags | join: "</span>, <span class='p-category'>" }}</span></li>{% endunless %}
     {% endif %}
     {% if post.syndication %}
