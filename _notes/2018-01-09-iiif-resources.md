@@ -7,5 +7,7 @@ bookmark-of:
       Units of Distribution
     url: >-
       http://resources.digirati.com/iiif/an-introduction-to-iiif/looking-up-and-down.html
+tags:
+  - IIIF
 ---
 
