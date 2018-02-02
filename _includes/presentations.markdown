@@ -1,6 +1,6 @@
 #### National &amp; International Presentations
 
-[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Feb-nlp4arc.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Socially Impactful Digital Libraries and/as Challenges to NLP Application." nlp4arc, Chapel Hill, NC, Feb 2 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Feb-nlp4arc.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Socially Impactful Digital Libraries and/as Challenges to NLP Application." nlp4arc: Enabling New Forms of Access to Primary Sources through Natural Language Processing, Chapel Hill, NC, Feb 2 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Dec-CNI-ArcLight.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "ArcLight: illuminating discovery to delivery for archives & special collections." Coalition for Networked Information Membership Meeting, Washington, DC, Dec 11 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span>
 
@@ -185,7 +185,7 @@ CT, Sep 19 2012.
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Paper]({{ root_url }}/presentations/2011/wikileaks){:class="no-print btn btn-small"} [<span class="icon">{% include icon-play.svg %}</span> Video](http://www.cjh.org/videoarchive/1791){:class="no-print btn btn-small"} Matienzo, Mark A. ["WikiLeaks & the Archives and Records Profession: A Panel Discussion."](http://www.nycarchivists.org/?p=672) Archivists' Roundtable of Metropolitan New York, New York, NY, Jan 25 2011. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
-[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2010/2010Feb-Cornell.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. ["Linked Data and Archival Description: Confluences, Contingencies, and Conflicts."](http://hdl.handle.net/1813/14512 Cornell University Library Metadata Working Group, Ithaca, NY, Feb 23 2010. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2010/2010Feb-Cornell.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. ["Linked Data and Archival Description: Confluences, Contingencies, and Conflicts."](http://hdl.handle.net/1813/14512) Cornell University Library Metadata Working Group, Ithaca, NY, Feb 23 2010. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2009/2009Jun-ARTSemanticWeb.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. ["Archives & The Semantic Web (for Archivists)."](http://www.slideshare.net/anarchivist/archives-the-semantic-web) Archivists' Roundtable of Metropolitan New York, New York, NY, Jun 23 2009. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
