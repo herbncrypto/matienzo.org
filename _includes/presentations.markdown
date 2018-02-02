@@ -1,8 +1,10 @@
 #### National &amp; International Presentations
 
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Feb-nlp4arc.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Socially Impactful Digital Libraries and/as Challenges to NLP Application." nlp4arc, Chapel Hill, NC, Feb 2 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
+
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Dec-CNI-ArcLight.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "ArcLight: illuminating discovery to delivery for archives & special collections." Coalition for Networked Information Membership Meeting, Washington, DC, Dec 11 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span>
 
-[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Nov-RPTF.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Blacklight, ArcLight, and RPTF." Radio Preservation Task Force 2: From Archive to Classroom, Washington, DC, Nov 3 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Invited</span>
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Nov-RPTF.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Blacklight, ArcLight, and RPTF." Radio Preservation Task Force 2: From Archive to Classroom, Washington, DC, Nov 3 2017. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Poster]({{ root_url }}/storage/2017/2017Oct-DCMI-LinkedDataArchives-poster.pdf){:class="no-print btn btn-small"} Matienzo, Mark A., Elizabeth Russey Roke, and Scott Carlson. ["Creating a Linked Data-Friendly Metadata Application Profile for Archival Description"](http://dcevents.dublincore.org/IntConf/dc-2017/paper/view/506) (poster). International Conference on Dublin Core and Metadata Applications, Arlington, VA, Oct 26 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Peer-Reviewed</span>
 
