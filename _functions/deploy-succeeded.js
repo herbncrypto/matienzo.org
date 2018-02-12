@@ -2,7 +2,7 @@ const request = require('request');
 
 exports.handler = function(event, context, callback) {
   var e = JSON.parse(event.body);
-  console.log("event received:\n", Object.keys(e))
+  console.log("event received:\n", JSON.stringify(e.payload, null, 2));
   console.log("[superfeedr] preparing to ping")
   request.post(
     `http://anarchivist.superfeedr.com/?hub.mode=publish&hub.url=https://matienzo.org/*`,
