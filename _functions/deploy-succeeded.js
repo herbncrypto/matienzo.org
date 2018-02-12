@@ -2,7 +2,7 @@ const request = require('request');
 
 exports.handler = function(event, context, callback) {
   var e = JSON.parse(event.body);
-  if e.payload.context == "production" {
+  if (e.payload.context == "production") {
     console.log("[superfeedr] preparing to ping")
     request.post(
       `http://anarchivist.superfeedr.com/?hub.mode=publish&hub.url=https://matienzo.org/*`,
