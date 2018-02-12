@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+
+# Exit if any subcommand fails.
+set -e
+
+# install npm dependencies
+npm i
+
+# build _functions
+npm run-script build
+
+# build site
+bundle
+bundle exec jekyll build
+
+echo "Built Successfully!"
+
+exit 0

@@ -9,4 +9,5 @@ _site
 sass.old
 vendor
 node_modules
+functions
 .netlify

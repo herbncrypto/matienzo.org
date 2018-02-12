@@ -1,2 +1,5 @@
 [context.production.environment]
   JEKYLL_ENV = "production"
+
+[build]
+  functions = "functions"

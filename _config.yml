@@ -47,6 +47,10 @@ exclude:
   - Gemfile.lock
   - rsync-exclude
   - config.rb
+  - functions
+  - node_modules
+  - package.json
+  - package
 
 excerpt_separator: <!--more-->
 
