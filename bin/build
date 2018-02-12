@@ -3,9 +3,6 @@
 # Exit if any subcommand fails.
 set -e
 
-# install npm dependencies
-npm i
-
 # build _functions
 npm run-script build
 
