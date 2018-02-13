@@ -3,6 +3,9 @@ layout: post
 title: "Sending WebSub notifications from static sites using Netlify functions"
 date: "2018-02-13 16:33:46 -0500"
 comments: true
+syndication:
+- https://twitter.com/anarchivist/status/963540419408744454
+- https://news.indieweb.org/en
 ---
 
 As part of my [iterative intentions for 2018]({{ site.baseurl }}{% link _posts/2018-01-01-iterative-intentions.markdown %}), I started a project to rebuild and simplify my website. I've used Jekyll for quite some time (either by itself or with Octopress), and as part of the latest iteration of the site, I've been working to align the site more with [Indieweb](https://indieweb) principles, and to smooth the deployment path for my site by hosting it on [Netlify](https://netlify.com/).
