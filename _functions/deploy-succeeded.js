@@ -1,5 +1,9 @@
 const request = require('request');
-const SUPERFEEDR_USERNAME = 'specify-using-env-variable';
+const toml = require('toml');
+const config = toml.parse(fs.readFileSync('netlify.toml'));
+const SUPERFEEDR_USERNAME = process.env.SUPERFEEDR_USERNAME !== undefined
+  ? process.env.SUPERFEEDR_USERNAME
+  : config.context.production.environment.SUPERFEEDR_USERNAME;
 
 exports.handler = function(event, context, callback) {
   var e = JSON.parse(event.body);

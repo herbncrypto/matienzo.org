@@ -4,7 +4,6 @@
 set -e
 
 # build _functions
-sed -i s/\${SUPERFEEDR_USERNAME}/$SUPERFEEDR_USERNAME/g _functions/deploy-succeeded.js
 npm run-script build
 
 # build site
