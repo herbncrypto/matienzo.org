@@ -6,6 +6,7 @@ comments: true
 syndication:
 - https://twitter.com/anarchivist/status/963540419408744454
 - https://news.indieweb.org/en
+- https://chaos.social/@anarchivist/99524168687151250
 ---
 
 As part of my [iterative intentions for 2018]({{ site.baseurl }}{% link _posts/2018-01-01-iterative-intentions.markdown %}), I started a project to rebuild and simplify my website. I've used Jekyll for quite some time (either by itself or with Octopress), and as part of the latest iteration of the site, I've been working to align the site more with [Indieweb](https://indieweb.org/) principles, and to smooth the deployment path for my site by hosting it on [Netlify](https://netlify.com/).
