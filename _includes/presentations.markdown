@@ -193,6 +193,8 @@ CT, Sep 19 2012.
 
 #### <span class="no-print">Miscellaneous Presentations, Lightning Talks and Unconference Sessions</span>
 
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Feb-code4lib.pdf){:class="no-print btn btn-small"}<span class="no-print">Matienzo, Mark A. "indieweb + code4lib = ♥." code4lib, Washington DC, Feb 14 2018. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
+
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Mar-LDCX-ArcLight.pdf){:class="no-print btn btn-small"}<span class="no-print">Matienzo, Mark A. "ArcLight: Illuminating Archives." LDCX, Stanford University, Mar 27 2017. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Mar-Code4lib-ArcLight.pdf){:class="no-print btn btn-small"}<span class="no-print">Matienzo, Mark A. "ArcLight." Code4lib, Los Angeles, CA, Mar 8 2017. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
