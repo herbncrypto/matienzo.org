@@ -17,7 +17,7 @@ Redwood City, CA — _{% include icon-email.svg %}_{:class="icon"} mark@matienzo
 
 _<span class="icon">{% include icon-stopwatch.svg %}</span>Full-Time_{:class="no-print btn btn-small"} *Collaboration &amp; Interoperability Architect* (IT Systems Analyst 3), Stanford University Library, Stanford, CA (Sep 2016 - Present)<br/>
 
-> Serves as an expert in the software, standards, architectures and models for technologies for libraries, archives and museums. Serves as a technologist, advocate, and facilitor to meet Stanford Libraries' objective of developing mutually rewarding collaborations, development of shared solutions, and convergence on common architectures, models and standards in the digital library sector.
+> Serves as an expert in the software, standards, architectures and models for technologies for libraries, archives and museums. Serves as a technologist, advocate, and facilitator to meet Stanford Libraries' objective of developing mutually rewarding collaborations, development of shared solutions, and convergence on common architectures, models and standards in the digital library sector.
 
 _<span class="icon">{% include icon-stopwatch.svg %}</span>Full-Time_{:class="no-print btn btn-small"} *Director of Technology*, Digital Public Library of America, Boston, MA (Dec 2013 - Sep 2016)<br/>
 
