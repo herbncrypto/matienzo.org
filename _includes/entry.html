@@ -21,6 +21,7 @@
   {% elsif post.excerpt %}
   <div class="entry-excerpt p-summary">
     {{ post.excerpt | markdownify }}
+    <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
   </div>
   {% else %}<div class="entry-excerpt p-summary e-content">{{ post.content }}</div>{% endif %}
   <footer class="entry-meta">
