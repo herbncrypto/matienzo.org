@@ -4,6 +4,8 @@
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Dec-CNI-ArcLight.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "ArcLight: illuminating discovery to delivery for archives & special collections." Coalition for Networked Information Membership Meeting, Washington, DC, Dec 11 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span>
 
+Matienzo, Mark A. "Prototyping the Digital Library of the Middle East." Linked Pasts III: New Voices, Old Places, Stanford University, Stanford, CA, Dec 4 2017. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
+
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Nov-RPTF.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Blacklight, ArcLight, and RPTF." Radio Preservation Task Force 2: From Archive to Classroom, Washington, DC, Nov 3 2017. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Poster]({{ root_url }}/storage/2017/2017Oct-DCMI-LinkedDataArchives-poster.pdf){:class="no-print btn btn-small"} Matienzo, Mark A., Elizabeth Russey Roke, and Scott Carlson. ["Creating a Linked Data-Friendly Metadata Application Profile for Archival Description"](http://dcevents.dublincore.org/IntConf/dc-2017/paper/view/506) (poster). International Conference on Dublin Core and Metadata Applications, Arlington, VA, Oct 26 2017. <span class="label label-warning"><i class="icon-ok-circle"></i> Peer-Reviewed</span>
@@ -156,6 +158,8 @@ Matienzo, Mark A. "Perspectives of Encoded Archival Description at the Instituti
 
 #### Local Presentations
 
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Apr-ARL-SULs.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Digital Libraries at Stanford: Infrastructure, Services, & Projects for Accessible Content." ARL Diversity, Equity, and Inclusion Programs webinar, Apr 26 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
+
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2015/2015Nov-NYU-DPLA.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Improving Metadata and Reuse Across the Network." HIST-GA.2031: Advanced Archival Description (guest lecture), New York University, New York, NY, Nov 23 2015. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2015/2015Oct-UMD.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "DPLA: Partnering for Discovery, Reuse, and Metadata Quality." INST 643: Curation in Cultural Institutions (guest lecture), University of Maryland, College Park, MD, Oct 13 2015. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
@@ -192,6 +196,8 @@ CT, Sep 19 2012.
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2009/2009May-NYSemWeb.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Archives & The Semantic Web (for Semantic Technologists)." New York Semantic Web Meetup, New York, NY, May 13 2009. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 #### <span class="no-print">Miscellaneous Presentations, Lightning Talks and Unconference Sessions</span>
+
+Villa, Camille and Mark A. Matienzo. "Feedback Frameworks for Developers." Stanford University Libraries Developer Roundtable, Apr 26 2018. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Feb-code4lib.pdf){:class="no-print btn btn-small"}<span class="no-print">Matienzo, Mark A. "indieweb + code4lib = ♥." code4lib, Washington DC, Feb 14 2018. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span></span>
 
