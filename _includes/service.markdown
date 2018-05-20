@@ -5,10 +5,11 @@
 * *BitCurator*, University of North Carolina. Development Advisory Group, Oct 2011 - Sep 2014.
 * *BitCurator NLP*, University of North Carolina. Advisory Board Member, Oct 2016 - Present.
 * *Code4lib 2015.* Program Committee Member, Oct 2014 - Mar 2015.
-* *ePADD Phase 2*, Stanford University. Advisory Board, Nov 2015 - Present.
-* *Exploring Benefits for Users of Linked Open Data for Digitized Special Collections*, University of Illinois. Sep 2016 - Present.
+* *DCMI 2018*, Program Committee Member, 2018.
+* *ePADD Phase 2*, Stanford University. Advisory Board, 2015 - 2018.
+* *Exploring Benefits for Users of Linked Open Data for Digitized Special Collections*, University of Illinois. Advisory Board, 2016 - 2017.
 * *Institute for Museum and Library Services.* Peer Reviewer, 2010-2012, 2014-2015.
-* *International Rights Statements Working Group.* Technical Co-Chair, Apr 2014 - Present.
+* *JCDL 2017.* Program Committee Member, 2017.
 * *Media Archaeology Lab*, University of Colorado. Advisory Board, Oct 2012 - Present.
 * *Museum Computer Network. Standards Special Interest Group.* Chair, Nov 2008 - Oct 2009.
 * *National Endowment for the Humanities.* Peer Reviewer, 2011.
@@ -16,6 +17,7 @@
 * *OCLC Research. RLG Programs. Barriers to Using EAD Working Group.* Nov 2008 - Mar 2010.
 * *OCLC Research. RLG Programs. Sharing &amp; Aggregating Social Metadata Working Group.* Jan 2009 - Aug 2009.
 * *PeriodO 2*, University of Texas. Advisory Board Member, June 2016 - Present.
+* *RightsStatements.org.* Technical Working Group Co-Chair, Apr 2014 - Present.
 * *Social Feed Manager*, George Washington University. Advisory Board Member, 2013 - 2016.
 * *Society of American Archivists. Communications Technology Working Group.* Sep 2007 - Aug 2009.
 * *Society of American Archivists. Description Section.* Co-Chair, Aug 2006 - Aug 2008.
