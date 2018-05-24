@@ -1,6 +1,6 @@
 #### National &amp; International Presentations
 
-[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018May-IIIF-content-search.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Implementing the IIIF Content Search API at Stanford." IIIF Conference, May 24 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018May-IIIF-content-search.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Implementing the IIIF Content Search API at Stanford." IIIF Conference, Washington, DC, May 24 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Feb-nlp4arc.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Socially Impactful Digital Libraries and/as Challenges to NLP Application." nlp4arc: Enabling New Forms of Access to Primary Sources through Natural Language Processing, Chapel Hill, NC, Feb 2 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
