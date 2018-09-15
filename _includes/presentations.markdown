@@ -1,5 +1,11 @@
 #### National &amp; International Presentations
 
+Matienzo, Mark A. ["Evidence of Them: Digitization, Preservation &amp; Labor."]({{ root_url }}/2018/evidence-of-them-digitization-preservation-and-labor/) Session 507: Digitization IS/NOT Preservation. Society of American Archivists, Washington, DC, Aug 17 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Aug-SAA-LinkedData.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "A Minimum Viable Strategy for Archives and Linked Data using Schema.org." Session 303: Progress (and Pitfalls) of Linked Data Projects. Society of American Archivists, Washington, DC, Aug 16 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Aug-SAA-EAS.pdf){:class="no-print btn btn-small"} Gonzalez, Gloria, Elizabeth Russey Roke, and Mark A. Matienzo. "What Can Linked Data do for Archives?" Encoded Archival Standards Section. Society of American Archivists, Washington, DC, Aug 15 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018May-IIIF-content-search.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Implementing the IIIF Content Search API at Stanford." IIIF Conference, Washington, DC, May 24 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Feb-nlp4arc.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Socially Impactful Digital Libraries and/as Challenges to NLP Application." nlp4arc: Enabling New Forms of Access to Primary Sources through Natural Language Processing, Chapel Hill, NC, Feb 2 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
@@ -135,6 +141,10 @@ Arnold, Hillel, Maureen Callahan, Ben Goldman, Tom Johnson, Mark A. Matienzo, an
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2007/20070831){:class="no-print btn btn-small"} Matienzo, Mark A., Amelia Abreu, Meredith Ferguson, and Merrilee Proffitt. ["Rethinking Access And Descriptive Practice."](http://www.ibiblio.org/saawiki/2007/index.php/Session:_Rethinking_Access_and_Descriptive_Practice_%28Session_503%29) Society of American Archivists, Chicago, IL, Aug 31 2007. <span class="label label-warning"><i class="icon-ok-circle"></i> Reviewed</span> <span class="label label-success"><i class="icon-user"></i> Chair</span>
 
 #### Regional Presentations
+
+Elkin, Aliza, Mallory Furnier, Monika Chavez, Elisa Rodrigues, and Mark A. Matienzo. "Mixed Feelings: Negotiating Mixed and Multiracial Identity, Racial Imposter Syndrome, and Passing for White While Serving Diverse Student Populations." New Librarian Sumit, San José, CA, Aug 3 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
+Matienzo, Mark A. "Implementing the IIIF Content Search API at Stanford." IIIF Conference, Washington, DC, May 24 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Apr-NCTPG.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Click to add title." Northern California Technical Process Group, San Francisco, CA, Apr 28, 2017. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
