@@ -6,6 +6,9 @@ comments: true
 tags:
 - recipes
 - food
+syndication:
+- https://news.indieweb.org/en
+- https://twitter.com/anarchivist/status/1043324950881259521
 ---
 
 We are growing three kinds of basil in our garden: "regular" basil, purple basil, and Magic Mountain basil. The regular basil and Magic Mountain basil have been thriving quite a bit; the purple basil, less so, as it is growing at the base of the regular basil plant. But the other two, my goodness. The regular old basil was going to seed, though, much to the chagrin of my partner. I'd promised for weeks on end to do something with all that basil, as the stems grew woodier, and as the flowers turned from brilliant white to the brown of kraft paper. Meanwhile, the Magic Mountain basil also grew tall and bushy, went to flower, but only because that's what it's supposed to do.
