@@ -25,4 +25,4 @@ _pesto_
 * one to one and a half parts umami/textural stuff (shredded hard cheese, nuts, breadcrumbs, maybe some dried mushrooms if you wanna get wild)
 * some alliums (garlic if you're a traditionalist, could get wild with some scapes or shallots)
 
-Chop how you'd like, as much as you'd like. Mix it together in some kind of bowl or vessel. Add salt, pepper, or anything else you like. Taste it; if you don't like it, add what feels like it might be missing. If you make a lot, stick some in the freezer as a nice surprise. If you want to make a spread out it, add some yogurt, or sour cream, or coconut milk.
+Chop how you'd like, as much as you'd like. Mix it together in some kind of bowl or vessel. Add salt, pepper, or anything else you like. Taste it; if you don't like it, add what feels like it might be missing. If you make a lot, stick some in the freezer as a nice surprise. If you want to make a spread out of it, add some yogurt, or sour cream, or coconut milk.
