@@ -1,5 +1,7 @@
 #### National &amp; International Presentations
 
+Matienzo, Mark A. ["Integrating Crowdsourcing Projects for Archives Using IIIF."]({{ root_url }}/storage/2018/2018Dec-IIIF-CrowsourcingArchives.pdf) IIIF Showcase, Edinburgh, Scotland, Dec 3 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
+
 Matienzo, Mark A. ["Evidence of Them: Digitization, Preservation &amp; Labor."]({{ root_url }}/2018/evidence-of-them-digitization-preservation-and-labor/) Session 507: Digitization IS/NOT Preservation. Society of American Archivists, Washington, DC, Aug 17 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Aug-SAA-LinkedData.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "A Minimum Viable Strategy for Archives and Linked Data using Schema.org." Session 303: Progress (and Pitfalls) of Linked Data Projects. Society of American Archivists, Washington, DC, Aug 16 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
