@@ -144,9 +144,7 @@ Arnold, Hillel, Maureen Callahan, Ben Goldman, Tom Johnson, Mark A. Matienzo, an
 
 #### Regional Presentations
 
-Elkin, Aliza, Mallory Furnier, Monika Chavez, Elisa Rodrigues, and Mark A. Matienzo. "Mixed Feelings: Negotiating Mixed and Multiracial Identity, Racial Imposter Syndrome, and Passing for White While Serving Diverse Student Populations." New Librarian Sumit, San José, CA, Aug 3 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
-
-Matienzo, Mark A. "Implementing the IIIF Content Search API at Stanford." IIIF Conference, Washington, DC, May 24 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+Elkin, Aliza, Mallory Furnier, Monika Chavez, Elisa Rodrigues, and Mark A. Matienzo. "Mixed Feelings: Negotiating Mixed and Multiracial Identity, Racial Imposter Syndrome, and Passing for White While Serving Diverse Student Populations." New Librarian Summit, San José, CA, Aug 3 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2017/2017Apr-NCTPG.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Click to add title." Northern California Technical Process Group, San Francisco, CA, Apr 28, 2017. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
