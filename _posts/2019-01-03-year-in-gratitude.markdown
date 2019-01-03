@@ -7,6 +7,10 @@ tags:
 - music
 - archives
 - leadership
+syndication:
+- https://news.indieweb.org/en
+- https://twitter.com/anarchivist/status/1080955823776362496
+- https://chaos.social/@anarchivist/101355037220172431
 ---
 
 This year was largely complicated and often felt like a massive garbage fire to myself and my crew. I didn't accomplish a number of my goals and was [inconsistent about others]({{ site.baseurl }}{% link _posts/2018-01-01-iterative-intentions.markdown %}), so recapping awesome things I did doesn't feel appropriate and also happens to be a soft reminder of either failure or things not going as planned. I also tend to hate "best of the year" lists but I find them helpful to remember about where I found joy or the ability to connect to something outside of myself. I suppose this is an attempt to reconcile those things, or perhaps more in line with the end of year spirit, a way to articulate gratitude to the people and things around me that impacted me. <!--more-->
