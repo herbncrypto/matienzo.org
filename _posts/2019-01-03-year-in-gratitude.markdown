@@ -24,7 +24,7 @@ This year was largely complicated and often felt like a massive garbage fire to 
 
 ## Personal life
 
-* My partner, Chela, has been a great source of support and strength. She has really done the world and helped me think through where I'm headed.
+* My partner, Chela, has been a great source of support and strength. She has really done the world for me and helped me think through where I'm headed.
 * The [San Mateo Quaker Worship Group](https://sanmateoquakers.org/) has been instrumental in resituating my spiritual life.
 * Getting the courage to reconnect with the creative process around music has been huge. I just issued [digital rerelease](https://blacktent.bandcamp.com/album/poikilohydry) of a tape from 15+ years ago that I remain proud of. I'm grateful to everyone who encouraged me or gave me advice as I relearn lots of stuff about recording and music technology.
 
