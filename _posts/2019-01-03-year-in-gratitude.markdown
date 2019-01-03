@@ -50,4 +50,4 @@ This is not a ranked list, nor a list based on number of listens. Lots of record
 
 ## What's next
 
-I want to extend this practice of gratitude into this new year, and I'm going to keep my goals a little closer to the chest at the suggestion of a few folks. However, I think that gratitude really needs to not be something to be reflected at the end of something - be it a year, a project, or anything else.  I look forward to reestablishing a sense of connection between people and place and appreciating both of them. and hope you'll join me in doing the same.
+I want to extend this practice of gratitude into this new year, and I'm going to keep my goals a little closer to the chest at the suggestion of a few folks. However, I think that gratitude really needs to not be something to be reflected at the end of something - be it a year, a project, or anything else.  I look forward to reestablishing a sense of connection between people and place and appreciating both of them, and hope you'll join me in doing the same.
