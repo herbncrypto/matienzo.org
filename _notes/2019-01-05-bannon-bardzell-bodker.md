@@ -7,11 +7,9 @@ bookmark-of:
       participatory design", Interactions 26(1)
     url: >-
       http://interactions.acm.org/archive/view/january-february-2019/reimagining-participatory-design
-location: {}
 tags:
   - to read
   - hci
-syndication: []
 ---
 > Another opportunity is for PD to engage the more overtly political approaches to design that have emerged in HCI in recent years: Feminist HCI, postcolonial computing, and participatory action research all come to mind. Each of these foregrounds social conflict as a condition of computing, and each features sophisticated theories of power, participation, and intervention. Yet none of them have as yet been developed specifically as design methodologies.
 >
