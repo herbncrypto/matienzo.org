@@ -6,7 +6,7 @@ footer: false
 sidebar: false
 ---
 
-Redwood City, CA — _{% include icon-email.svg %}_{:class="icon"} mark@matienzo.org — _{% include icon-link.svg %}_{:class="icon"} www.matienzo.org
+San Mateo, CA — _{% include icon-email.svg %}_{:class="icon"} mark@matienzo.org — _{% include icon-link.svg %}_{:class="icon"} www.matienzo.org
 
 ### Education
 
@@ -15,7 +15,11 @@ Redwood City, CA — _{% include icon-email.svg %}_{:class="icon"} mark@matienzo
 
 ### Experience
 
-_<span class="icon">{% include icon-stopwatch.svg %}</span>Full-Time_{:class="no-print btn btn-small"} *Collaboration &amp; Interoperability Architect* (IT Systems Analyst 3), Stanford University Library, Stanford, CA (Sep 2016 - Present)<br/>
+_<span class="icon">{% include icon-stopwatch.svg %}</span>Full-Time_{:class="no-print btn btn-small"} *Assistant Director for Digital Strategy and Access* (IT Technical Manager 2), Stanford University Libraries, Stanford, CA (Mar 2019 - )<br/>
+
+> Manages the digital library discovery, access, and delivery portfolio for Stanford Libraries, including the library website, collection discovery, online exhibits, and more. Oversees a team of seven software engineers and user experience designers. Responsible for strategic and technical leadership for collaborative digital library projects undertaken by Stanford Libraries, including project conception, budgeting, proposal development, and delivery.
+
+_<span class="icon">{% include icon-stopwatch.svg %}</span>Full-Time_{:class="no-print btn btn-small"} *Collaboration &amp; Interoperability Architect* (IT Systems Analyst 3), Stanford University Libraries, Stanford, CA (Sep 2016 - Mar 2019)<br/>
 
 > Serves as an expert in the software, standards, architectures and models for technologies for libraries, archives and museums. Serves as a technologist, advocate, and facilitator to meet Stanford Libraries' objective of developing mutually rewarding collaborations, development of shared solutions, and convergence on common architectures, models and standards in the digital library sector.
 
