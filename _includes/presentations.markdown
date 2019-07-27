@@ -1,5 +1,11 @@
 #### National &amp; International Presentations
 
+Matienzo, Mark A. "Perspectives from the Repository Community: Fedora and Samvera." Session 609: Standards for Sustainability: Ensuring Sustainable Programs with It Takes a Village. Society of American Archivists, Austin, TX, Aug 5 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
+Horton, Bob, Jennifer Gregg, and Mark Matienzo. "A Digital Hub for LGBTQ Collections." Queer History Conference, San Francisco, CA, Jun 18 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
+Horton, Bob, Jennifer Gregg, and Mark Matienzo. "A Digital Hub for LGBTQ Collections." Queer History South Conference, Birmingham, AL, Mar 28 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
+
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2018/2018Dec-IIIF-CrowdsourcingArchives.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Integrating Crowdsourcing Projects for Archives Using IIIF." IIIF Showcase, Edinburgh, Scotland, Dec 3 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 Matienzo, Mark A. ["Evidence of Them: Digitization, Preservation &amp; Labor."]({{ root_url }}/2018/evidence-of-them-digitization-preservation-and-labor/) Session 507: Digitization IS/NOT Preservation. Society of American Archivists, Washington, DC, Aug 17 2018. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
@@ -208,6 +214,8 @@ CT, Sep 19 2012.
 [<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2009/2009May-NYSemWeb.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Archives & The Semantic Web (for Semantic Technologists)." New York Semantic Web Meetup, New York, NY, May 13 2009. <span class="label label-info"><i class="icon-ok-circle"></i> Invited</span>
 
 #### <span class="no-print">Miscellaneous Presentations, Lightning Talks and Unconference Sessions</span>
+
+<span class="no-print">[<span class="icon">{% include icon-play.svg %}</span> Video](https://www.youtube.com/watch?v=uXYIjJrfqnI#t=49m25s){:class="no-print btn btn-small"} Matienzo, Mark A. ["Whither CSVs?: On Continuity, Inclusion, and Safety."](http://bit.ly/c4l19-csv) code4lib, San Jose, CA, Feb 20 2019. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span>
 
 Villa, Camille and Mark A. Matienzo. "Feedback Frameworks for Developers." Stanford University Libraries Developer Roundtable, Apr 26 2018. <span class="label label-warning"><i class="icon-warning-sign"></i> Lightning Talk</span>
 
