@@ -1,5 +1,9 @@
 #### National &amp; International Presentations
 
+Matienzo, Mark A. and Camille Villa. "Lighting the Way: illuminating the future of discovery and delivery for archives." DLF Forum, Tampa, FL, Oct 15 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span> 
+
+Chassanoff, Alexandra, Anne Wells, Snowden Becker, Mark A. Matienzo and Rachel Mattson. "Reconfiguring Archives." Maintainers III, Washington, DC, Oct 7 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
 Matienzo, Mark A. "Perspectives from the Repository Community: Fedora and Samvera." Session 609: Standards for Sustainability: Ensuring Sustainable Programs with It Takes a Village. Society of American Archivists, Austin, TX, Aug 5 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
 Horton, Bob, Jennifer Gregg, and Mark Matienzo. "A Digital Hub for LGBTQ Collections." Queer History Conference, San Francisco, CA, Jun 18 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
