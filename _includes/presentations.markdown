@@ -1,10 +1,14 @@
-#### National &amp; International Presentations
+#### National &amp; International Presentationscn
 
-Matienzo, Mark A. and Camille Villa. "Lighting the Way: illuminating the future of discovery and delivery for archives." DLF Forum, Tampa, FL, Oct 15 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span> 
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2019/2019Dec-CAS.pdf){:class="no-print btn btn-small"} Goodmann, Emily, Mark A. Matienzo, Shawn VanCour, and William Vanden Dries.  "Building the National Radio Recordings Database: A Big Data Approach to Documenting Audio Heritage." 4th Computational Archival Science Workshop, IEEE Big Data 2019, Los Angeles, CA, Dec 11 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2019/2019Dec-CNI.pdf){:class="no-print btn btn-small"} Matienzo, Mark A., Audra Eagle Yun, Hillel Arnold, and Tom Cramer. "Developing a Community-Based Strategic Agenda for the Transformation of Archival Discovery and Delivery." Coalition for Networked Information Membership Meeting, Washington, DC, Dec 9 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2019/2019Oct-DLF-LightingtheWay.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. and Camille Villa. "Lighting the Way: illuminating the future of discovery and delivery for archives." DLF Forum, Tampa, FL, Oct 15 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
 Chassanoff, Alexandra, Anne Wells, Snowden Becker, Mark A. Matienzo and Rachel Mattson. "Reconfiguring Archives." Maintainers III, Washington, DC, Oct 7 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
-Matienzo, Mark A. "Perspectives from the Repository Community: Fedora and Samvera." Session 609: Standards for Sustainability: Ensuring Sustainable Programs with It Takes a Village. Society of American Archivists, Austin, TX, Aug 5 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
+[<span class="icon">{% include icon-pdf.svg %}</span>Slides]({{ root_url }}/storage/2019/2019Aug-SAA-ITAV.pdf){:class="no-print btn btn-small"} Matienzo, Mark A. "Perspectives from the Repository Community: Fedora and Samvera." Session 609: Standards for Sustainability: Ensuring Sustainable Programs with It Takes a Village. Society of American Archivists, Austin, TX, Aug 5 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
 Horton, Bob, Jennifer Gregg, and Mark Matienzo. "A Digital Hub for LGBTQ Collections." Queer History Conference, San Francisco, CA, Jun 18 2019. <span class="label label-info"><i class="icon-ok-circle"></i> Reviewed</span>
 
